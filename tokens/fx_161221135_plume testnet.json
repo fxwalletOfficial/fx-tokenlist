@@ -1,0 +1,15 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.635Z",
+  "tokens": [
+    {
+      "chainId": 161221135,
+      "address": "0xbA22114ec75f0D55C34A5E5A3cf384484Ad9e733",
+      "name": "Goon Testnet Token",
+      "symbol": "GOON",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1722397530744-plume_network_logo.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.642Z",
+  "tokens": [
+    {
+      "chainId": 60808,
+      "address": "0x96147A9Ae9a42d7Da551fD2322ca15B71032F342",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1721358874086-stone.jpeg"
+    },
+    {
+      "chainId": 60808,
+      "address": "0xd7C6CC5AEf7396182c5D7EbdAc66fF674F3DdcF4",
+      "name": "Segment ETH",
+      "symbol": "seETH",
+      "decimals": 8,
+      "logoURI": "https://file.test.fxwallet.com/token/1721358747821-eth.png"
+    },
+    {
+      "chainId": 60808,
+      "address": "0xb4255533Ad74A25A83d17154cB48A287E8f6A811",
+      "name": "sbETH",
+      "symbol": "sbETH",
+      "decimals": 8,
+      "logoURI": "https://file.test.fxwallet.com/token/1721358698840-eth.png"
+    },
+    {
+      "chainId": 60808,
+      "address": "0x05D032ac25d322df992303dCa074EE7392C117b9",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://file.test.fxwallet.com/token/1721358474493-usdt.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

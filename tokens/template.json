@@ -1,0 +1,15 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-23T07:00:24.985+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x****",
+      "name": "name",
+      "symbol": "symbol",
+      "decimals": 18,
+      "logoURI": "fx.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

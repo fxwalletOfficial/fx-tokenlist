@@ -1,0 +1,23 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.644Z",
+  "tokens": [
+    {
+      "chainId": 34443,
+      "address": "0x80137510979822322193fc997d400d5a6c747bf7",
+      "name": "StakeStone ETH",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/a63f3e8d292ed8d9aab5d5af1f0eeabd2c95c24fc4cce0a8b080a8616570943f.png"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+      "name": "MODE",
+      "symbol": "MODE",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/62d8b4b604953fb7c887074f0aa81039478dfc62a23dc33059041faaff64fdd4.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

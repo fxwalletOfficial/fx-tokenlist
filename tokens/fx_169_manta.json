@@ -1,0 +1,23 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.646Z",
+  "tokens": [
+    {
+      "chainId": 169,
+      "address": "0xf584c4521bb890b0ad1eb68a9b1113339e0a7e85",
+      "name": "MantaSwap",
+      "symbol": "MTS",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/5ad6e45ec1a998790c68358e9c090def5d36b7b36cfaee9271ca325a6d504365.png"
+    },
+    {
+      "chainId": 169,
+      "address": "0x1c466b9371f8aba0d7c458be10a62192fcb8aa71",
+      "name": "Bridged Dai Stablecoin  Manta Pacific ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/b5c9834bfb3e9d198aff9efc07dcfb162ee801029b081674334ba871c9927cb7.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.645Z",
+  "tokens": [
+    {
+      "chainId": 810180,
+      "address": "0x1a1a3b2ff016332e866787b311fcb63928464509",
+      "name": "Nova Merged USDC  zkLink ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://file.test.fxwallet.com/token/7f66569db21a59b7baf195da6e30dbd86278b14f1fcfa53e1745f4a21b4590c7.png"
+    },
+    {
+      "chainId": 810180,
+      "address": "0xda4aaed3a53962c83b35697cd138cc6df43af71f",
+      "name": "Nova Merged wBTC  zkLink ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://file.test.fxwallet.com/token/70f8a5df4cd6831846fdf0fff5b86781b18005be2bf571b63d73bc297d7c1f27.png"
+    },
+    {
+      "chainId": 810180,
+      "address": "0xf573fa04a73d5ac442f3dea8741317feaa3cdeab",
+      "name": "Nova Merged DAI  zkLink ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/e3f87c2e2b09fd31d69343e43419637d505d27e270bb5937d2ffff0f061024c9.png"
+    },
+    {
+      "chainId": 810180,
+      "address": "0x2f8a25ac62179b31d62d7f80884ae57464699059",
+      "name": "Nova Merged USDT  zkLink ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://file.test.fxwallet.com/token/d03aba55adb076bac16f3c2dcc8c8aa97f0abd6d7556411df48e48f381736136.png"
+    },
+    {
+      "chainId": 810180,
+      "address": "0xbeaf16cfd8efe0fc97c2a07e349b9411f5dc272c",
+      "name": "Solv Protocol solvBTC",
+      "symbol": "SOLVBTC",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/73c478f3adafd77d9ac96435f9ce71a97e409c72ae00508f2a978652fa681b1b.png"
+    },
+    {
+      "chainId": 810180,
+      "address": "0xc967dabf591b1f4b86cfc74996ead065867af19e",
+      "name": "zkLink",
+      "symbol": "ZKL",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/92a962de04534d335186fd059a42b293e8cc9d5c6d717668805e5715f1273e08.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

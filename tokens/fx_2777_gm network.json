@@ -1,0 +1,31 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.634Z",
+  "tokens": [
+    {
+      "chainId": 2777,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1723530699565-eth.png"
+    },
+    {
+      "chainId": 2777,
+      "address": "0xc390E699b38F14dB884C635bbf843f7B135113ad",
+      "name": "TBBT",
+      "symbol": "TBBT",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 2777,
+      "address": "0x6206a1630C3E138cdE132117795Fa41b8797C295",
+      "name": "Art Token ",
+      "symbol": "ART",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

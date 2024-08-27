@@ -1,0 +1,15 @@
+{
+  "name": "fx",
+  "timestamp": "2024-08-27T08:14:13.645Z",
+  "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2",
+      "name": "69",
+      "symbol": "69",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/a192cbdb17886ccae1bad7ae6861a14726095ec0903af522eae80445680a7726.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
