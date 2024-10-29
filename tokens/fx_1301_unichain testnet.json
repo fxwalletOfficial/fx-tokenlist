@@ -1,0 +1,31 @@
+{
+  "name": "fx",
+  "timestamp": "2024-10-29T07:33:46.985+00:00",
+  "tokens": [
+    {
+      "chainId": 1301,
+      "address": "0x****",
+      "name": "name",
+      "symbol": "symbol",
+      "decimals": 18,
+      "logoURI": "fx.png"
+    },
+    {
+      "chainId": 1301,
+      "name": "Chiko",
+      "symbol": "CHIKO",
+      "address": "0xfb268075585848F3bb685bcEF3842f08f6EBa08f",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1301,
+      "name": "WATA",
+      "symbol": "WAT",
+      "address": "0x4be3eF7f2BB55a4Ba2aF49800F0B365157B97AB5",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
