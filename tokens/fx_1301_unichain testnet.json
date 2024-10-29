@@ -4,14 +4,6 @@
   "tokens": [
     {
       "chainId": 1301,
-      "address": "0x****",
-      "name": "name",
-      "symbol": "symbol",
-      "decimals": 18,
-      "logoURI": "fx.png"
-    },
-    {
-      "chainId": 1301,
       "name": "Chiko",
       "symbol": "CHIKO",
       "address": "0xfb268075585848F3bb685bcEF3842f08f6EBa08f",
