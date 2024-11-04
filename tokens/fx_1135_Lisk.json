@@ -1,0 +1,407 @@
+{
+  "name": "fx",
+  "timestamp": "2024-11-04T06:25:39.834Z",
+  "tokens": [
+    {
+      "chainId": 1135,
+      "address": "0x48896F4c06994859D7DE32b63BeA1f55CE2fA229",
+      "name": "Nuzo Reward Token",
+      "symbol": "NRT",
+      "decimals": "6",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x16825846601a34a5EC7bc48E3495b4C02eeBfCac",
+      "name": "Nuzo KSH",
+      "symbol": "NKSH",
+      "decimals": "6",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
+      "name": "Lisk",
+      "symbol": "LSK",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x6a58DEE314d8C112Ba3c629F27e59074d4083ddb",
+      "name": "foxy",
+      "symbol": "foxy",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x2eE6Eca46d2406454708a1C80356a6E63b57D404",
+      "name": "Lisk Voting Power",
+      "symbol": "vpLSK",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x6E55472109E6aBE4054a8E8b8d9EdFfCb31032C5",
+      "name": "Merkly Hyperlane FT",
+      "symbol": "hMERK",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x05D032ac25d322df992303dCa074EE7392C117b9",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": "6",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x6085cDB17966fE97f81196c59cF4aBB9C7CFBF59",
+      "name": "Lisky PEPE",
+      "symbol": "LEPE",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x1c3e2b1a167d8b6D85505E82f46495eeb34951F8",
+      "name": "Ionic Wrapped Ether",
+      "symbol": "ionWETH",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x154bD0e3f97dd41752D6Ce5c7AcAf53E8D38F967",
+      "name": "saberlight",
+      "symbol": "sabrl",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x7B87c0950638EE3f687a9dA5Cf4d4688FC63BC8d",
+      "name": "BabyElon",
+      "symbol": "BAE",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xAF5fcaE4647906eE26432aEA569134E567Aa7a98",
+      "name": "oxxo",
+      "symbol": "oxo",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x1E69C3214D8830ea4d660de72e97555a06409246",
+      "name": "snake",
+      "symbol": "ske",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xF4C8AA8A4414F2740F6dD1ECC2E2562B75bD11d0",
+      "name": "tiger",
+      "symbol": "tgr",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x2123e8b9AEf6Ec505c64FEA78125aC09336958A2",
+      "name": "waterz",
+      "symbol": "wtz",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xF242275d3a6527d877f2c927a82D9b057609cc71",
+      "name": "Bridged USDC (Lisk)",
+      "symbol": "USDC.e",
+      "decimals": "6",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x4000B6F9aFCf1093c89b778dBd00D098460A4606",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xf08733B58024F75EbF810C3E8B5282ca193FFb96",
+      "name": "Runner",
+      "symbol": "run",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x665060707c3Ea3c31b3eaBaD7F409072446E1D50",
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x00DC1F830Ee116919783f3EB575D0c55DA348a4C",
+      "name": "CAT2",
+      "symbol": "CT2",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x7bd02562E389693b66D781825bfe3022FDE02E85",
+      "name": "changer",
+      "symbol": "chr",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x89dB2a75A5527De4CEa7d1dDc3803A19ba0456e8",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x32A32eBa886039aC2C789364E03ed79720ffFeD9",
+      "name": "gesha",
+      "symbol": "gsh",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x95c73F2F5313aCD5E34Bb442cE2971906d678A77",
+      "name": "MJTestCoin",
+      "symbol": "MJT",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xB62EC7FA219F83733E262eEFf7265C8c43D440e0",
+      "name": "OKToken",
+      "symbol": "OKOK",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x817a34792482afB67703a74d2dBD15eA7E8b3E55",
+      "name": "RASA WETH",
+      "symbol": "RSWETH",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x7197A4557fc00F1a95Ac58B93F6B34964820f241",
+      "name": "tosakalisktoken",
+      "symbol": "tsktoken",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": "8",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xD0B94113CB8Ca8eBD5507EF94Aa604413962CcDf",
+      "name": ";;;;;",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x6EbBa36A0c9a8ae1F0e5115651F433F844c94A5B",
+      "name": "0p",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x4FB3262974868713cef3a030759B0A8295aBc2F9",
+      "name": "&#39;;",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xe48Db84695dE3013b132b765fF5a4559638c367e",
+      "name": ";&#39;;&#39;;",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xDe1f34780A2Fc5d034294345314D032753Fe9020",
+      "name": "&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x09c7B2493ca51E9472397c4Bf984eFE1C82c33d1",
+      "name": "9o9o",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xA59c5b73081D779aAD47D7d48Ded31D6f4aA6166",
+      "name": "9ooo",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xc38ee49D7E5F7F2daF1Ad905Fe77767Da3AAc641",
+      "name": "a",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x9c2CFA3A683536762cbfaBf2fe199b3B96c1b60A",
+      "name": "as",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x14A6eaD036375b6d1B9AA0c289dB92DE8E548019",
+      "name": "BOT",
+      "symbol": "BOT",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x08A3Ad8D55eF02Cb3e932416E61f840e8C0B1e7f",
+      "name": "CAT",
+      "symbol": "CAT",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x9c81481128C5F85C49c2656D1F0362d13F874582",
+      "name": "Colorless",
+      "symbol": "CPC",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x1F3ab924f0D980848139C8EE5557a1520711232C",
+      "name": "d",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x52D61b5e53662Ff0c5c3282088b39dD2ED542641",
+      "name": "d",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x3d66AeDaa24872Ac90A579a88D38F921f16E152f",
+      "name": "daddd",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xc8e64DDAa053343496a9b259a1b1974C444bF322",
+      "name": "Darkness",
+      "symbol": "DPC",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x3038bcf8Ef3f72fd7caf59cb6E767b655ad5a384",
+      "name": "doge",
+      "symbol": "dg",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x0f02596bb4CD338c9F10d31BD26C5Da314A8391D",
+      "name": "Dragon",
+      "symbol": "NPC",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x60b1A76E8552315ca25c97745A320465B9F0881e",
+      "name": "drawknife",
+      "symbol": "draw",
+      "decimals": "18",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0x2913ba4D9d925BC05006F529eEcb96D0BAd9C6D3",
+      "name": "DyveUSDT",
+      "symbol": "dUSDT",
+      "decimals": "2",
+      "logoURI": null
+    },
+    {
+      "chainId": 1135,
+      "address": "0xf153EEFB603CA67b0AF6D18E940fDdEbb5CF6764",
+      "name": "e",
+      "symbol": null,
+      "decimals": "18",
+      "logoURI": null
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
