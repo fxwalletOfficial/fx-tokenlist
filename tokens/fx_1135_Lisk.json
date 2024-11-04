@@ -1,6 +1,6 @@
 {
   "name": "fx",
-  "timestamp": "2024-11-04T06:25:39.834Z",
+  "timestamp": "2024-11-04T06:40:30.833Z",
   "tokens": [
     {
       "chainId": 1135,
@@ -56,7 +56,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": "6",
-      "logoURI": null
+      "logoURI": "https://file.test.fxwallet.com/token/1730358096858-usdt.png"
     },
     {
       "chainId": 1135,
@@ -64,7 +64,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": "18",
-      "logoURI": null
+      "logoURI": "https://file.test.fxwallet.com/token/1730358150140-eth.png"
     },
     {
       "chainId": 1135,
@@ -184,7 +184,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": "18",
-      "logoURI": null
+      "logoURI": "https://file.test.fxwallet.com/token/1730358199714-eth.png"
     },
     {
       "chainId": 1135,
@@ -236,78 +236,6 @@
     },
     {
       "chainId": 1135,
-      "address": "0xD0B94113CB8Ca8eBD5507EF94Aa604413962CcDf",
-      "name": ";;;;;",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x6EbBa36A0c9a8ae1F0e5115651F433F844c94A5B",
-      "name": "0p",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x4FB3262974868713cef3a030759B0A8295aBc2F9",
-      "name": "&#39;;",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0xe48Db84695dE3013b132b765fF5a4559638c367e",
-      "name": ";&#39;;&#39;;",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0xDe1f34780A2Fc5d034294345314D032753Fe9020",
-      "name": "&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x09c7B2493ca51E9472397c4Bf984eFE1C82c33d1",
-      "name": "9o9o",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0xA59c5b73081D779aAD47D7d48Ded31D6f4aA6166",
-      "name": "9ooo",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0xc38ee49D7E5F7F2daF1Ad905Fe77767Da3AAc641",
-      "name": "a",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x9c2CFA3A683536762cbfaBf2fe199b3B96c1b60A",
-      "name": "as",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
       "address": "0x14A6eaD036375b6d1B9AA0c289dB92DE8E548019",
       "name": "BOT",
       "symbol": "BOT",
@@ -327,30 +255,6 @@
       "address": "0x9c81481128C5F85C49c2656D1F0362d13F874582",
       "name": "Colorless",
       "symbol": "CPC",
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x1F3ab924f0D980848139C8EE5557a1520711232C",
-      "name": "d",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x52D61b5e53662Ff0c5c3282088b39dD2ED542641",
-      "name": "d",
-      "symbol": null,
-      "decimals": "18",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0x3d66AeDaa24872Ac90A579a88D38F921f16E152f",
-      "name": "daddd",
-      "symbol": null,
       "decimals": "18",
       "logoURI": null
     },
@@ -392,14 +296,6 @@
       "name": "DyveUSDT",
       "symbol": "dUSDT",
       "decimals": "2",
-      "logoURI": null
-    },
-    {
-      "chainId": 1135,
-      "address": "0xf153EEFB603CA67b0AF6D18E940fDdEbb5CF6764",
-      "name": "e",
-      "symbol": null,
-      "decimals": "18",
       "logoURI": null
     }
   ],
