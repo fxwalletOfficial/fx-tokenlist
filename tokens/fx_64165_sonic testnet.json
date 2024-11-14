@@ -1,0 +1,31 @@
+{
+  "name": "fx",
+  "timestamp": "2024-11-14T09:17:01.802Z",
+  "tokens": [
+    {
+      "chainId": 64165,
+      "address": "0xdb9a47bb64961e1ee511cb8ab252e6102a1b956c",
+      "name": "OPAL",
+      "symbol": "OPAL",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1731572387950-opal.svg"
+    },
+    {
+      "chainId": 64165,
+      "address": "0x30bf3761147ef0c86e2f84c3784fbd89e7954670",
+      "name": "DIAM",
+      "symbol": "DIAM",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1731572250933-diamond.svg"
+    },
+    {
+      "chainId": 64165,
+      "address": "0xaf93888cbd250300470a1618206e036e11470149",
+      "name": "Coral",
+      "symbol": "CORAL",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1731572320689-coral.svg"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
