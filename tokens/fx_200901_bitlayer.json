@@ -1,0 +1,71 @@
+{
+  "name": "fx",
+  "timestamp": "2024-11-15T06:18:47.393Z",
+  "tokens": [
+    {
+      "chainId": 200901,
+      "address": "0xd68458f51ce9feb238cdcf4cbcddf010eead01b4",
+      "name": "Pika Protocol",
+      "symbol": "PIKA",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/9b590fcbba3721fbe9df2bf3a34107b7303cc611bfd90ed956dc6d36af938de2.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0x2729868df87d062020e4a4867ff507fb52ee697c",
+      "name": "Cat Driving Bitcoin",
+      "symbol": "CBD",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/d32c95819952bb465a1fe53b08d3493b7104b8f4d778904712bdd64eeb840949.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://file.test.fxwallet.com/token/e31b461e376c88b53e65013e4dfbbfbf533837b50a184a7e06f5bc56de44d381.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
+      "name": "XLink Bridged BTC",
+      "symbol": "ABTC",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/fbf95feb49f18d8179a59db0acc6433a2dc99bb8e62faa63e80baef7eed8553b.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1721203923714-eth.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0x9827431e8b77e87c9894bd50b055d6be56be0030",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://file.test.fxwallet.com/token/1721203878537-usdc.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0xfe9f969faf8ad72a83b761138bf25de87eff9dd2",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://file.test.fxwallet.com/token/1721203842094-usdt.png"
+    },
+    {
+      "chainId": 200901,
+      "address": "0xff204e2681a6fa0e2c3fade68a1b28fb90e4fc5f",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1721203791388-wbtc.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
