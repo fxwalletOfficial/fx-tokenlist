@@ -1,0 +1,47 @@
+{
+  "name": "fx",
+  "timestamp": "2025-01-24T02:02:46.859Z",
+  "tokens": [
+    {
+      "chainId": 112358,
+      "address": "0x7e639F80A4903C869f44C804b6Db6dB3f845c7c9",
+      "name": "ROAR",
+      "symbol": "ROAR",
+      "decimals": "8",
+      "logoURI": null
+    },
+    {
+      "chainId": 112358,
+      "address": "0x94F8D460A89949044acaa0a3dc6991AAbEBDC688",
+      "name": "Dino Bucks",
+      "symbol": "DB",
+      "decimals": "8",
+      "logoURI": null
+    },
+    {
+      "chainId": 112358,
+      "address": "0xefd4bC9afD210517803f293ABABd701CaeeCdfd0",
+      "name": "Xterio",
+      "symbol": "XTER",
+      "decimals": "18",
+      "logoURI": "https://resources.xter.io/ft/xter/token.png"
+    },
+    {
+      "chainId": 112358,
+      "address": "0x1f50002614EaE2765eeF81c6e2276A3d9b69e0E5",
+      "name": "Dino Point",
+      "symbol": "DIO",
+      "decimals": "8",
+      "logoURI": null
+    },
+    {
+      "chainId": 112358,
+      "address": "0xF4ECC1C74D120649f6598C7A217AbaFfdf76Cd4F",
+      "name": "DAM Test Coin",
+      "symbol": "TC",
+      "decimals": "8",
+      "logoURI": null
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
