@@ -1,0 +1,39 @@
+{
+  "name": "fx",
+  "timestamp": "2025-02-07T03:00:08.036Z",
+  "tokens": [
+    {
+      "chainId": 80094,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://file.test.fxwallet.com/token/1738895117588-lbtc.jpeg"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1738894857761-stone.jpeg"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1738894769221-ethenausde_32.svg"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
+      "name": "Honey",
+      "symbol": "Honey",
+      "decimals": 18,
+      "logoURI": "https://file.test.fxwallet.com/token/1738893713804-honey.png"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
