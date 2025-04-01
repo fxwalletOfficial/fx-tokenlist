@@ -154,5 +154,11 @@
   "Compound V3": [
     "0xc3d688B66703497DAA19211EEdff47f25384cdc3",
     "0xA17581A9E3356d9A858b789D68B4d866e593aE94"
-  ]
+  ],
+  "Stargate": ["0x45f1a95a4d3f3836523f5c83673c797f4d4d263b"],
+  "SuperVol": ["0x618148f2bb58c5c89737bb160070613d4e1b790a"],
+  "SoneFi": ["0xecef53f5024dc8a0ccf0766c6775081e27448425"],
+  "Kyo Finance": ["0xae2b32e603d303ed120f45b4bc2ebac314de080b"],
+  "OnChainGm": ["0x363cc75a89ae5673b427a1fa98afc48ffde7ba43"],
+  "TiltPlay": ["0x821797851cf30f0d5d3dedc0259faef6bb29c3d5"]
 }
