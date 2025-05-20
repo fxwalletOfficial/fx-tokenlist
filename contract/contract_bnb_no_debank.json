@@ -1,0 +1,3155 @@
+{
+  "Kyber: MultiSig": ["0x3eb01b3391ea15ce752d01cf3d3f09dec596f650"],
+  "Ketut Kantri": ["0xda48c3a0cc7ec60b19b725dc539bc67fc3eba6d9"],
+  "BNBHeroes": [
+    "0xd25631648e3ad4863332319e8e0d6f2a8ec6f267",
+    "0xde9ffb228c1789fef3f08014498f2b16c57db855"
+  ],
+  "League of Pets": ["0x06dc25bd19e0f52d5be21672264abc1d1b169213"],
+  "BMFloki Swap": [
+    "0x5a632fd76e33b21c1f99b56af45ee86794be0346",
+    "0xb79ede982247dec146b1df1b9745ef49a8bfacb2",
+    "0x9493556ffd7320a2d9b993083274b270158512a7",
+    "0xb0b42329c2e231149645a5874d2b438af9301861"
+  ],
+  "Mytheria": ["0x6ef238e9e8cd2a96740897761c18894fc086b9d0"],
+  "OnionRing Network": ["0x4fd3d95d153e7f2ad4315641652a0de57eef388d"],
+  "Lord of Dragons (LOD)": [
+    "0xdb136bc2d7cd0171541b199c6a0e1503f45ccb0a",
+    "0xeff0fa9cbb7cb31ae72adbbfb7eccc49b300a479",
+    "0x568e8b370541102ae4e90d8dd5c6cc94db45862e",
+    "0xd24616870ca41bc01074446988faeb0085a71190"
+  ],
+  "Squid Game": ["0x87230146e138d3f296a9a77e497a2a83012e9bc5"],
+  "DeETF": ["0x8b8acf1e3313845014fece130fe532b677c3c9a1"],
+  "PenguinDex": [
+    "0xb42a1b9c5281efb6fa7b0b0a65d2be99f480c12f",
+    "0x2d5694e84dfad5c77a3b18d520c8baa1028c8aee"
+  ],
+  "Zinari Finance": ["0x76beed9649c0c297cb6de10d07efd66db38e3c47"],
+  "DeFiRunners": ["0x011633de736d642cb5dc3249eea6eb714435282d"],
+  "Goldbar": ["0xdec72bbc3365646fe0267fc08cd05f79c4be0060"],
+  "Spiral X": ["0xdcc852aca99a549b86c003a64d1a86157a965b52"],
+  "DeFine One": [
+    "0x0686b6fb55dbaafea62d2b6670ac861b27a423c0",
+    "0x1e48072f9d9479c3741ab4ef0962a495f462f8c9"
+  ],
+  "Buda": ["0x4b63f8c52e3286ca871cd66b7c84e26556b2de8e"],
+  "Magic Craft": ["0x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f"],
+  "InuTube": ["0xedef8203a1416a7071694857362736029d0d330f"],
+  "EtherPOS": [
+    "0x62b365a8a65e60bbc2ad9af5cc16bf01bd9a6ab0",
+    "0x9754c3d3872aafd4848c68a80dee3b807e63b348"
+  ],
+  "Envelop": [
+    "0x2e2f00dfac24c4ccb9c7ccacacfc066baa2938f5",
+    "0xf81356b101a52cf62bbe1e34353a139934de4c17"
+  ],
+  "Dragon Slayer": [
+    "0xc8e8ecb2a5b5d1ecff007bf74d15a86434aa0c5c",
+    "0x27fe68dc6bcda8b68255506533cb7d208d6e1471",
+    "0xb6a05fbe3af77d44be7f67801df4563365981ba1"
+  ],
+  "Toy Doge Coin": ["0x6205ebd05de85430b7b54e662d2dcb3ba53b12b6"],
+  "Altverse": [
+    "0x38e169fad83acea471487b891f81e0023939e389",
+    "0x934d585d8a1b9a8c7aec4b79f3fe7fd48d39e3e3",
+    "0x45249cc580b465d4c8bd55be3856c5630d0c7b03"
+  ],
+  "Honey Bear": [
+    "0xc3d910c9d2bb024931a44cf127b6231ac1f04de3",
+    "0x10a49f1fc8c604ea7f1c49bcc6ab2a8e58e77ea5",
+    "0x67d26cf7e6cb68fee0cf546ac489691d961c97da"
+  ],
+  "Ants Finance": ["0xf00598af0ccf2d43613414f36f40123337f56e71"],
+  "MNDVault": [
+    "0xb71fa585bb99218bcedbd265418e92a3a2504d5a",
+    "0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe"
+  ],
+  "W3poker (Web3games)": ["0x03d5933a28d8b97b08525045f5602f2ce27ac784"],
+  "CryptoZ": ["0x8a0c542ba7bbbab7cf3551ffcc546cdc5362d2a1"],
+  "Kebab Finance": [
+    "0xd51bee2e0a3886289f6d229b6f30c0c2b34fc0ec",
+    "0x76fcefffcf5325c6156ca89639b17464ea833ecd",
+    "0x7979f6c54eba05e18ded44c4f986f49a5de551c2"
+  ],
+  "Narfex": [
+    "0x4f7446ae07c1a4af09bc6c3dcaf28faf351c02d5",
+    "0x0af7288b81176212aa52b2eea1ee63551e39ce80",
+    "0xf9ceb479201054d2b301f9052a5ffbe47d652358",
+    "0x38d269bfeecd9871291357f3795e86ae8872a2d8",
+    "0xe948f3ae41105118a48b0a656f59c5b4113d404e"
+  ],
+  "RingFi": [
+    "0x59ae8c783ebce3cc68cce32c427128101fa4c405",
+    "0x021988d2c89b1a9ff56641b2f247942358ff05c9"
+  ],
+  "Spark DeFi": [
+    "0x0bb12a54909b3fea2be8da48819a2702e55e9adc",
+    "0x1de4e26ee72710e0b49106d003748c2cd54a25d7",
+    "0x5a9c6a08283294bf73b59c200dec8cefc3c7fe09",
+    "0x6ddd5f28084e3499a7c9210b7730912782144783"
+  ],
+  "The Stable Fund": ["0x4f2bc1d99c953e0053f5bb9a6855cf7a5cbe66fa"],
+  "BeeProtocol": ["0xfa7dceaf930d16f27e2d170f95b0e025a0ba9304"],
+  "LULU Market": [
+    "0xcb8ad93c0b70a36addd77c2d189b22c0798a3e95",
+    "0x80f2c1e25391bbe615ef1f5ce82297fb0a624cb7",
+    "0x1ddb2c0897daf18632662e71fdd2dbdc0eb3a9ec"
+  ],
+  "NutsGaming": ["0xe6e6a022b4d4e538ca0a1f47941cbbf3f9cc1467"],
+  "MoonStarevenge": [
+    "0xb450a830b6096711b702ce73512c6adde080e61b",
+    "0xc0dc059e59b48016bca8c8f57a3b40fd08b3bd77",
+    "0x69914f034195490b403a8fa40527116cfe13bed9",
+    "0xefb2282ceb05f96764e869a9e3b4e09cf5dda237",
+    "0x56ce87156f29111b35dd8e611fd8ea63dd674402"
+  ],
+  "Leonicorn": [
+    "0x08ae29ae59d9dc181868941d4a1a8d3c8335511e",
+    "0x1e92b655f98e7be5794367d3229ed0057628ae46",
+    "0x8f14df27cc570eb4c39943c6da2e117245de3ffd"
+  ],
+  "Solcard": ["0xd08e692433811b41a690a511abcc63125f6d5061"],
+  "FatAnimal": [
+    "0x9021ee393d4ff7250665fb67471b78db8c68a073",
+    "0x94900fd02eb2cf2c800edf676f472537bbb14218"
+  ],
+  "CryptoWars": [
+    "0x52683412f6ea2b6302cea8406eff928510466c2c",
+    "0x8ba9f0841cfa75d7e2c7a316b048b04c98c95ca4",
+    "0x27a339d9b59b21390d7209b78a839868e319301b",
+    "0xc38470bfe1b08c3bafdaf699eba2fca1fd2b040b",
+    "0xfc658da47b952223fbf2ab0a00dcc609d07a2e32"
+  ],
+  "Mathverse": [
+    "0xadfe5b971ae8ea13cb23b33fdf288816f38ffb29",
+    "0x76681358854eb302e4f3cbdcaf6a7d4ecba65576"
+  ],
+  "Orange Grove": [
+    "0x6af5118728ae3d581a806d094b140485d490aa03",
+    "0xa05e98a122bb33cc2c8ecf3a098fd52053493f80"
+  ],
+  "ONIX Token": ["0x7d0ca4aa6552d4b4c226f274114b12cd0d3c6326"],
+  "Swirge Pay": ["0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb"],
+  "Gagarin": [
+    "0xa90da9e3c71ddfcc2d793f80029acbd21a4a0db6",
+    "0x87ee3c03442685fe469774746074530fd18249f6",
+    "0x76ab3cda3b866e1d0b9322cbc9b0da99b5518ebe",
+    "0xdfdec470fcc6e1ee7fbb7a0f486f9a755216b638",
+    "0x3318aded1cd41a0ddd1a2add2a0cf83e5667a032"
+  ],
+  "World League Live": [
+    "0x4b372f85a963226e41869a5cab5f00e4b999b182",
+    "0xdd9b7a5bd39f1be3dbff5671aad6cfc8cb7a8897"
+  ],
+  "BeeMiner BUSD Pool": ["0xc89d2220e6fc6249f70def300f1c6208dd33d164"],
+  "Ftribe Fighters": ["0x657b632714e08ac66b79444ad3f3875526ee6689"],
+  "RareGem": [
+    "0x1397342a8ee79e13e75390472e4816e9ad6a2bc6",
+    "0xeef4dfdc31f4da701e38f6398e26ccccd0498a77",
+    "0xacdf7bcecb147425842c31d10671a8acd4ce099f"
+  ],
+  "CZFarm": [
+    "0xba968e7ac9879ee5b0248e0cdbf0e4e82771c62d",
+    "0xfa5cd7881d0eebb48628c7c2858a48ed32858b86",
+    "0x1e0f33b898f058ba743091244f1dc71da8d81e44",
+    "0x37e4ddaff95d684e1443b5f18c81ded953b627dd",
+    "0x5b11fb84ca9bbfa02894d7385bfd0d46f2d30843"
+  ],
+  "Trava Finance": [
+    "0x31e803371a7b1060804232f12072bc67b1dd4d47",
+    "0x0391be54e72f7e001f6bbc331777710b4f2999ef",
+    "0x21d5fa5ecf2605c0e835ae054af9bba0468e5951",
+    "0xf0199f0e9564c53f8a9f79bb4c60ad7f1f5022e6",
+    "0xacb46e9e4895ad9e0fdd86d5768f7005556fd293"
+  ],
+  "BabyShibyInu": ["0xde87b96fb2b0b6b492dc1c9b228a7c71ffba40fb"],
+  "O3Swap (O3 Labs)": [
+    "0x63b7019fd998524f1342e35dd2abbb4b9fd793b3",
+    "0xd47a4dbf580fb2c7d745aeda3c9ed1bf9af0d5f1"
+  ],
+  "Stop violence project": ["0x4ac08b08ed324ff5d35b34887e2240d8dab58a26"],
+  "Solwap Finance": ["0xe3054c3ac0fa2e7a6094ee692616efcf75bf1770"],
+  "Trust Wallet Token (fake)": [
+    "0x1f6543c06cd4dc5a0396f64baad1dd17a870f141",
+    "0x79a9cd9d43d2653e5a77467a5e7b5e269672be58"
+  ],
+  "IguVerse": [
+    "0x694733ab1618a275d7e4b20d05faaf450d56efc6",
+    "0x522d0f9f3eff479a5b256bb1c1108f47b8e1a153",
+    "0xb085320eabc561506e818ce1bfc35347076c1184",
+    "0x201bc9f242f74c47bbd898a5dc99cdcd81a21943",
+    "0xccb77aedeab9c2defa271ffe253a09d9dc0569ae"
+  ],
+  "Gameta": [
+    "0x1c37948cb9fc4a802f91e946ca15df4504c91d03",
+    "0xb9a5bde0a19288044784b859c903ee62ff2a3a65"
+  ],
+  "Fractal (Infra)": ["0x91562c86174656976e1a58f4ed02942ac5a34e77"],
+  "DinoPark Finance": [
+    "0xa033c83701f68b6478fceffea66ff1b6e8e3915e",
+    "0xea90dc6f64d18771ca1dac8098526a9082265b42",
+    "0x5655e4a73351eb4cd447ab34673ad84abf043edf"
+  ],
+  "BFICoin": [
+    "0xf0a0913ba2b173c1fbca1c1b2fcfc0e3678f66a9",
+    "0x9a63254329e4265a0f1c54acd690a117bca28394"
+  ],
+  "WETH": [
+    "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  ],
+  "AquaGoat": ["0x07af67b392b7a202fad8e0fbc64c34f33102165b"],
+  "Sheep Land": ["0xa20771f57993f502f549e45b6a23ae5ff591283f"],
+  "Great Voyage Coin": ["0xdb95fbc5532eeb43deed56c8dc050c930e31017e"],
+  "SuperHero NFT Wars": ["0x44b9c4cefa6694fe099cd6042359d560b780fc2a"],
+  "NFTa": ["0xb56ad791ec864a013fed8c59d2409194d56b8a28"],
+  "Dankswap": [
+    "0x4923de3ee2c525f3a6086b90d78630f8d9634223",
+    "0xc2e39a7f30aa635c65a8e58659ac8b4ccb9b0126"
+  ],
+  "Glowston Token": ["0x9698bb7572819fb8df523a899621b72e281aacb0"],
+  "xCell Finance": ["0x47d3093210031664ec8d0ce29e3dcb616baa4e1a"],
+  "Somee": ["0x5cf73cea76ba09456a561f86aa3e1bc992b1ced0"],
+  "Swych Finance Token": [
+    "0x00e0a3f755f88c7ac755949742bd0d1c0286b756",
+    "0x9334e37fad7c41cd6c9565bff3a97ce31cee52a3"
+  ],
+  "Orochi Network": [
+    "0xdeeadc11b67d0cdcbf2869e74563d84dd21b4631",
+    "0x7c837e5ff5f4b4d28d6fdfdd3cecd89584b2e645",
+    "0x49836b67d2180972e4337dd2de5d7c47fe3de687"
+  ],
+  "Notable": [
+    "0x3fd87b3e19e122c8e388dc69e3384d685ad460da",
+    "0xfaa0fc7b803919b091dbe5ff709b2dabb61b93d9",
+    "0xfdeb5db875b69b224c2d3fd47bb0e14e9a082bef"
+  ],
+  "USDC": [
+    "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+  ],
+  "Blizzard Money": [
+    "0x57067a6bd75c0e95a6a5f158455926e43e79beb0",
+    "0x2078f4a75c92a6918d13e3e2f14183443ebf55d3"
+  ],
+  "Shush Club": ["0x4c3031ad4cf224bfa893775271cb39f845716e8f"],
+  "OpenSig": ["0xf6656646ecf7bd4100ec0014163f6cad44ea1715"],
+  "glimpsenft": [
+    "0xf7f58a81af2b68b753d0540c5017faffc7ca01d1",
+    "0x75f53011f6d51c60e6dcbf54a8b1bcb54f07f0c9",
+    "0x1c9458660891a6c6ad27bc9e348b7c285c149014"
+  ],
+  "Mischief of Fortune": ["0xb3ea984aa9902322a73e167793fba73bb2612070"],
+  "TouchCrypto": ["0xc618baf90d0dc5a167e93900b7017171157d10ee"],
+  "OzFund & Ozbet": [
+    "0x88468dbdd08bf76b45c512d5d30048d70b3f2b00",
+    "0xc1b93a0076cee05dfe01caa08ca726bc2d881b95",
+    "0x1de70dbfa3f7e24ef7b0eb671c62d67e369f3fae",
+    "0x08e73707be9ad704eef948d21e3996787c1e9e74"
+  ],
+  "Alturanft": [
+    "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+    "0xe29f0b490f0d89ca7acac1c7bed2e07ecad65201"
+  ],
+  "PIP Web3 Payment": ["0x11454268cb62e0e574a08ec83be1daed1813b240"],
+  "UltiArena": ["0x6606bb7788445c58589315fa56925cbe0012ebc7"],
+  "Alpine": [
+    "0x67b37074e47c5ceee02deab3308923910914e09e",
+    "0x722f41f6511ff7cda73a1cb0a9ea2f731738c4a0",
+    "0x2e20abcc7c9e4acbfba1a617c3dfeef3f75a1d6e"
+  ],
+  "Metafab": [
+    "0xf0ffba09c49c0ab3042913245e86e89224ff1a5a",
+    "0x67652e376fe4e2530d6b3432475648886da7bda9"
+  ],
+  "DAO Farmer": [
+    "0x4e52d1dce54ab9d3c1798673b9cf1947e6660a3e",
+    "0xacbf689834fa61e3206f37739f91f3fd4fae6e59",
+    "0xfeb37569f06d7d06fcad51b7992f492b072dd3a3",
+    "0xdae7a4aacbbcaf13e9a101a2bf376fcb3931ad27",
+    "0x5645e089aabbda1aa3fee7c56208013cfefd1850"
+  ],
+  "BSC Glyphs": ["0x5dd9707a433ffc4bf37bfd1aa81677f50af13dc4"],
+  "Meeet": [
+    "0xd31b6796a451bafa4383a24b2e06a308e8b4914d",
+    "0x82e0b6adfc1a5d4ef0787bf941e102d244a393ea"
+  ],
+  "Farm Me": [
+    "0xd5c997724e4b5756d08e6464c01afbc5f6397236",
+    "0x511d2b382afb97e30ae5e3284c53a76aa9fa5f1a",
+    "0x818f49467021bdaadae69e071e79ad2fd7226a1e"
+  ],
+  "Angel Shiba": ["0x5b10f048ad50d80541d31afac2de13ffb0bf0c7a"],
+  "Zuki Moba": ["0xe81257d932280ae440b17afc5f07c8a110d21432"],
+  "Elemon fake": ["0x2fb21d4792fed8e80c38956d8d0f7bf6f298c79c"],
+  "TRX": ["0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b"],
+  "The Crypto You": [
+    "0xbf37f781473f3b50e82c668352984865eac9853f",
+    "0x9447e3ed2a23572f7be359216321f7e67b364bac"
+  ],
+  "Circle": ["0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"],
+  "BTT Finance": ["0xc505da095a26bf6ad70293eedb6f6e1562070485"],
+  "BNB (fake)": ["0xd8577153e005660991ce1da2b08994173f79591f"],
+  "RugZombie": [
+    "0x590ea7699a4e9ead728f975efc573f6e34a5dc7b",
+    "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5"
+  ],
+  "AntFarm.Finance": ["0xfd79a19b3ebb5509241b0516d9b1fbc6e1dc34ff"],
+  "MarsDAO": ["0x60322971a672b81bcce5947706d22c19daecf6fb"],
+  "CROW": [
+    "0xb5ff2e278a1093850c4c0892b3b0fbf757bdbe67",
+    "0x74800b7d796f34f92734514f9eb5b3d1b938cc1f",
+    "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
+    "0x5e081d6b4bbf753c6cbf75d51c4e48e97c6c0740"
+  ],
+  "Celer cBridge": [
+    "0x78bc5ee9f11d133a08b331c2e18fe81be0ed02dc",
+    "0xdd90e5e87a2081dcf0391920868ebc2ffb81a1af"
+  ],
+  "Frenchfootball": ["0x3324beb75d01b4be173e879c1beb19b81c7db1df"],
+  "SrnArt": ["0x1ba8c21c623c843cd4c60438d70e7ad50f363fbb"],
+  "TSLADOGE": ["0x51519264e031346d01648b94f453544d231e9e85"],
+  "Revoland": [
+    "0x9a981faccd3b9b3b9453bff266296fc0f2de21a2",
+    "0xfc279e6ff1fb1c7f5848d31561cab27d34a2856b",
+    "0xa16cb32b52efc1dc846b7dea6df2e07c78e4c4c5"
+  ],
+  "MuskSwap": ["0xcd657182a749554fc8487757612f02226355269d"],
+  "Idol Land": ["0xcd743f1a54f4b665286864c4867a7216805fe09a"],
+  "Metamon": ["0xa2c14d673cb7a75a5bb5d2b4750b7fd61437db0a"],
+  "RestaurantDeFi": [
+    "0x81bcacaa5fcba74212d82101160fc9369e38213d",
+    "0x6826ddfd0fefb094f298a85c92fbbfccab0b3e8e"
+  ],
+  "Ofero Network": ["0x5a4212faa21c7b4dd954e5f33f86c2575419a083"],
+  "DNAxCat": [
+    "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+    "0x47619df43d11f793dcb07338dcdfb9ff3d621873",
+    "0xff1d347552cd983866dd91ef08948247d13ac62b",
+    "0xc1eab25facfb6898802084410d7ec9246f80cf74",
+    "0x57e6ee4a2d1804fa49fe007674f096f748ac3c40"
+  ],
+  "Artsky.cloud": ["0x6c684676cf81284176e2c8af3866dda074a4b97e"],
+  "ERC20 (fake)": [
+    "0x4a66ef08885daa45863e56cbc470c2bfceb8debb",
+    "0x23031a87b16d751feeecae5156ca4037f061289a"
+  ],
+  "Allbridge Core": [
+    "0xb19cd6ab3890f18b662904fd7a40c003703d2554",
+    "0x7e6c2522fee4e74a0182b9c6159048361bc3260a"
+  ],
+  "USDCircle": ["0xa8b58e8d201cad13343c2a201bce237f4f82a37d"],
+  "miniBabyDoge": ["0xa3b89c5f75c530f33e612177001f5602e9c2830f"],
+  "Polygon(fake)": [
+    "0x6d0f319a5a94d6219bccfe17d68f16f194b4725c",
+    "0xfaa59de7902f8ba723098a8a3738624066a510e3"
+  ],
+  "wRipple": ["0xcd035c0c9f68392b88ddc127f7aad39d5f39cee6"],
+  "KillSwitch": ["0x4105fcebdd9bf260f492aa894c32faf0b20ddceb"],
+  "ZinaX DAO": [
+    "0xff3aa0d4874c3bd5adcbb94254005ff19f798acb",
+    "0x323d2b52f63e38f7b933ea9a0eb763d2c81b97ba",
+    "0x2fca57b3856e518c1429fefe6fd88aa9d1d12ea7"
+  ],
+  "Crikit": ["0x7e53c7dc6cca436ecf4f5b10df24cf3a96799d2b"],
+  "Roaring Lion": ["0x1ad805e80b59c802f9d8059f904dca6ac153de30"],
+  "Vions Wallet": ["0xcd1bcff075109a03c75c7e28482171dfc54d206f"],
+  "Building The Web3": ["0x7f62619f72a4999b7fb582a8be700355ea767cf3"],
+  "Tauros Finance": [
+    "0xa1f7e0929074cc1aff2ed4155e01c856e20d2595",
+    "0x877760a62f0181c99dd670cea5b84e4296d52f8c"
+  ],
+  "HedgePay": [
+    "0xc405c35cec783c2ccc5430dd13c2dbd18adccd1c",
+    "0x6e30c17d2554dca5a1ac178939764c6bf61ab95a",
+    "0x164f19fe4d5f9e98df381d72fb9738aaf2c986e5",
+    "0x1b48bc72c39c63b78496082c1186fb57a760cf86",
+    "0x25363215b9b463e329c44ffb830d24fe1baee88e"
+  ],
+  "Crypto Worms": ["0x46bbecbf4e1ed73eeee91864bbbbde6e248e6442"],
+  "Valkyrio": [
+    "0x000859bf6357a8b09d3ed3797284831492c9d647",
+    "0x0a0944867ac84472d24deb09501cc78f73466fa0",
+    "0x405cff4ce041d3235e8b1f7aaa4e458998a47363"
+  ],
+  "BabyBoxer": ["0xed7ed82d5a0f1b363309223975f899e7bed5fea6"],
+  "Minimax Finance": [
+    "0x48376979c2adb31ee0e574084a8843b1112525d9",
+    "0x284b033ac0958c623a6e41e3338163d7daa273d7",
+    "0x5a3b24e1bf904e54c25387483ab8b3a15f77f73d"
+  ],
+  "Kambria": ["0x62f2b1adf7a8ade0b8afafdca6aca602fe95ee87"],
+  "Zugacoin fake": ["0xba8fabd6a145644d25a636e9010ea1e1531d9437"],
+  "BTC Club": ["0x23d7ba791c4998c3f061d5a2a368c89d264340b5"],
+  "MSG": ["0x53199a421b00179b080e1c16f53996d77dcfb5e2"],
+  "FXG": ["0x106818f05f208219f45401c57509f14f39a57715"],
+  "Burnace": ["0x9a624b4190f38c888bbf7f845f14198f9c951de7"],
+  "dFuture": [
+    "0xf59d805fbaeb5af7f68adecc3791a5db3dc24f36",
+    "0x359bd1f8c63c84eed8b4cd2a83adecbcf99f014a"
+  ],
+  "FTX Token (fake)": ["0x67ce271a7c3fec51056753d59fba7f483f7d3992"],
+  "TIFI": ["0x17e65e6b9b166fb8e7c59432f0db126711246bc0"],
+  "Falcon fake": [
+    "0x54d06a4c4679a62431ca7203feb8882b43591898",
+    "0x0aca5819019e62863dcbc182048300779b8de2fc",
+    "0xb4d723155b9c099a7f4e2f9ebd887a606ff717e1",
+    "0x57a731d71491cafc9abee54fb28182e31988820f"
+  ],
+  "GeekDog": ["0xb7640c628843ce5028fb145938e9d5edf1aeca6a"],
+  "Watermelon BUSD": ["0xebfdf7a84eb1dd651663782802a818ce36f3e18a"],
+  "LiquidCollectibles": [
+    "0x6c3b1ff7481fe0b106d046cfe60c5751caa30c7d",
+    "0xb1bb62022118d34aedaa30389de9390ac6853f4e",
+    "0x25ef2439ee92552b6f58463394e66d289f9e7b7c",
+    "0x2254c09b79e73306d7eacb8466a9938dac601330",
+    "0x34dca727049d2c40cdc06e011957db272a3c963a"
+  ],
+  "GMR Finance": ["0x0523215dcafbf4e4aa92117d13c6985a3bef27d7"],
+  "Vconomics": [
+    "0x629f16d00a66ec5cd90e6f5f1cafd1a117300d1b",
+    "0x7ee285a400e1874d0f7bf316ce9ce17bf5665722",
+    "0xd1aa23b0303fa7c0c60c8f1e3823240d6f530c81",
+    "0x71e56257245393bec48400beb35a5cdc3c967058",
+    "0x47c49ff4cf8dec2bdb90b08f4e3c88e1776d6c4c"
+  ],
+  "TeddyDoge": [
+    "0xdb79c12d1d0670988a39b0e48b96e955ef922d24",
+    "0x4b55226dce0a32499c3714c449abe5227522ca62"
+  ],
+  "MemeNopoly": [
+    "0x36c1641925bf2820338834c5f438d7e92333095e",
+    "0x905810c3f33e6c59ed6b38fc257732f9749c5b2b",
+    "0x435d4fd0bfdeb588626fe5abf6a6eb2ef2e26988",
+    "0x69c733ada87631f3758172076498aad7fd446cf1",
+    "0xa58a634a602ecabf7a653e657b2955b1dd995f6b"
+  ],
+  "Crypto VHS": ["0x702f8bc11cdafc27b06de0077fbace24533f3cee"],
+  "SafeHamsters": [
+    "0xa016f295a5957cb80d03d8e5464a429007555124",
+    "0x4bc6e19ee0f1e034a927990c76b418c2a95e326f"
+  ],
+  "Monsters Clan": ["0xe4c797d43631f4d660ec67b5cb0b78ef5c902532"],
+  "Deopto": ["0xf918c5f9fcee3ffe7c27612e76eb2d27aa357e90"],
+  "Myth Art": ["0xa011ae350081cf76c981d47f8c10e5d695f7f42b"],
+  "Moonfarm Finance": [
+    "0xb1c80456c9f82a753366474a88d396f15a36b9fc",
+    "0x79d7226ac7a2a5c16b449a811ff80db1bd5ee127",
+    "0xb46049c79d77ff1d555a67835fba6978536581af"
+  ],
+  "Merlinlab": ["0xda360309c59cb8c434b28a91b823344a96444278"],
+  "Twinci": [
+    "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+    "0xcdcca098f2a64fdaefbc17681dcd82f3ca4ab558",
+    "0xfc2ef6e45d3080a8ae6242938ebe02f243f97d81",
+    "0x4cd1d94fc7c0a009a7f99fecc6f4c8459c26f772"
+  ],
+  "Overeality": [
+    "0x95c6a6d4761058ff015d4edd731c752b9d9bea4f",
+    "0x4a8523c757eda4a54afff39f4f28ffad58496b13"
+  ],
+  "bsc": ["0x47ac0fb4f2d84898e4d9e7b4dab3c24507a6d503"],
+  "DStarter": [
+    "0x3cc98572568db46b8fb48e6cca511c6ca38e50df",
+    "0xf68923e61d1edc5b9e757fcabbb2596490fddbdd",
+    "0x77f42d26dffdddc66dec5a362d07cda561fc0abb",
+    "0xa9e495e4c796b08c832dd6f7e2a530772b8e3363"
+  ],
+  "CryptoHounds": [
+    "0x4fbf9f1c7de1ced76e325f02f69da7cb4e27af2a",
+    "0xb7148ae5745f4753673511b1315d6089e64d83d1",
+    "0x9d3de019160ee63579dfecb1e0df2a7e1aa8e315"
+  ],
+  "RushMoon": [
+    "0xa25980d849c40743f2f7ad7d29f1a88d60c32ebb",
+    "0xe19e8a3f71d394d9341369df055e023a1d2de6a4"
+  ],
+  "FegToken": [
+    "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+    "0x8e4b1e38c082c7ceb638c084c102352421fe607f",
+    "0xf786c34106762ab4eeb45a51b42a62470e9d5332",
+    "0x87b1acce6a1958e522233a737313c086551a5c76",
+    "0x389999216860ab8e0175387a0c90e5c52522c945"
+  ],
+  "BEP Mining": ["0xb0ffc15f533c79b0bf2fa316f8c1b57a32d7702d"],
+  "Kryxivia": [
+    "0x3a45de9d92b45e29eb46c2554cd70b9aa7fc6acc",
+    "0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89"
+  ],
+  "ibALPACA-bMXX": ["0x025a3e0a170760314fbe11d9deabe61474a81a89"],
+  "diamond busd": ["0x1853b2364bddbfc8c03b6b7acb0cb9593c9558d8"],
+  "MetaShooter": ["0x7af892e5536d413b79d5ec66791203f5018dc773"],
+  "TCG World Metaverse": [
+    "0x29ceb269d648d78675855dc0e7abab98b323eab6",
+    "0xf73d8276c15ce56b2f4aee5920e62f767a7f3aea"
+  ],
+  "YQS 585858": ["0x7212b75d9e364bcbb478e5c2a39ff5fec8c59be3"],
+  "NFTMall": [
+    "0x44a22f8bcc35e071482adab24ac276f50ad1161e",
+    "0xbac1df744df160877cdc45e13d0394c06bc388ff"
+  ],
+  "RNS": ["0x54259a6093f3bf14d5cd6925177a25799ccb61f2"],
+  "FateOrigin": [
+    "0x7b116071d8b062ca8728a168e620520f5338681d",
+    "0x8b0b26b97aa4b907dd8dfe71fd0b602d71bb7df4"
+  ],
+  "TokoNFT": ["0x37511a7d21ba005715910f9372fb23a9d8e94d15"],
+  "WIFI Swap": [
+    "0x5fdae8e1f2cf6269a7291deeaaf03121fb1b0992",
+    "0x4253e1a74786c029db6d5a73f9cb39db25ad7ed8",
+    "0x07d5d12f0f157fd813029a85626effcd9af3cfae",
+    "0x823072f3e67046f925b6d4502d46633e4d06ec12"
+  ],
+  "Serum (fake)": ["0x5716213933b8b24c3570931128cfb447aa03bdaf"],
+  "Curate": [
+    "0x708c671aa997da536869b50b6c67fa0c32ce80b2",
+    "0xd52669712f253cd6b2fe8a8638f66ed726cb770c",
+    "0xe1c7e30c42c24582888c758984f6e382096786bd"
+  ],
+  "MediTown": [
+    "0x096a94ccae62cac5f1e9005129f45598171489d9",
+    "0xa954bac5cc1f9d4b87f8ba3d8d7dbb1254182270"
+  ],
+  "USTC (fake)": ["0x4b3753e52f1a34eaa182a26a6a92555cdc1179bc"],
+  "BabyAmpleCoinflip": ["0xdbc53e9f1f7b4f9e8985ad77cb559f1682bab427"],
+  "YoloVerse": ["0x97f9388f389e1bb3019935b7939eee50163d9624"],
+  "Treasure Key": [
+    "0x3718b1a1bae216055adb1330e142546a9b11fb33",
+    "0xc9bef8927c9765f2b458f83a1b84914e3b6d2f15",
+    "0x4c4608550fbecef7f969b7659c356e0adf786ade"
+  ],
+  "Open World: The Lost Land": [
+    "0x20e38996b2788cf25f94e09e58d3274558a56dad",
+    "0xaf7a813155024b273f7a8f2935d0405f46eb8b65"
+  ],
+  "Ookeenga": [
+    "0x2c83d3786fa3c068592aa2dcac650f10d4bbba1d",
+    "0x7758a52c1bb823d02878b67ad87b6ba37a0cdbf5"
+  ],
+  "Babelswap": [
+    "0xfb89640269e867ae1b2a1c0c7adf92a3c7bb9f00",
+    "0x7e435ce8040ef8384c05cb77d57539746a69f1d7",
+    "0x2247a7a997b1be718dfa3058c54a5b832270f477"
+  ],
+  "MiloInu": ["0x8077398ff2c530f129a6dd8d7f1e8840312440cd"],
+  "LiquidDriver": ["0xe5c6155ed2924e50f998e28eff932d9b5a126974"],
+  "Smaugs NFT": ["0x993ea45efbcc2922da8f6a4a0c603145edf0d483"],
+  "GDEX": [
+    "0xf8c9aba1c6fb6376855ae68ec25b6a6771396e88",
+    "0x0d7ba166990562fb778b327f3a096085c6f606be",
+    "0xfb3e2aa371b8458604529e94dc4db968b411b560"
+  ],
+  "Stable BUSD": ["0x38eb54ba37ad1b9c45feb4d03e46c42cc7f90536"],
+  "Binance Dog": ["0x6010e1a66934c4d053e8866acac720c4a093d956"],
+  "BNB Stake": ["0xf3a7c3d8ccd8cf3a891f9d3da22e58e3e438d15f"],
+  "Fragmint": [
+    "0x5421f47d926bfce8631087f8a547022ea3adf0de",
+    "0x1a73308d8eeb3c1a2b771e9ace73508c52706b76"
+  ],
+  "Socialudo": [
+    "0xdb8e35a4a2824cb1d36a67cf43f03c0acf51dd72",
+    "0x1d1b746db2523f52670cf2536bfce364f4de4266",
+    "0xcda4db482882c9d209e26265323d97c77d8fade0",
+    "0x14423e78b728aa79c42b5a159eaf69798aa45235"
+  ],
+  "WOW Swap": [
+    "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+    "0x99508beb1451527599a4edd12e4d6c414917d8bd"
+  ],
+  "ToTheSmart": ["0x2f9315577d7f45025a50ca744f474069ebb2b1f3"],
+  "1xFarm": ["0xcb622c148243aa93ca5f27e997c995ba32745ddf"],
+  "MagicCarpet": [
+    "0x5fde6dcaf875dbc13ec911996d45ba4ff83576bf",
+    "0x908b70e5e29049ae1696423eab96a076d5a091db"
+  ],
+  "Ipipnft": ["0xfbb23a0706f0386058f45cb543b2cb3387304c51"],
+  "BSC-USD": ["0xcff8fe568d722fa7b9d81789552050fc4caeada3"],
+  "Gypsum": ["0x408e6342af81ae31ed8977a0d01396a93efada4d"],
+  "sons of crypto": ["0xf79e73de6934b767de0faa120d059811a40276d9"],
+  "ProjectJoule Finance": ["0xe7cbd29769f33e371ddbf040f2ac23af0923c3f7"],
+  "BNBGlow": ["0x9e8213404415acdd5b635ff5234d5c779483e2ce"],
+  "PulsePad": ["0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a"],
+  "Doge Coin (fake)": ["0x9ed8f4661fc85967eb3613d88c7df44aba3a5f36"],
+  "Ditto": [
+    "0x233d91a0713155003fc4dce0afa871b508b3b715",
+    "0xdae0b6f111c62010a8dc6a003b02053c004cffc1",
+    "0x27da7bc5ccb7c31baaeea8a04cc8bf0085017208",
+    "0xe3cd6a046698b627d0fc1999c8065712e1cecf41",
+    "0x2df19009b4a48636699d4dbf00e1d7f923c6fa47"
+  ],
+  "GriffinArt Finance": ["0xd1ecfdd45c49057479c4ca95e045855370bc4f5b"],
+  "XRQB 8889": ["0xdeed2f88038b1988706a4656692fc7838c16839a"],
+  "XPanda": ["0x5f6014e536a69600f0f849fe24acba440622f721"],
+  "HeroesTD": [
+    "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+    "0x52f8d048ba279556dd981036e7fa0345b5a90c7a"
+  ],
+  "Safemoon Classic": [
+    "0x00e7daf0e5fd1f5331c92d09e3c825a8e4fc6515",
+    "0xf1720079f5611a589795c5c3ba114f112b53e17e"
+  ],
+  "ModernPUBG": [
+    "0x046e670b998d16c6d25f5efaf43e91ebe70a7ff4",
+    "0xeadf067c29788d68e27faa373dbcfbe787638a07",
+    "0x818e54f67d731d6bfce07decbeee8d1b963e392f",
+    "0xd8acd05b46bf7bc2dc9e38601821b6c242f1aded"
+  ],
+  "DinoLokey MEME Miner": ["0x3efcdc384271e71ffc29c29f6e5a4d13c888d56a"],
+  "Dragon Warrior": [
+    "0xd95f7419ce0debf3a991ef9944808010928db319",
+    "0x610f34da19797405a276d26f95bd5c7d8cbbd644",
+    "0xa73a05ed3c150b80c19341112eff93e09983827a",
+    "0x0cb3eedae5e0eb6a3bae7bade59da1671019bb6e"
+  ],
+  "OpenMeta": [
+    "0x856f108c862eade54adaca2bae972e6373b7f9f5",
+    "0xeb9bf97ae21ffe14ed2ac97edd429073f6c99390",
+    "0xc4bf0b82488e89f5c465e0bf6988a8055705c335",
+    "0xefe03136fa0f9bf142c10aa23db04b449e483309",
+    "0xf22cb0e5879ea69b8b2f5027beb0e955b7eace18"
+  ],
+  "SoftDrink": [
+    "0x4bd036d0f356fd92e5f5a0bf46e8a91840674119",
+    "0x7833f7d66248e4fbd705cd83dcc74288ff98d313",
+    "0x7994107e966e979f8400310097faa581c2a739d9"
+  ],
+  "Nefting.com": ["0xbf885127381f1aff0c7710a7b93bbeab96a8e48a"],
+  "Wrapped BNB (fake)": ["0x2650ba48bd985e247e2e4c572bec0c3eb93cf123"],
+  "DotArcade": ["0xc008debbb1f33d9453ffd2104feb1fe7e9663524"],
+  "Runnow.io": [
+    "0x0a194941342770d1b7e675a021748c57b1c25412",
+    "0xd50209e7b6b01646d5bd987476ac6a8b0f57da66"
+  ],
+  "ARIVA fake": [
+    "0x2ac6a47ca0c5f80e372ca8b2af1508c4272ded66",
+    "0xfcd4b2417004f318c76f4b32051b104e24743d7d"
+  ],
+  "Just Yield": [
+    "0xfa6d7bdb9793fc9921421000e78358ab3186deed",
+    "0xb2cc3c81febb38c71cc3fd47afb102dc9a0221f5"
+  ],
+  "Peccala": [
+    "0x1c9c55d392ade1f279c2062e4b21098d8154cf4c",
+    "0xacbf126a6660d99b543e3d3b8866dd2e2229ad06"
+  ],
+  "Clinq Gold": [
+    "0xf9c7454534ec3e9693b7d48ad6916188ac3df515",
+    "0xe3393e29c421d8c16f94c889918e5b59e3f0e484",
+    "0x226ed512bf053966da438134f3a1b242f12d6fff",
+    "0x6e241acda69f958cabf4e77e3bff9874cf062273",
+    "0xe0eb6ff76ebdeb2278d18306a7493ab9be1aa476"
+  ],
+  "Bayron": [
+    "0x4f62ddc50290558c18731e48c0ed3123fdd3a62c",
+    "0xc02db0c82d143a1879173303aaa3e1b45e9139ff",
+    "0x03879e2a3944fd601e7638dfcbc9253fb793b599",
+    "0x3f8aadd297e60ebe7c1bb8d3f6d413b9f39efb8b"
+  ],
+  "Squid NFT World": [
+    "0x6d57712416ed4890e114a37e2d84ab8f9cee4752",
+    "0xb00ed7e3671af2675c551a1c26ffdcc5b425359b",
+    "0x17284c1920436ba331e9db7e87d372dcdabac2e5",
+    "0xbf51f015bca535980fda01dc5c27980651107855",
+    "0x45de5cbb576b04767e59049905662a6e6ec01496"
+  ],
+  "Venus (fake)": [
+    "0x5c47934d685cb045d3b5e307750d20dab4a99129",
+    "0x85cf408cb5d286f3bcb970795acde0b38f4647a4",
+    "0xa0f84f31ea99cbc957c48e81568114cedb8b7a57",
+    "0x59dc4f4dcfc8edc4cdf0ff9e1544274787f5c5ed"
+  ],
+  "Nosta Token": ["0x4c94e93b9be45a4ee9eb9085d03dcb08e556bb12"],
+  "Worldcup Fever": ["0x3294385801310e3fd4272fdbe23350950ba1d3eb"],
+  "LongDrink Finance": [
+    "0xc7dac962c166a26038ec4bc5d0e2a3fe0ff3ce58",
+    "0x508d612f95b74b3057868bc23a45153699e9377b",
+    "0x5317fa16f8603be9c461def5d5a1bf28dfe42d55",
+    "0x986581a915f8abf4c8e21781a2c45fd4eb21699d"
+  ],
+  "wDogecoin": ["0xf40c1f421ee02a550afdd8712ef34dce97eec6f2"],
+  "Upcade": [
+    "0xdb7c6217cd9532c045d94cdd914cf472c299f8c1",
+    "0x064dccc1c5d26d85d9b8af6976b33fe4880cc9e0",
+    "0x246b774196832d5e59fccd047bd859ee2e6a5185"
+  ],
+  "Infam.io": [
+    "0x000000ef379ee7f4c051f4b9af901a9219d9ec5c",
+    "0xfc8333f6ee43b46a430a9713ec2b54b698bf1613",
+    "0x98a99ffa4dee497389a8721deec1715c5a70792e"
+  ],
+  "Terminus (Ultiverse)": [
+    "0xb67b55e081a90b99d17f1437bafd7a47c4ac8c0f",
+    "0x681a087716fb80c10d6114905b6995f1388a15e8"
+  ],
+  "Element World": ["0x8ab9ff13d6beabc524ec132fa1cfae79e5baaaaa"],
+  "UltimoGG": ["0x2065e3bd318f155abe5ad6aa263596f197112261"],
+  "BNB Casino": ["0x6c070c96323f100a85bbf8dc8a024fc32a99b7fe"],
+  "Ceres": [
+    "0x7c2e0a82b2d6e19c4cfae0503e8750f9bc064f43",
+    "0x3c3c1ae0f3f770fc9ce3d9bdc6bc009cdd052c66",
+    "0x2c17319d88469c2154a6aec9400de01af7029162"
+  ],
+  "BidDragon": [
+    "0xe3748766528f93887503dbb527f0965614d72e61",
+    "0x15313696af3e8529d4da6bf46e98b1dbd690318c",
+    "0x000000000437b3cce2530936156388bff5578fc3",
+    "0xa6038721c3d2c060f97a413bda554f815d4c34e0",
+    "0x6ff78a6624b399a168d3e111b17bfac954888ccc"
+  ],
+  "SAFUYIELD": ["0xc74cd0042c837ce59210857504ebb0859e06aa22"],
+  "Cubiex": [
+    "0x34681c1035f97e1edcccec5f142e02ff81a3a230",
+    "0x6e2aa55dcd248d62d8e336a66321c25006cd6ebd"
+  ],
+  "Farm Space": [
+    "0x0abd3e3502c15ec252f90f64341cba74a24fba06",
+    "0xc8cf0767fb2258b23b90636a5e21cfad113e8182"
+  ],
+  "QJ": ["0x6743665257c429605aa344ed04dff7a183a50296"],
+  "LootCraft": [
+    "0x645657e3f44ea31345bba0c780b6127bf9093598",
+    "0x2c5022b65748f51fec0ee87e28875e2ae87f2365"
+  ],
+  "Smooth": ["0x1771e7021e282a384d62bad246424c8bc3a0f187"],
+  "Binopoly": [
+    "0x3158b2432d19287e0166bf87698bfefe89460573",
+    "0xe5ffde144592121195d43fdfb3621fc7530c0040",
+    "0x5b1556212a0b4be284741165bb93f1189082c54a",
+    "0xa2df7a11baf8bb555e93b99684a2de0f105eb592",
+    "0xedee132fcf90fe3157c389706b30c6a1c7a6c88d"
+  ],
+  "Certhis": ["0x1fbee2e21e9f45f55df4559658003ef8ffaa215a"],
+  "Degen Ape Club": [
+    "0xa50a7a99c6937ab77e075199d23450086b2db7bc",
+    "0x8e311db45b55df68b7c1c8d01888a4c43986c60f"
+  ],
+  "DeFiWall": ["0x22784e951971d91f46efa64454c31872d607f25f"],
+  "Battle Hero": [
+    "0xcfdc7cd4eccb0f6a30aac8ab8fafef57edd50fb4",
+    "0x0bc89aa98ad94e6798ec822d0814d934ccd0c0ce",
+    "0x95f6ae731d5f6485c62d899538dae40a00da5972"
+  ],
+  "Buttler": ["0x856e3b07715e23b29127bf575c7fb703c4149eb7"],
+  "luckycat": ["0xa1bb1acc376718fd17bd449a3121c25a26a4d974"],
+  "beFITTER": [
+    "0x1338651e065c0f823bd3068348ca50e62dde614e",
+    "0xef7d50069406a2f5a53806f7250a6c0f17ad9dcd",
+    "0xb47e21328b4f1c6d685c213d707fab3edb234fa0"
+  ],
+  "Seascape": [
+    "0xcad9146102d29175fd7908eb6820a48e4fc78cea",
+    "0xf1ed430f02a4afe373cb41837797daf76c9dcedb",
+    "0x20b2401084a2d7ff13bc07c09e6c2af8d4443404",
+    "0x31a5bd03f0583a7f720a6c1b595ec8b052871288"
+  ],
+  "Dragon|Metaverse": ["0xfdb0fe3dd8f7e9a671f63b7e7db0935a955659ab"],
+  "DexKit": ["0x7ae726f37af737f643934428eaf8ceb0fb269c92"],
+  "Crypter": ["0xda6802bbec06ab447a68294a63de47ed4506acaa"],
+  "Relay Chain": ["0xac6953d66e06eea69d0f7435c679ae0d0c02b282"],
+  "Labswap": [
+    "0x11ad2281533d32a0ad16da012a4dbab846081d9b",
+    "0x21f557ab017a9af912089e49766e90889e37fd17",
+    "0x81fe460caa24e58e3a0c5ce8a4898ebe1838ded5",
+    "0xd1703d944bcaa74779bee55a6a42cc3617168a8d",
+    "0x03d8c7604253b33f026654a3c772b5a022e39efe"
+  ],
+  "Metawear Fashion": [
+    "0x19f35aa82aa8e6ca2d99938d81302301c293bf96",
+    "0x9d39ef3bbca5927909dde44476656b81bbe4ee75"
+  ],
+  "zkPayment": [
+    "0xb7a3ff1d835b89728faa1cd6125a2492c34fde3e",
+    "0x67d96d8a0545841b1d2bc17a37f63078c267041b",
+    "0x899c77ec2ee187a00184ce06f6a908b94755e325"
+  ],
+  "MiniShibalnu": ["0xeb35acbd23cf9d1c13d276815b9969effc5c878f"],
+  "CryptocCarsWorld": [
+    "0x600a54459fc9ba359ee0a77e20b71ffe1a0400d0",
+    "0x1228fb5ef4c98cabd696ba1bd4819e050389d21a"
+  ],
+  "Sangkara Misa": ["0x934b0633f4874ca9340341ad66ff2f6ce3124b4c"],
+  "BCMX": ["0x0538e90358bc0560bd5e764fdc991baf655343af"],
+  "Billion Happiness": ["0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4"],
+  "Goldpegas": [
+    "0x4856aa92635bf12bde3557103454ab79b25cc17c",
+    "0x428f08873827827ac4e7ad6ab34badc477576a4c"
+  ],
+  "EBE Protocol": ["0x3d4fa10dff61e7a5f9a2732a6ae6465607c61d19"],
+  "CryptoPlants": ["0xfc4542634ebf9b7ff344e45e9640decfc1b676f4"],
+  "Dai (fake)": ["0x3f9e99a02464fe3a5cbffba4dee6d3c1a87a2ef8"],
+  "CowSwap": [
+    "0x8d1603eb0cb843b9c4c9e8b5881d4a59b4a99cdc",
+    "0x235b537edb6091f75afbfc706f5a1795c5c41c87"
+  ],
+  "CrowsNestgame": ["0xf1280f02950d86a113689faba83742032745146c"],
+  "MoneyTime": [
+    "0xd63deadcebb55bd579699f2d026d2f8ed705be69",
+    "0x863ca65619cdb02e066bbefe60ec6f5eb6f76ee1",
+    "0x015cd1d5fe7fabd84273cb068ac167217d5e92f1",
+    "0x0130f4faec538bae9eca34b12605bf3e0a6aca42",
+    "0x8fb386da2848eae8e452c4ebb3af5172d06bcdcb"
+  ],
+  "RosyWhale": [
+    "0x96a79cd9bbfe822642fea82acff9e081cbff594c",
+    "0x194d88acc57a38c9fd7ec5f2832be728cbaa2ae5"
+  ],
+  "TokenPlay": [
+    "0x2e064270620e7a63f732dbede3dd796b5c35e236",
+    "0x8f5e79d789a8bdaf9367f454949f5e06ac690fe0"
+  ],
+  "8.Finance": ["0xcd16d44f854b596d90d72ff555ba8f0524b44c73"],
+  "EX Sports": ["0xc18652048c0bedaab6b1ae9c853e7589c59c1df4"],
+  "Axon Chains": ["0x21c0bd765fb07521187154a44f9ea36e02b5e20c"],
+  "Aspis": [
+    "0x88c300f2b832603b95c5c8720eea55c143d09a73",
+    "0xa6112e9ddac6a4e5c320013ff90ed16f112f4bae",
+    "0x3baf73fee98a045afb123c309fc62da5a4638c1e"
+  ],
+  "Meta Wars": ["0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c"],
+  "Astrone": [
+    "0x3f5291f7f77dff10e215c8314cc99e7a8e1225ed",
+    "0x7b422b3f77142e178bea8659c747273e7085e3bf",
+    "0x7f2f500af8c23f1099e99529f1bee2a885d32177"
+  ],
+  "unmarked NFT": [
+    "0x82afb954fdeebd2370d575ac59ae4f119654be14",
+    "0x0e238d85abdfd3e5fc193c1eca02d5935d852fea",
+    "0xf72562fefd0001f05fbb9942f87e32e414d69e2e",
+    "0x7b941eacf12a13bc1a809959f96655473410d2c3"
+  ],
+  "Slime Royale": [
+    "0xc94898c7d5e9f3e62a98995985f9a957b592140b",
+    "0xd2a1d5f1e68f6b97387c2e33cca9284568772d22",
+    "0xc0ff232d16b415fe7a0d3842d31280778a9400ef"
+  ],
+  "WAM": [
+    "0xb0dcf716b51dabc19a0241b49a9eed43ce5fa234",
+    "0xc705b9576285e18577f90bb7042f11411851581a",
+    "0xebbaeff6217d22e7744394061d874015709b8141"
+  ],
+  "FlokiMusk": ["0xc999f49bb48179d5df09402a4a7a4034bc039f81"],
+  "Inverse - Bridged": ["0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840"],
+  "Unicate Finance": ["0xd30e25a8beac6e4e69eeed90ff94a9105b5a08b8"],
+  "Retro DeFi": ["0x049cfce9d3a8d3406fa45645578b2de664fac688"],
+  "Wrestling Shiba fake": [
+    "0x38d372afbe91f168f8bee3edb362da3940c45575",
+    "0xee978972777ddf8e0147819c2dd29b8d127b1c0d",
+    "0x9cbfd713bce6d9ada879ea4e5f81ce0de24c9e7f"
+  ],
+  "France REV Finance": ["0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6"],
+  "BRLDIGITAL S.A": ["0xa932ad1cc41979f4011806698fdabcaa345e7df4"],
+  "ChainSwitch": ["0x3ae32405dfe7906998ea97ae8c739a1c758334db"],
+  "SOULS OF META": [
+    "0x44028349b04635c7fbde1c5be50a87ecc32e15ec",
+    "0x9cdf1590f67c2c2bf2f8d89532b29d4db687e78a",
+    "0x31c573d1a50a745b01862edaf2ae72017cea036a",
+    "0x12beb98e74348e4978592f747d6c4ffa39575674"
+  ],
+  "DeathRoad": [
+    "0xb9ed5e4d65220da5cfb58fcde6b64ccd97b2c681",
+    "0x124493e991632e5a2af58116e35d67f5a983afaa",
+    "0x817e1f3c6987e4185e75db630591244b7b1a17d1",
+    "0xab5ddbf86766aaf43bfb4f3cabe35b69a4c4ed5d"
+  ],
+  "BitHotel": [
+    "0x74f18bb178694ec6ed66776e9068473aeb456d02",
+    "0x57bc18f6177cdaffb34ace048745bc913a1b1b54",
+    "0x235208a31093ae3b2017976cc4d5a03683141fa9"
+  ],
+  "Frutti Dino": ["0x3a599e584075065eaaac768d75eaef85c2f2ff64"],
+  "Sheep Dex": [
+    "0xc67a54d5e08e59fb70dd29d81350c6ff4562d544",
+    "0x754ca67efd5951960c43dd78063277ec50a86628"
+  ],
+  "Tokau": ["0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22"],
+  "Gotcha": [
+    "0xac38c14101aff676f33db1256f5b17e85d768b64",
+    "0x08ba274d59e84d7259281157ec2de7b155cdb295"
+  ],
+  "Vesper Finance": [
+    "0xa77f218cf8b28bddb2039ec1cd2986548aece76b",
+    "0xdaa2a8af96f8df51ed989e9d1fd3f86df1ee882e"
+  ],
+  "HELLO": [
+    "0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+    "0x0c4f77cdca75c8a74d3fcc81e8147188e845d161",
+    "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00"
+  ],
+  "Tegridy": ["0x066c3c870f30e7b2de58ad0854bae87a3c5c07be"],
+  "GhostMarket": [
+    "0xaf42413b4094bee8e7b188b210ca2731815b0cf6",
+    "0x44c5ce28c29934b71a2a0447745d551dfc7b5133",
+    "0xf41db445d7eaf45536985ce185ce131fa4b42e68"
+  ],
+  "Ark Rivals": ["0xaa20c2e278d99f978989daa4460f933745f862d5"],
+  "Venera Finance": [
+    "0x078d8092d57e49f11bf0110b9861b19aa8e8ba56",
+    "0x9b18f0dbd5589e8e44e1a6b21a1a2671492339d2",
+    "0xe947062374759d9dad48b375030099b1ade1a9c7",
+    "0x601ab3ccc7b2de314bc007cde7d59a3f604016e7"
+  ],
+  "Boverse": [
+    "0xd7174075d11c3e0572c0864012a598f5bc618556",
+    "0x789cb994bdf57bb82dc2dbdb63502393d8002d93"
+  ],
+  "MYST Finance": ["0xc302ffda1a64a2339a1720f0e238349f3c941e12"],
+  "Baby Luna": ["0x202080a39c0fbd1538461fef251784b60f9c7b71"],
+  "Iron Finance": ["0xfe6f0534079507de1ed5632e3a2d4afc2423ead2"],
+  "Marble Heroes": ["0x433112520e55661d83217d340cee1fd1815f6feb"],
+  "Space3": ["0xd352aa5b1006967888a929e29d109ae1f181f10e"],
+  "Agritoken": ["0xa7819022ddf631745ae3ae01bc117c7d48b66b25"],
+  "BabyBake": ["0x4f73b1f7adcf65d0fa744fd49a8d0341f478cd24"],
+  "EthGames": [
+    "0x53745e41639d416b5fd60322df12eedce34a2afd",
+    "0xb8bda5d2f84a7cdb23bb88c615e2acc353b33622"
+  ],
+  "CVL Network": [
+    "0xad2af2df62d47b732cdf70c0bb9a3a8994541b84",
+    "0x9ae0290cd677dc69a5f2a1e435ef002400da70f5"
+  ],
+  "Anubis Swap": [
+    "0xa9f0b56528a39fd544e0eeb8e8e8119535b84a83",
+    "0xf8404d7ac028a6c728a81c623f464ad45027a415"
+  ],
+  "Mirror World": [
+    "0xee9792d8102236c544727fbb314348680913f838",
+    "0x7ec20786bd19bfe6f19b1092ac31e0e13e83d7b2",
+    "0x446ad52ef46ed3ae5930919af90feaf922ce258c",
+    "0xef231b7787da9c98778e5f54f166319075631bf5"
+  ],
+  "USDD (fake)": ["0xb09afa7a19bf348448a9924e0764e273dad24722"],
+  "FletaChain": ["0x674bbec8da997a2c591b5cc3f63c0c764b5b7f78"],
+  "Velorex": ["0xc029a12e4a002c6858878fd9d3cc74e227cc2dda"],
+  "Stable Earn": ["0xeb47f807865ae53f6b2cb67296a986a7fe96a552"],
+  "Muutrition": ["0x095005d000aa82aab6a89aaae81a0cb329f8fe52"],
+  "The Next World": [
+    "0x1e9964dfd7a099bf246b1b24a7a0f5ab863849bc",
+    "0x216bc89a204ca3f3102675ce69684c84db8fd00f",
+    "0x44e48233132de26f89e7e8ba6a4079806aa3edf0",
+    "0x981f921f710ee06f1997316c7e76c5949e332325",
+    "0x487e533940fbe767f599814e31fe539db73413e5"
+  ],
+  "Eclipse": ["0x375483cfa7fc18f6b455e005d835a8335fbdbb1f"],
+  "Bazarion": [
+    "0xdfee932193e7744747be9f1829bdd9cd521d8028",
+    "0xcd3f3b6731f4c41e9cae351210b20d6a7aeb6adb"
+  ],
+  "StarMon": [
+    "0x7c160b4bd3460909e5526f117b8c821a8e2ccd4f",
+    "0x935106a0c5924910e56483e4263a911ced597bee",
+    "0xf1f699f772ce4edd214e513f72001d27644f5e64",
+    "0xab15b79880f11cffb58db25ec2bc39d28c4d80d2"
+  ],
+  "Metasens/PetaRush": ["0x7ba1b6075304c3f3b6d3117a044dd3a90b1deb97"],
+  "Eternal Finance": ["0xb6a0ad1c6c2e1e158026a2b5f8ce2e8acacffa95"],
+  "ArmzLegends": [
+    "0xa250e791dd4420e93e96b14ea4400e2dcfcfdfba",
+    "0xe4dd4794c915cb99f5a12ca8058d8b45ffea8545",
+    "0x17d4dc90b06ef4e88911df63d860a7b5ced5997c",
+    "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d"
+  ],
+  "GreenBeli": [
+    "0x8473927b49e6dd0548f8287ea94109b7b753e3cf",
+    "0x0d56354b247a6e1b0b0190476198e95ad13d77a4"
+  ],
+  "LuckyFortuneDog": ["0xdeb1eaf085979a73ab0e85901d786cba991c2617"],
+  "ZEROApp": ["0x67fe403a75d871b992143fa15474f542a7892a6e"],
+  "GoFlux": ["0xb16600c510b0f323dee2cb212924d90e58864421"],
+  "DogeZillacoin": ["0x7a565284572d03ec50c35396f7d6001252eb43b6"],
+  "newgem": [
+    "0x935d7d8063ee02886dbbdf1b9f4153b32b2d1d1a",
+    "0x6de1436786262804684e5c25983f0860179b7465",
+    "0x415a9adfd38e5150fe160bcbef280b3b89fbab9c",
+    "0x208dda6018a194e8e4a5f525b44709caa119ed70",
+    "0x903e8457049f4fb7c097cbb21a9c903dc0235107"
+  ],
+  "Witcher": ["0xf2501d2603e63d4a713d99b4d1791f2df2dbd7bb"],
+  "MathVerse Cyberg": ["0xaacec97dba1fcc74d18a867649834eb12771a23e"],
+  "Bridges Exchange": [
+    "0xab4103c29eb9ec4d92f883dc1d04554c370709ad",
+    "0x5d45533683f60b05fe9eb04898b8f874fe7484ec"
+  ],
+  "Metagon": ["0x4695e4dd1e3011045573f6e16dc162687cdbac44"],
+  "Airlyft": ["0x61fa01129ac0bb124d1c60dc9f735c6c579a858b"],
+  "Yubiai": ["0x842c01fd04f9ae1d9b8975dc8c6a4e7139f51d47"],
+  "GloDAO": ["0xcdeb4c37299b6dd579a01541519d312d51d9331c"],
+  "ETH (fake)": ["0x305fd58806af27c348d0b306f9ef7825c66a2412"],
+  "Pandaverse": [
+    "0x7ab9f3367620ebdeca38db9b75e45971030eea34",
+    "0xe8e1d14f445923688f3d4ed96d499e39191a8880"
+  ],
+  "Astromoon": ["0xafa90f2d09a83a19e34def8b6d4481aa109c0929"],
+  "Goge": ["0xa30d02c5cdb6a76e47ea0d65f369fd39618541fe"],
+  "AOTOY": ["0x9f2e453de64b679098286a2890e0e589f4d8c30d"],
+  "Milk Farm": ["0x502b5762afcb914c6f6bbfeeaeff7598cec2c4b9"],
+  "AlphaKombat": ["0x8379b36826675450c35e1eb45d2fd1e1ae8494a4"],
+  "Elonsperm": ["0x7abf7f54f30a45c7c43d728a75d6741440d7c591"],
+  "Haddies Bay Club": ["0x93c3338c809eef95c544658c1f08e3ce06d582b2"],
+  "SafeMars": [
+    "0xc0366a104b429f0806bfa98d0008daa9555b2bed",
+    "0x3ad9594151886ce8538c1ff615efa2385a8c3a88"
+  ],
+  "Badger": [
+    "0x798d1be841a82a273720ce31c822c61a67a601c3",
+    "0x5e79958efbb8afdedb6ec7107110f329e4eafffa"
+  ],
+  "Bitbond token Tool": ["0xf4da12405c794379a6acd8ea4e350a0a8b8139cb"],
+  "Nakji": ["0x4341c211f6e6d7c0769917e7387f8eecba5f479b"],
+  "JDBot": [
+    "0x7874caff04afb8b6f5cbbe3ebec3f83fcd882272",
+    "0x8d15bc581543fc5148eb4320a8b0c46f28453607",
+    "0xcf1884fc848a07e8714e90fe99d327f099b0d742",
+    "0x184f16528a098ae62481498b02eab68e0220c9a1",
+    "0x76b4d21ca886f23aa51e1df9217a92023f56c985"
+  ],
+  "balancenetwork": ["0xe90334c19c798c3a18d81b8cd16594247d5b19dd"],
+  "Binance Cat": ["0x50771a67faefb293ae02c79a34294f26649d0669"],
+  "epikprime": ["0x90b27346aab5c608b7caca9aeb2ad1e2d3650e68"],
+  "Rekt Army": ["0x0cc17445d53ed5d8b1585f8e1396a76bd9867030"],
+  "Xend": ["0xf8604ee08c70389856242df88b4cca90a70733a7"],
+  "Day Of Rights DAO": ["0x23766cb8a96ff2f46f664bc7d088a6306de73618"],
+  "Automata Network": [
+    "0x7159b835cbeb8d01136d6cc321018b60ccec4b30",
+    "0xa2120b9e674d3fc3875f415a7df52e382f141225"
+  ],
+  "Clayswap Finance": ["0xfd54ae2369a3be69d441cacc49f920ffec9068ac"],
+  "Hippo-Finance": [
+    "0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b",
+    "0x1a0f27c3ce9137cb52dcd93d8508fe5841874884",
+    "0x41a373e41f2ba6c0478b3c206a94bfb2ae15ffd5",
+    "0x0c04da1263704b5c814b5b3a65d7eaea188fdbd7",
+    "0x93d2fdf858ef4dce8ec5b011cc6c6057e706e17a"
+  ],
+  "Supre Futurisim": ["0x47108d38fa13320949e586a742f4797527cce448"],
+  "Lambo Store": [
+    "0xdfb5ed022d286570b37bd954ffdcc8d4c02026c7",
+    "0x2d22f8eb7bc3c0bf64ce791da6fc935157cf4350"
+  ],
+  "Alien Worlds": [
+    "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+    "0xbea8302e8b0f8d4ee45f7ca9161c4a2e4f255123",
+    "0xf3857306a37264f15a19ad37da8a9485e5f7cfb3"
+  ],
+  "Decimal": [
+    "0x9cec03362d759ceca736e5918e8ba7636e2bd64e",
+    "0xec6432b90e7fd4d9f872cc5c781f05b617db861e"
+  ],
+  "Wineprotocol": ["0xfaa3b1cad63acfd446b8bd0fe6a157e4dc5b8a1a"],
+  "DogeZoo": ["0x5419291d81c68c103363e06046f40a9056ab2b7f"],
+  "Argon": ["0xd0253f6ea6cdb467066ec3e360d1a549af5ccdc6"],
+  "Turtle Finance": ["0xae863d16420bc70a8f9de846786a10ae1b675637"],
+  "Binance NFT": [
+    "0xe7da8b2286d72009c87b8391e19bb38b2bd42bc3",
+    "0xc1aae3039691cb2569da523e101a5ee58baea3c8",
+    "0xcbaa7e7db4c6bba7db12db777303f13599fc9451",
+    "0x4e781783c1b22e2a571f6f9a5dcd1798646c5eeb"
+  ],
+  "BSCUSDT7": ["0x8587db54e6b59c8ca811bc62da0f0866524fb951"],
+  "BX Finance": [
+    "0xc95f5ea615e52985dd03ac818bad515f0e2a9a65",
+    "0xa6955300123f32524829786df55c0ac0e5e954ca",
+    "0xbba26e1acc58bda55226e08373ff0d9df1369cb6",
+    "0x5ad03514ba8be555fc821318aa735362d5b44c8e"
+  ],
+  "0xWallet": ["0x2a92467e6b9fa6191f3290d21a221d6664865775"],
+  "VaporWave": ["0x1e3214bf98f283fe76e831c84a59884f600fcfae"],
+  "Glyphnet": ["0x83a64bf9c69c2117e8d5c5b12de103e4defc0a2e"],
+  "Cybertino": ["0x7e71b525203f3e362371da2ef4328e5e6f742b2d"],
+  "WhaleFall": [
+    "0x6595a52e1e9d8ebe1ccc417009d66ba1ff69571b",
+    "0x587c16b84c64751760f6e3e7e32f896634704352"
+  ],
+  "BGE": ["0xbd7afa932f59f0e451d57ba523ba379e7545a4b3"],
+  "Slavi": [
+    "0x187d0bf09572b10c89e717b9473e07a5a157855a",
+    "0xb281ef87e5f6eec835725de4460a38055832d8dd"
+  ],
+  "SCV Finance": [
+    "0x9437e3e2337a78d324c581a4bfd9fe22a1adbf04",
+    "0x8abbcf6d43880fccd171c427fbc2790f86becb2f",
+    "0x2242404b9be914a6e5fd6ec8e9e2295cdfb72ac6",
+    "0x9af1f73518fa03627ccc0fdf148f45601551e8ff",
+    "0x22d5dd0991ba342375c2b9c755cc6ec8ab1d8a7c"
+  ],
+  "Endorswap": ["0xe48b676dc74f1c02b695868f9e0e4b643ced0df6"],
+  "Sombra": ["0x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef"],
+  "Frontier": ["0x0d07557f6cc813e2537d0137a00829e9e2518072"],
+  "Drip Network": [
+    "0x20f663cea80face82acdfa3aae6862d246ce0333",
+    "0x4fe59adcf621489ced2d674978132a54d432653a",
+    "0xffe811714ab35360b67ee195ace7c10d93f89d8c"
+  ],
+  "Kinetex": [
+    "0x11f6788f9539a97606ca6cca5749da759cedc124",
+    "0x8d2b9abd965a2c882e51740c9bb44bd301e09367"
+  ],
+  "Hedgey.Finance": [
+    "0x7251ce9c84afc96c20ca1b89f8e5ff8ee593db8f",
+    "0xcd33c2b1949de672afdc998f78d1a553a7b56c0b",
+    "0xad337077480134028b7c68af290e891ce28076eb",
+    "0x4bc8ea84bdc3ebb01d495e5d1605d4f082aeb5d7",
+    "0x2aa5d15eb36e5960d056e8fea6e7bb3e2a06a351"
+  ],
+  "Cocos": [
+    "0xab301dae71f5b386c566f484e636aee60318f12f",
+    "0xeedb8a865e2908daa203a4b119b52805564e947a",
+    "0xede89aa1881e8fad2d3e11585aaa79a4381ff8df",
+    "0xad5e1a0d5f11be0f39ca8b02e0e0fa825cf45ed3",
+    "0x63062b5f2cc762632684734574baff42d3f756ca"
+  ],
+  "Ubiloan": ["0x1b8c13667f305b95f552b710fea068cbe6c8dedd"],
+  "Unclear": [
+    "0xc5da1d749759410954d57bbbb52716f26de7df53",
+    "0x8c5c744613450b15cb4b7d1e9a21dab27ccbb17b",
+    "0xcbd4472cbeb7229278f841b2a81f1c0df1ad0058",
+    "0x4073f2b9bb95774531b9e23d206a308c614a943a"
+  ],
+  "VIP 66882": ["0xfefd953c35fbd06cbba98b2288af7d9fd9d37b65"],
+  "Mayan Finance": [
+    "0x05b70fb5477a93be33822bfb31fdaf2c171970df",
+    "0xbefc15f65274bbb680976513b6e74bf0181e46e4"
+  ],
+  "Plant2Earn": [
+    "0x8461708744dab03391961d72ddd72e6687f478f2",
+    "0x1c676cb7b05c2badabe12c5a14c6e37c60640cc1"
+  ],
+  "Band Protocol": ["0xda7a001b254cd22e46d3eab04d937489c93174c3"],
+  "UBXS Token": ["0xdd84528462935e36ff70140f92838273f60955c7"],
+  "GoldenShiba": ["0xd3abd3fdc3463f3a82c80adc581da2432e42c215"],
+  "Dream Quest": ["0x54523d5fb56803bac758e8b10b321748a77ae9e9"],
+  "EarnAble": ["0x11ba78277d800502c84c5aed1374ff0a91f19f7e"],
+  "Enter": [
+    "0x8f943aa9df1f6bf333497ee8a01d06314ea3af55",
+    "0x24eb1f25cd9ed871f2a2b2081c420f294904326c",
+    "0x12ec3ef0707253899bde516e495de09595d2400e"
+  ],
+  "Ado.Network": [
+    "0x3e2e0d49dec21d490f4161f82b81dab31827184a",
+    "0xf76175325baf6a0e3460378beba3efdf3c1e8edf",
+    "0x717926326fab42c12e7d6102e2cd6c43683aa1ae",
+    "0xf92e6026b7b61678a5fdb7ea60fe65f00c896c91"
+  ],
+  "Sunflower Finance": ["0x3295fde99976e6b6b477e6834b2651a22deb1dd7"],
+  "BitSport": [
+    "0x689fa848afee41dbea84c7e6dee71e344f0b87c1",
+    "0x3b95d0df0e02cdec2c1369f37d0e66795469693a"
+  ],
+  "YESorNO": ["0xb8c3e8ff71513afc8cfb2dddc5a994a501db1916"],
+  "Mercor Finance": ["0x848b4e06c5badd2c4f942fa93019cbec14a17d29"],
+  "Hotpot": ["0x56d8cc219e828af3dfd383cba4180e2861eb709c"],
+  "Others": [
+    "0x0255af6c9f86f6b0543357bacefa262a2664f80f",
+    "0xce033b558eb468b4ccaf88fe6c9fa89434f0a0ac"
+  ],
+  "Fatanimal Finance": [
+    "0x40879b6d1f0aa110f38a21e566094c7a4b03c9a6",
+    "0x73280e2951785f17acc6cb2a1d0c4d65031d54b3",
+    "0x6d4b066714cc25c9690a1c3824f7bf937df7e928",
+    "0x3181460954e2c590a0314b948a2e529777cc89a2"
+  ],
+  "BitChemecial DeFi": [
+    "0xf3409b2394bfbccf14af6d98f5e6a0a11578a057",
+    "0xcf9092a838ee7759ed64d7512b485a24144fc840",
+    "0x5ffcef16938b0800545415f4650b571ad7591b7c",
+    "0xff314f19782309576395d8093f290556ddb8898b"
+  ],
+  "Genetica GenomicDAO": ["0xe356337a72d4990a3cfd4d13367659f14f304545"],
+  "Keysource": ["0x663d4d6abf4c1335b6767311267f55f326fb0441"],
+  "Touris Token": ["0x1e29ca8c874b4dff828297cc2e9856819eea0933"],
+  "Goldfinger": ["0x0b0f2f19c430758bd0f9546ea99f50ea432f7d88"],
+  "Gamyfi": [
+    "0x95182050237886a5a8f0ce7bfffdd47d886fc889",
+    "0x8319f89c12f1c530b9a443c09834c76a15df2ea7"
+  ],
+  "Eleven Finance": ["0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0"],
+  "LeechProtocol": ["0xe7dce0fc5017e171d87f647d79a8494747c39190"],
+  "NiftyIN": ["0xda22347bb1da1ba1ed308960ecbb9d09337f706d"],
+  "Simba Empire": ["0x89eb70fcbf2276daebb9c8fb38875ed2725d0295"],
+  "Dopple Finance": [
+    "0x449256e20ac3ed7f9ae81c2583068f7508d15c02",
+    "0x7a9634f6917b9736832f50f4c19b3a231b36f79b",
+    "0x5162f992edf7101637446ecccd5943a9dcc63a8a",
+    "0xe6be78800f25ffae4d1db7ca6d3485629bd200ed",
+    "0x262d5f3b45392c579f1afd543d595079e40a50fe"
+  ],
+  "Jackpot Miner": [
+    "0x00f0485886b50f7020787b343f29236774bfb20d",
+    "0x84e59ea16f976221ada2b84a5e0204bd7c7e5d4b",
+    "0xc31ed9c3911198fba5dcd7d5f4df59fd71f7accc"
+  ],
+  "chillville": ["0xd414868f554f941f1ae738eec99f4740e079bf77"],
+  "Thetagon Network": ["0xfefe631e836239e367a214adbf67361f15dfc512"],
+  "Rosen Bridge": ["0x27f14ea24c9b76b0721a41a97f7eebc297223be5"],
+  "POPCORN BUSD MINER": [
+    "0x0ba9f9a7273caab71d5fbf53992c001325594689",
+    "0x2946d0dbc8d7ed53938706549f003df243235bea"
+  ],
+  "TraitSwap": ["0x1006112527e2f744cdbf57d418ecf2866727fe73"],
+  "Popcorn Swap": ["0xa532c7fc2c912db822dbdc14a020c7f1b62b5141"],
+  "Optix Option Protocol": [
+    "0xc876f1657bcef16fb00cbca6007c01e250888afc",
+    "0x177806c1f440da3a68275abbe920fff520352986",
+    "0x9dcf4888295532139bb86b09e8162856058fc43b",
+    "0x25caa7ad7ded746101b3330b3510dd2fa8204b02",
+    "0x82dbb5c7d2d98342ed1db0f0d48fe9300c5c9bff"
+  ],
+  "Galactic Arena": ["0xb20e1692799c8bb45ccf08086c1224d3df2ed917"],
+  "BFK Warzone": ["0xa5438df34698df262d5ed463f10387c998edc24a"],
+  "WolfSafePoorPeople": [
+    "0x87b4a0b47704c281f6ef2705dc5d57d47ffdd9bf",
+    "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
+    "0x1476322919a861e4e2215d87a721b93bd9c9919d"
+  ],
+  "Winlet": ["0xc346bf0548409a28ac4c61517417fb89aacafc0c"],
+  "CheersLand": [
+    "0xd7cae2ecac077b002754e27347309ee8c7a1db32",
+    "0xa31cd2e3fc0765325143ec411e8f04c5dcae00a6"
+  ],
+  "CoinofChampions": ["0xbdc3b3639f7aa19e623a4d603a3fb7ab20115a91"],
+  "Lendefi": ["0xb9be0b63025f2bf58cf993ef43da112523f62202"],
+  "Genesis Wink": ["0x3cc20cf966b25be8538a8bc70e53c720c7133f35"],
+  "Lunar.io": ["0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1"],
+  "Windstorm Finance": [
+    "0x3d04b442e55da3ef68f4e49ff3cc3fe9a6a50642",
+    "0x83d7a230b54efd7691fe8d7c04633afe520dc026",
+    "0xa81f241fc2f529d5c574d6797f1d0c88ff0c9f23"
+  ],
+  "YieldTrust": ["0xc40a14f90c78239204909ef9cada082214d8fbba"],
+  "Eco DeFi": ["0x6f5edd47b34ceb6506c85c15108b12b3c2cf919e"],
+  "Velas": ["0xe9c803f48dffe50180bd5b01dc04da939e3445fc"],
+  "MOC NFT": ["0x5b8e3c32b066ade85eecc6edfd06fb5d8a070f37"],
+  "Pie Network": [
+    "0xadd081ce495044225b4c5b864dffdc478e65f3ed",
+    "0x824cb25d1dfd54b9d3d7215a4e7bd199d22726d8",
+    "0x3c515e23e026e838046c73430fc0baa1740a12b7",
+    "0x0a401bf89296b676314114b3cc61e45882765e8f",
+    "0x47541848d3b3d9702ed9a66e519bbacacb45fd0d"
+  ],
+  "PepeCoin BSC": ["0x4acb2349420c3bfa6e0077c6d35de4bb49aa45b7"],
+  "Meerkat Finance": ["0xc65f62d372aa50e99b2a564ddb418a6bc84faa15"],
+  "DogeBets": [
+    "0x76f2c7c0dedca9b693630444a9526e95b3a6918e",
+    "0x6d9dfe3ad151e47681380bd9ec04a9d6ed51e129",
+    "0x93fc709897174e27c157c9b25d4877692db355bc"
+  ],
+  "DogeChain Killer": ["0x575d6605a4acf327732aa43170b0ebebdd9fd4ae"],
+  "MetaClassic": ["0x9ac3c8045be80069e49a7d08ab87d06bc94e58d8"],
+  "BUSDRIVER": ["0xc0f4bd6ef287f63899e8c22e495e19883d3709b9"],
+  "BSC Station": [
+    "0xc2e393920b8940008f40bb444eb2803ec15d6f3c",
+    "0x6bf10f6b156aaa1508765fe5f531ea510165a8ff",
+    "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d"
+  ],
+  "MYP Finance": ["0x643bc493e29c052fbe530bada0cfc4dc8119dd63"],
+  "Alinx": [
+    "0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e",
+    "0xd346abf0408cdb9b0460cb1524e0795dbb2d6463",
+    "0xfae5062520fa4e635d2043818876d1c6ff418ab9",
+    "0x369012166c04b364680d10766c044d7bf20fea36",
+    "0x96e279cb4178a31d6ba28dd213a231d4f30cbade"
+  ],
+  "Ninja Fantasy": ["0x64815277c6caf24c1c2b55b11c78ef393237455c"],
+  "Six Network": [
+    "0x151030a9fa62fbb202eee50bd4a4057ab9e826ad",
+    "0x6b51e8fdc32ead0b837deb334fcb79e24f3b105a"
+  ],
+  "Smart Copyright": ["0xea7725b698bb920e7fcdd8b3664ef009e6c5edf0"],
+  "NFT Starter": ["0x8e07df508ca9c16362a84fa742b91db3912dd290"],
+  "Chamcha": ["0xd3deb31dc273270ce8fbe2b37e0943e17fbc5a4d"],
+  "WeSendit fake": [
+    "0x26c1ec5fe5530bc9a02d95e73a1d466ec54663ef",
+    "0xf557f5f6917592e101c9bc9e61a0694581d88e78",
+    "0xae4310dad7608d9d71d473e464927e79f7c2712b"
+  ],
+  "Viking Swap": [
+    "0xef6e807fd2c0ef5883a03ed1b962333e8c9b725f",
+    "0x896ede222d3f7f3414e136a2791bdb08aaa25ce0"
+  ],
+  "Nextype": [
+    "0xfbcf80ed90856af0d6d9655f746331763efdb22c",
+    "0xa05cbf21620553ade9a3368f1b20d81eee74a1fc"
+  ],
+  "ERC20 fake": [
+    "0x7824f938ad80fc64ef6488aa1eeb06a7941316da",
+    "0xe2ce767c6b0b8d0506d24040ee61ea827283808f"
+  ],
+  "Calo Outdoor / Indoor": [
+    "0x77922a521182a719a48ba650ac2a040269888888",
+    "0xb6b91269413b6b99242b1c0bc611031529999999",
+    "0x73052f51b68d974d2ed6cec7b9e817adac168168",
+    "0xf475ce4dcf1fb8a3ee9fcdedf70951039dfeeea9"
+  ],
+  "VIM": ["0x4a4fbbd76e61b5163ceb4f951848986f11ba5004"],
+  "DTravel": [
+    "0x7e44f0b5c154c6205d6d7a795a634c1207c901ae",
+    "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f"
+  ],
+  "DeRace": ["0x9d77cb4d8371736e2a2b2bfaa677b7841cdc8fc1"],
+  "Kryptomon": [
+    "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+    "0xc33d69a337b796a9f0f7588169cd874c3987bde9"
+  ],
+  "WIRTUAL": ["0xa19d3f4219e2ed6dc1cb595db20f70b8b6866734"],
+  "USD Coin (fake)": [
+    "0x4f77b745450e9aad6385b9450cbe19de8cac9dff",
+    "0x916574bf89705ee0f1b7ff70047519aa2db82bf6"
+  ],
+  "Malones": ["0x860529c6e26cd6734f684efc33a64ad97e2333e5"],
+  "WealthSecrets": ["0xb7dacf54a54bfea818f21472d3e71a89287841a7"],
+  "Bami Pawn Shop": ["0xe2d3486f46efbd4199ea087e9e466dcc35ee0248"],
+  "Metasport Arena": [
+    "0x3b0028511131fe4964976cd34fa5016500d53724",
+    "0x33a773eb112deca4c1b56bd2c6a15520305b5595"
+  ],
+  "Oscillo": [
+    "0xa1cabab1d6e0007f721a20cf1ecbc9167cd1404e",
+    "0x63c33e25051cf97312983f5e9624e00e7b4a424a"
+  ],
+  "Axie Infinity (fake)": ["0xf0ff47c57f35cf5bac337c6bc66c79d44c1c1a8b"],
+  "Kyotoprotocol.io": [
+    "0x69104fb28f4bb9f6efc899bd1d94f386cdf1b9da",
+    "0x08f9cf98ed653223232ae1a9f0523e3ce80c94c9"
+  ],
+  "Kurai Metaverse": ["0x027b19b319f4381f20060606459c055c14791db1"],
+  "Mollector": [
+    "0xf1cea1a3301fe0c4b59a7b367d7214f0a782c238",
+    "0x06597ffafd82e66eced9209d539032571abd50d9"
+  ],
+  "Kimochi": [
+    "0x4da95bd392811897cde899d25face253a424bfd4",
+    "0xd5689a0a622e6394ea34de7a56c41918c7b3081a",
+    "0xc88264770c43826de89bcd48a5c8bc5073e482a5"
+  ],
+  "Freemoon": ["0x0725384edd4637f7c26de9cd3c086c14071688d5"],
+  "KOMIO": [
+    "0xe293bf6bcf1a72768da0209f437491046359b9f2",
+    "0x6b8c76b277eb34a22e24d603ef0448d9ad1c5a7d"
+  ],
+  "USD Coin fake": ["0xe56f1790a7ddccc954594b84153440d69779a0ee"],
+  "SafeBTC": ["0x380624a4a7e69db1ca07deecf764025fc224d056"],
+  "Gold Dog": ["0x0c5f151dce8d05abdab1437e1a260d20e354bcec"],
+  "ETH Game": ["0x337464f90f933a88dc2ffacaebb0deceac130ab7"],
+  "Rikkei Finance": [
+    "0xe17fbdf671f3cce0f354cacbd27e03f4245a3ffe",
+    "0x429549006b7e16192d65fb547c19460cfd1aa791",
+    "0xb4ccd21997c34bc4cbb45961faf8e64f75547351",
+    "0xc699ed0bbedcb5b7771009bb7bf3f9ec97715ac7"
+  ],
+  "Greenlyght Coin": ["0x6c93931a8ac1a94b7dde231a19a33d2a5cf3bab4"],
+  "AI Open Network": ["0xe903c420c491404238ea55d9303094c497137405"],
+  "Zcash(fake)": ["0x297a2c30c25b6f7df859a28f62ab8499351cac74"],
+  "Boba": ["0x42bbfa2e77757c645eeaad1655e0911a7553efbc"],
+  "Foxtrot Command": [
+    "0x7b77663a1d331d1cc951e41e4833296fbb90e7b7",
+    "0x1bd793cfe94c595695feb9f9b9101d47a629c897"
+  ],
+  "Fangible": [
+    "0x8c3381bff2de4180a70a163c4c41dfd018926ee3",
+    "0x5de983720a06f01537fcd31771d83d2067fc1944"
+  ],
+  "AirCash": [
+    "0x2af7020743376cf9fed5e86d122c3e536b712ab1",
+    "0xedec4e88ba8ae88341bd6047c8407bdcb5c3dc9c",
+    "0x70f9141c415fe0c15f166184d1fd347a0524ed48",
+    "0x0116d72e97fee18f01bc1464aca116a0b94562f7",
+    "0x60f794d08f23f87069dc5da8519eaec8746784f6"
+  ],
+  "Metamoon": [
+    "0xf3ef1ceecc51b091dffc65b2cb396508f5e15010",
+    "0x4ffc4ca989dd31a24b09fea6649bfe6a9e7d4a82"
+  ],
+  "Demole": [
+    "0x4676438f5be6ca88dbf99331f1f8d5ff06117193",
+    "0x775d0b5c5e4bdbe4aa85f70a48a945f264b52b38",
+    "0xcbee2f4282d4e6c8426f9af4e7e91a000b2c1aa8",
+    "0x80b038a095098911d3fb7121ff1f740ef252c4fa"
+  ],
+  "Foresttiger": ["0x486eb84e0c8469197a2f392b633c51b401abf757"],
+  "TraderAI": ["0x27816de0da876f63d1c94437f70492716145eada"],
+  "BeeMiner BNB Game": ["0xd8f7f7ee89c4e64b9542c0467fae02f27a8f0518"],
+  "1path": [
+    "0x45b5704232b5d0d6d428f45e0cd336631449f586",
+    "0xe599af14770297046a75a351a3bc395fbca9d209",
+    "0xddbad1d5d49a3481d90349f298462581eb408a5e",
+    "0xd011ad4157fdce44e6e1487d143a376f31807f3f",
+    "0xc30d2b8283efd28739227f4e9548f4c5d38a36e8"
+  ],
+  "Metafluence fake": [
+    "0x71d277490fcd7a39c2041dc3bb49608c43c1568e",
+    "0x0f352728b920c6f304877fed06adeaf190d7e188",
+    "0x3d101e433b93557457774d1292af752b3d9374d0"
+  ],
+  "BSCU5": ["0x03d775cdd7cf8a59931553c9734a7e19942082dd"],
+  "Honor World": ["0x92c1c88a3c2b9f521b37871c3065b60959b7f73f"],
+  "Tokocrypto": [
+    "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+    "0x3a1c331bb2cba92f3f623068947babae3ed99a36"
+  ],
+  "Poo Grow Nexus": ["0xe0e61a8677566b4e1347637c6dbf38139b8ea967"],
+  "BscTrader": [
+    "0x55455cc246134bf5573a55c52443763b7c8ee620",
+    "0x28b0b9af83fa3a0c851a7270da4f16871e689216",
+    "0xebda8647f36b0cc426aa7fa93617361bc8aa2b6b"
+  ],
+  "Toast": ["0xbbe03f070ea371f73746a4891ba1d0cfb477a9d2"],
+  "Wallchain": ["0x5471f99bcb8f682f4fd2b463fd3609dadd56a929"],
+  "Unfreeze": [
+    "0x5b8637e8f4a5fda2be0f7ddfca87a19cb7f8ca81",
+    "0xdc6a42efc9791e18e6a8ae62aff8b6a9aacd946c",
+    "0x1813042b2b016bd5e79623f3af6777a057185c75",
+    "0x531da48bb202dbae4a3de2bc9174ad201ab4f339",
+    "0x472672e186f3c7a342b7fb6abd56aa0abc8ae666"
+  ],
+  "BUSD Rothschild Winery": ["0x9f15f607772f142e6c49b0692f78860570570ef5"],
+  "FINSWAP": [
+    "0xee8b79dc2991ac8725bec427fb460be7094f50a6",
+    "0x4b65aed0dae74dac408ed4a00681776b6de5f19f",
+    "0xec3c61bfc1665e39ae4b2c8690969f89ac643559",
+    "0x3eb75049edaacec4f1df8fa17d5881a8248a2e6f"
+  ],
+  "Pokmonsters": ["0x27670ed0644cb17c2140bec0b7285b75fc3e2e91"],
+  "Pistis": [
+    "0xa78071c035e2fd2afeed8db3f012db8136899441",
+    "0x0423592ed66844498913fe46fcc41d254459fee7",
+    "0x8df4fcf7811ccd3543122efe2459d3b117ea9c26"
+  ],
+  "DinoBusd": [
+    "0xb9150107f2820930d997a91f03ba81a8d625f337",
+    "0xb5caae09f56c27bec46e85f59a6b3d52caa0c015"
+  ],
+  "Okse": ["0x40f5a9bfd79585ffe39e93efed59b84d27d6d593"],
+  "NFT Games Zone": ["0xf15acd04c761f24e8f148d63336016c6c3c0df8e"],
+  "Candy Club": ["0xf9b6cf9b77df0032bf7dc7f037d04f519bf2c2f9"],
+  "Monster Slayer": ["0xacabd3f9b8f76ffd2724604185fa5afa5df25ac6"],
+  "Cryptexlock": [
+    "0xe0c3ab2c69d8b43d8b0d922afa224a0ab6780de1",
+    "0x0b07f109e7a08ad41f99d409329851e968abd231"
+  ],
+  "HEROSERI": [
+    "0xf9c6c2889903010145fe1785b4de918354946e31",
+    "0x91cfcb2855feff6f6b8f0c4edc03540fc82b0457"
+  ],
+  "CloudTX": ["0xffad7f9f704a5fdc6265e24b436b4b35ed52def2"],
+  "Claw Stars - Froyo": ["0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9"],
+  "Loom Network (fake)": ["0xa52738771fc5c1286585c93435a32da56d428b39"],
+  "LycanFi": ["0x919c83aef91329a546b7119cfa89c8afaebf1857"],
+  "TOMBALA": ["0xf4e44a43747269908dae91064ea937a797654be5"],
+  "Hero Cat": [
+    "0x16544a5ea5fc80d612613c8931dea3d74562827e",
+    "0x8013265cba30309a20c0bfb68ca7df4f21c234b7",
+    "0x29a1e54de0fce58e1018535d30af77a9d2d940c4"
+  ],
+  "LiteDEX": [
+    "0x716d94d0b70f5a50133a61c12d37309dad93bab4",
+    "0x2813203479c8d52a0a7bf4620b9325a753fda9f8",
+    "0xf883188d78d4a5204b1ec1fd016e26f1c39147fb"
+  ],
+  "Bakedpeanuts": ["0x5b52c45fdfff65fb24b7989d189af64b87405cee"],
+  "NFL": ["0xe9b9497798b5fe949039c01b1a772bdcb7e9ba10"],
+  "KAco Finance": [
+    "0xb44a8aeb4805a5404a8d20a1294a61c95ae6f256",
+    "0x3e287542f4fdc003d45ce89244144e9767b0ee6a"
+  ],
+  "Antisocial Finance": ["0x36fbbdfecbd66a70d8d1a9fabc949768cb4929c7"],
+  "Apes of Empires": [
+    "0xaf67662d28b175d8df7e3066cd5605284c4dba19",
+    "0x2ae364c7c33143c3426d1aecd7b0eafc8f39f989"
+  ],
+  "Midas Gold": [
+    "0x1250db80c867fe405265c01dc9e9ac33e61d5899",
+    "0x8f0a813d39f019a2a98958edbf5150d3a06cd20f",
+    "0x3fdf647991e498a53948dd7b0b0593fdd6386a10"
+  ],
+  "Satoshi Island": [
+    "0xfb24bc128b0cb1d7958d4787314fc755e098dd88",
+    "0x1595c5de094137bf9a0ad89a286357bee050b8b6"
+  ],
+  "Lunar": [
+    "0x59effb5a8cab87f2411effdd40646b335274af5e",
+    "0xf4206e5f264420630520e0d23c14d8dd5645e6c3"
+  ],
+  "WEB5 Inu": ["0x7d220240cf958c5c47f2daac821db965f9837e82"],
+  "Sekuya": [
+    "0x459a2fb7f093d00de8ae131101cf136819fa9ae7",
+    "0xe327ce757cd206721e100812e744fc56e4e0a969"
+  ],
+  "GMX (fake)": [
+    "0xc4fa6ca20823fa3213384743b45d5e82fe7ea0c6",
+    "0x1d9cc575e420ff1fe19ed1269330a98fb7b31dee"
+  ],
+  "Age of Mining": [
+    "0x6c5251f9ead968b6bbfaddaa1db7b3f4962387a5",
+    "0xd236a4c897cbdd937f199f2977c22570f64efb24"
+  ],
+  "Sota.Fiance": [
+    "0x0742b62efb5f2eabbc14567dfc0860ce0565bcf4",
+    "0xcd344d16070c820030d5fb47ff58852ecac1d6f4",
+    "0x468cfbbe7ea92a4c5ca515d3297d39753b238562",
+    "0xaf11c385ecee6cf72ae37658d4367efb25a4b2da",
+    "0x0e9181d2944dea8d45de6b09a0828c9e026b34d4"
+  ],
+  "Eternal.Domains": [
+    "0x4ab7512389c5bd59bef616fd95458153e919fcd5",
+    "0x340eb0c7ba4fe65fe5a6a66ed2856c96d9f84f9a"
+  ],
+  "EthereumSV": ["0x0901d1aca07aa728df1c45a29a90b86552909538"],
+  "Sawa DeFi": ["0x34c956d8437e8b7378c33797ffdf7f4cd635b592"],
+  "Unifi": [
+    "0x9fa035d76636d3d2e4d029406492e6a5e0898e81",
+    "0xbe930734edafc41676a76d2240f206ed36dafba2",
+    "0xc2daeff8cb77be50ffc921c9d4bf9ab3a02ad98d"
+  ],
+  "Kraken": ["0xfa52274dd61e1643d2205169732f29114bc240b3"],
+  "Chain of legends": ["0x4027d91ecd3140e53ae743d657549adfeebb27ab"],
+  "Hollywood Doge": ["0x96ac1e773677fa02726b5a670ca96a7adf7f8523"],
+  "Hero Arena": [
+    "0x88ef499ab1688de727c21f1b72faaee1a3f455ad",
+    "0x49c7295ff86eabf5bf58c6ebc858db4805738c01"
+  ],
+  "TrusterCoin": ["0xa2a26349448ddafae34949a6cc2cecf78c0497ac"],
+  "Dispatcher": ["0xbbd3c0c794f40c4f993b03f65343acc6fcfcb2e2"],
+  "Eyfi Finance": [
+    "0x1d7f64a6566b38c26c075bd7463597fcd8d80e17",
+    "0xa97ada2fe8f69e670e199cf41af720606d8d3fbd"
+  ],
+  "Crypto Vision": ["0x404a08d26b3e632a499c921e916d1237e59ed6c7"],
+  "Brewlabs": [
+    "0x6aac56305825f712fd44599e59f2ede51d42c3e7",
+    "0x83085faf13437fdbeab8dabeecc98f0c913ec89e"
+  ],
+  "NELO Network": [
+    "0xdd2f741142ea30ffdf1b7cb14edc123d1a88a5b8",
+    "0xcb90844005633b8758778f6d85c862bb16ee2b7b",
+    "0xe38950f71e2d2fc4ca9dc9c3625d82560b0a5d8f",
+    "0x4ef420cd10d732dfdcd85a11a065a9c17961c5ec",
+    "0x92916c1b82e3d959e16f427f22b902c701664d08"
+  ],
+  "binanceweb3": ["0x15ecc58be6d8ae1a3a0b40340c606bf4bd4dce1f"],
+  "DARK SHIBA INU": ["0x5a810fc02ae3c79299179e2c8dbb6f104a9ecc71"],
+  "Moon Strike": ["0x003e2b4fb968461607a9db02482b76846591abe0"],
+  "Hangout": [
+    "0x25535747c836698ca27c725e3687187e21631216",
+    "0x7bb0949ce7d3dee05b08ce182ee69c134b904433",
+    "0xe7da755890c933d21d3b331c40270e8a4c155b3b",
+    "0x2cf7951487296d5f31e4f01dec83ba9de1b44b1b"
+  ],
+  "Glamorcoin": ["0x646182cf40692f15fd147b6a75e64c3ad895b88c"],
+  "The Crops Farmer": [
+    "0x19ec71f4e38a5157ffff42846b92f623cd587303",
+    "0x8be8881c641dc5a40845253ee3ed04955edfe96d"
+  ],
+  "Beast BNB": ["0xa15c3f9d24daecf20699c9a4c1ef1e1e3e2c4b7e"],
+  "Linear Finance": [
+    "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+    "0x4b1356cf2068030924dbd8fca1144afbe847af5f",
+    "0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e",
+    "0xf6a9bafbc505a4bc25888dc6aeac57184eb2685b"
+  ],
+  "Chihuahua": ["0x2fd6c9b869dea106730269e13113361b684f843a"],
+  "CryptoGodz": [
+    "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+    "0xef695646f37e342375c4497aa393a3ea574aaeed"
+  ],
+  "Zircon Gamma": ["0x4ba754989b77925f47e26c54aaa1b03df23b32ce"],
+  "Token Bulksender": ["0x458b14915e651243acf89c05859a22d5cff976a6"],
+  "POZZER": ["0x014403542e38183cc81c098df297fdb5980c2d35"],
+  "Adamantcoin": ["0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69"],
+  "CatSwap": ["0x70a8d7274c5c9a0f2f3ffb0b7fc6a9fd859bc051"],
+  "Spanning Labs": [
+    "0xf7139ea302b6735f57ee9c563b547b295b25cedc",
+    "0xce82b090e3dbe16d3fd867cacc18dfe5171981bc"
+  ],
+  "Grange Finance": ["0x37e6671321a260a28bcb105c068188b2e2bade29"],
+  "MakerDAO": [
+    "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5",
+    "0x6b175474e89094c44da98b954eedeac495271d0f"
+  ],
+  "Reflect Doge": ["0xbe8f2dc7329d24b47fd449303594b4bd961e3162"],
+  "TruthGPT Coin": ["0xa36af8252c17f7f57836eca81ac9f5636afaaf74"],
+  "Palladium": ["0xf1548c0702c7f72d86d288f2d49fb9f171b17024"],
+  "CryptoDo": ["0xa05d1e1ac778fda8d3c83049cc9211a6ace4e57c"],
+  "Tazor Finance": [
+    "0x0faf2755f8f20cdc4be6f44936bf1b14636f5c63",
+    "0xf8295bdc29ccb0a8aaa741a4acfd618dd37b339e",
+    "0x1fed8951d852b88930557b681409b334e1089343"
+  ],
+  "Keeper DAO": ["0x35ffd6e268610e764ff6944d07760d0efe5e40e5"],
+  "Integral Protocol": ["0x8b0bb0d0d8b3d83ebb7c1b49d79d74df396634c6"],
+  "MommyDOGE": ["0x989b8f0219eb7aa0bed22e24f053eb2b155f4394"],
+  "LittleGhosts": [
+    "0xf20c8afd1391c41a4185bb7c2d038de7097ba1b9",
+    "0x98f606a4cdde68b9f68732d21fb9ba8b5510ee48",
+    "0x0fa48f20dddcf6ed724a36381f66c3e905fe7988"
+  ],
+  "MetaOne": [
+    "0x4ce13a032c4dd9744e89b0c26a5b81e83979e583",
+    "0x72a4925639442d9d901ba516ea3f02bb40292e1f",
+    "0x4c6a811a0531ae6ab22be388f11d2cf6d27aadba"
+  ],
+  "Cerera": ["0xa5c06df4f2343e3f0cc6b9fc580b902d509bc4ed"],
+  "The Parallel": ["0xd07e82440a395f3f3551b42da9210cd1ef4f8b24"],
+  "Octagram Five": ["0x1e837a6e0993e0962f5a3e16391a87d56f442a6b"],
+  "Spinel Labs": ["0xf2fdcfaa3fa925fb58f9f1582c0d6e906d91b911"],
+  "Dexible": [
+    "0x683927eb874937a7b0b7c76fb7ef4ad226d08785",
+    "0x7681910fd06b64f872a88151120327764ea7634a"
+  ],
+  "PolkaMonkey": ["0x824ae3a1212471ba3ddb7e6e0c5fbad907ba8549"],
+  "MomoShiba": ["0x843e0cebb6da822f553b4c1daa234be87491ab31"],
+  "OCP Finance": [
+    "0x5b1073b62b0f48b57800353cb3c67116e486233b",
+    "0x92730f2500d65a9e8a9ef3383bafbb7e381f3be5",
+    "0x25b769d8c6d7c23668fa4d006d43b7918871832b",
+    "0x606f53b25984d60559b21bee6c51e2fe93137852"
+  ],
+  "GGS Games": ["0x8dd435d3484af2914a15463594e8db1fd135e1b8"],
+  "Sheep Farm": ["0x4726010da871f4b57b5031e3ea48bde961f122aa"],
+  "Zillionxo": ["0x9a2478c4036548864d96a97fbf93f6a3341fedac"],
+  "Londex": ["0x517a1b989d2dc9042f02aa873e26601f7f36ad99"],
+  "Welx": ["0x0ccbb7fe0b21b12fe378fa651b404b6c5560e96c"],
+  "XBC": ["0x0321394309cad7e0e424650844c3ab3b659315d3"],
+  "Economia Eco Sustentable": ["0x6c72ac2261c9c1a71613d0367c63d01ca226ba53"],
+  "Sphinx": ["0xf5454dec0d05bc8f86003d2233f6e726dc094146"],
+  "Sprynt": ["0x6b2ec4dfe27dca61444ad9157291b3224f9b9427"],
+  "XChain Wallet": ["0x5060fcf7d8062cc558bae4187e39f793bffe0f8b"],
+  "Full House": ["0x3dbf25ecc1c94bcb17a3e2e82d0bdf394a810330"],
+  "Unisave": ["0x039b5818e51dfec86c1d56a4668787af0ed1c068"],
+  "CatCoin": [
+    "0x118f073796821da3e9901061b05c0b36377b877e",
+    "0xe4fae3faa8300810c835970b9187c268f55d998f"
+  ],
+  "Hacken Token (fake)": ["0x127b49f1012059b412d7f3079d68f9c8d0e032ec"],
+  "TikTak Study": ["0xd09e34562c3f524ce45d5cadfa90fa8d2e5a1e1c"],
+  "DeMountain": ["0x668c82f9d909fb069e03c15c890f861e6c4b275f"],
+  "LavaCake": [
+    "0xa2eb573862f1910f0537001a419bd9b01e821c8a",
+    "0xfbfae2d489bb649c7f33d9812b2dcf17e9bb279c"
+  ],
+  "Space Port": [
+    "0x0b2959ef15ba7021f8ef57d4d67be8f9566f1db7",
+    "0x7f60375245cbf30a4f1ffd1278e3601fadca2c4d"
+  ],
+  "TechTrees": [
+    "0x6a684b3578f5b07c0aa02fafc33ed248ae0c2db2",
+    "0xc5629516451534f45cc003c64d407635cd31e6e3"
+  ],
+  "Metahero(fake)": ["0x0f3c3210e403f250f0fccc5675d5808563096811"],
+  "Digital Files Market": [
+    "0x25f2c05c724157b5a6e0314b198a0f80dcd3b2b0",
+    "0x247789eb4f411cd8737822433b97e7a38137463e",
+    "0x37391591ac0ca0d17c0e01d1db28746248c3d471"
+  ],
+  "fite": ["0xe4182e57eeb29fbc2b3469e45c9e385cea8995ab"],
+  "cryptostribe": ["0x78f1a611cceba2ff17ea53570dbee7d43629e8bc"],
+  "Dotcoin Farm": ["0xbcda6f92c01e4c89137db8fd290cb173c379a967"],
+  "Gold Grinder 2.0": ["0x6ddba3381663431ce6c34874a9875b995788008b"],
+  "TMAC": ["0xa917c217ce51e8d95bd0472e0dbbf2d2a4960673"],
+  "Little Doge": ["0x4654e1e66d3b05da526b394f298d05ed1b256d6a"],
+  "Atem Network": ["0x55fcd19c08aec229da7f5ee00b5663c0d101249f"],
+  "BNB48 Club Token": ["0xe6df05ce8c8301223373cf5b969afcb1498c5528"],
+  "Lucky Cat": [
+    "0x26551639d2fcbdeeec74dc98c88312bd2585a899",
+    "0x8f577b9c879bbf45b2c12cf5fea636d9d4645e96"
+  ],
+  "PupDoge": [
+    "0x3220ccbbc29d727bde85b7333d31b21e0d6bc6f4",
+    "0xc40f697211a52cdf04a88aad36d94accca793dba"
+  ],
+  "Bitdao (fake)": ["0xa0eb288588a57c0565c62fcbe7efe0be4fb72434"],
+  "Mobula": ["0x33b3a50c766dd3e61b1e90b251390e7c28aefb7c"],
+  "Hellopuppy": ["0xb4b7b339949cc24b3508c4e37e252c2f982f3a41"],
+  "Movens": ["0xc04e5dc63100280b8a73f371d5ae13cd7990559f"],
+  "Fibonacci Network": ["0x4bb01b191ea0fec43d40dfbe80356523426ccb08"],
+  "The Force": ["0x6479f12e03e20b4f5d7ba82a0a572136bf8cef47"],
+  "EthBack": ["0x50229c02f6e1890986e4ccc7b9b13b5652592054"],
+  "DMM Exchange": ["0xc3dac2049616326e7d596ce52062789d96373b55"],
+  "Huobi Hot Wallet": ["0xe93381fb4c4f14bda253907b18fad305d799241a"],
+  "BNBeats": ["0xde875e515296423f3872e709d7520df78fd3035b"],
+  "VIDT Datalink": ["0x3f515f0a8e93f2e2f891ceeb3db4e62e202d7110"],
+  "USDT": [
+    "0x55d398326f99059ff775485246999027b3197955",
+    "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+  ],
+  "Alium Finance": ["0x7c38870e93a1f959cb6c533eb10bbc3e438aac11"],
+  "Mathca": ["0xdef1c0ded9bec7f1a1670819833240f027b25eff"],
+  "Legend of Fantasy War": ["0xf65319a81a2d954b6d1988a724b56d774862df74"],
+  "RiseUp": ["0x61c911b6d1b46dcadbb61bfa7100290a6faad53d"],
+  "Mini Miners": ["0xb75a52fb48af961510370bc060fa51b53dd3d231"],
+  "CluCoin": ["0x1162e2efce13f99ed259ffc24d99108aaa0ce935"],
+  "BinaryX fake": [
+    "0x13af75d5627bb406e813cf9b02d4f93052df5f97",
+    "0x2292d138a75519417c7b1b0cb0fa3debd02cbcd5"
+  ],
+  "Buff Doge Coin": ["0x23125108bc4c63e4677b2e253fa498ccb4b3298b"],
+  "BUSD (fake)": [
+    "0x114dc6ac73377215aaf91a617856c3df4aa5a3b2",
+    "0xe9e77b2650414ada4ab68f5f4ab7dff313157d56",
+    "0xd0cae3cb951f69695e31885f63b26f57a940a95e",
+    "0x5d5fbb19572c4a89846198c3dbedb2b6ef58a77a"
+  ],
+  "Pink Bubble": [
+    "0x37f4d6ae25bf86e5534f247161c10506f8f02523",
+    "0x682f552de17ffd4507c3d1a57b1edc1cf7b3fd40"
+  ],
+  "Cyborg Stables": ["0xb0457fa37f362881a32991546c6dde5b0189a5c2"],
+  "MovAI": ["0x77ddb68d41b6eadbc9f3b172a9a6b75bdfdc8e00"],
+  "Ordinal Sphinx": ["0xdaabac0154cd1bd6ce3eaaa539d1fb4fe2563d55"],
+  "Militia Game": ["0xb0c1795c5800cdc400bad6c8a619f233bcf5bd18"],
+  "Kitty Cake": ["0xc22e8114818a918260662375450e19ac73d32852"],
+  "PxBee": ["0x5baaf1648fcf471d249e04acfb61c81d3047d03d"],
+  "Tangled": [
+    "0x7f1dfea7ee95095a20221269c82395555a7234a2",
+    "0x58b40ac5cbeeea651dc5512ea81a0bc8575f04a8",
+    "0x398e13730df6c2e3b35cd263f3f7032684a858f4",
+    "0x70f1f317697337d297f5338d3dd72a6c4c51bde1"
+  ],
+  "Ultimate Champions": [
+    "0xbe000e08ac12e312588ff34a2d018f21594c6285",
+    "0x7e9ab560d37e62883e882474b096643cab234b65",
+    "0xe5227a98ed4ca503546118c513fef3c93197fc31",
+    "0xfd4cb3eb2325d81b5f091447513a1312a4f57618",
+    "0xba06f9bfc70a0fc3d87146b2e9ff03e9cc0f3de0"
+  ],
+  "ROVI": [
+    "0x5ccc70b8f450e47c03c8b8179838c59d4df4b244",
+    "0xd02d45df2d9e8ee28a15d199689aefb1b4a74043",
+    "0x6e4bfe8cdd5c5e1a207b4751c4e962ed110d14e4",
+    "0x86c80a8aa58e0a4fa09a69624c31ab2a6cad56b8"
+  ],
+  "Landian": [
+    "0x5b90785366106e8368b6877bda19f57f0d94251c",
+    "0x94e9234fbd151ff36a688f6c386a5064872bf9d9"
+  ],
+  "kyotoswap.io": ["0x29abc4d03d133d8fd1f1c54318428353ce08727e"],
+  "Zecrey": ["0xd0df3995490d292df619942b32cfa80b6b053647"],
+  "EasySwap": [
+    "0x96a1dee27d4981d98ff9ec95e7f6d45b373118b0",
+    "0xf6bff5215a844e5b3ec79b0645ba467bd14416a4"
+  ],
+  "OpenDao": ["0x5801d0e1c7d977d78e4890880b8e579eb4943276"],
+  "Organic Growth (OG)": [
+    "0x2d3bf5f5623eb7d94f2b722d9e25cfed7280e0f8",
+    "0xbf5caf1c8a2d1d65c584ab9510b9926867dc743e"
+  ],
+  "EnreachDao": [
+    "0x0f8754b36a767c5579178bd8a04d2fcd9d530b70",
+    "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51"
+  ],
+  "Xeta Reality": ["0x179960442ece8de9f390011b7f7c9b56c74e4d0a"],
+  "Kawaii Islands": ["0x1cdb477ad8f6b0994782a6a39c57bc1d6c5b78f7"],
+  "obortech": ["0xb5be8d87fce6ce87a24b90abdb019458a8ec31f9"],
+  "AirCoin": ["0xa123ab52a32267dc357b7599739d3c6caf856fe4"],
+  "GarudaSwap": [
+    "0xf6afb97ac5eafad60d3ad19c2f85e0bd6b7eaccf",
+    "0x854086dc841e1bfae50cb615bf41f55bf432a90b"
+  ],
+  "Super Step": ["0x6f7a88274647ad54bcbe25e9d28c51ddb6b5b55f"],
+  "1CentDream": ["0xf3f85f4376a4331f0726e9293eab7e55d32940ee"],
+  "Battlehero": ["0x78c13af1cbccc3f7999fb841dcf30b97f55bd971"],
+  "Blin Metaverse": ["0xc1a1ebc3547e5a510b331643084f3c30c7ad097c"],
+  "BNBURN": ["0xd2899a2b9b6b526c62bdf851513b6c85b6538c94"],
+  "PancakeHunny": ["0xb4b14fd0f8161f95fa30a9f23a439d157f66199b"],
+  "CryptoZoo": ["0xad9282bd580ba3d17603de9de1113234ac829686"],
+  "FlameChain": ["0xabeb9c25a0fffc526817c81a34eef6765a233cef"],
+  "Gem": [
+    "0xa191e578a6736167326d05c119ce0c90849e84b7",
+    "0x0a59649758aa4d66e25f08dd01271e891fe52199"
+  ],
+  "Alrihla2022": ["0xa2a3cd016e584516a7b40acfadd15992f1382a85"],
+  "Traphouse": ["0xfd26889cd6454d8751562f1c0fcf88b18b46f7b7"],
+  "KabyArena": [
+    "0x8ca27325f0ec122a120893605489c80f23d5e0fe",
+    "0x7411ec6452361478a7c16f694806174433b2157c",
+    "0x943ede056ec47f624028291af252b3f553b86ad2"
+  ],
+  "Froyo Games": ["0x3b81f2bff4f2ab7962128bc1d914dbb708bb990a"],
+  "Punk Panda Farm": ["0xee246aa7e2ecf136466c6fe4808f395861c6a04e"],
+  "ShopNEXT": ["0x9809e877192b510d767a94ba39a79429219a5afb"],
+  "RewardsBunny": ["0x68848e1d1ffd7b38d103106c74220c1ad3494afc"],
+  "Yuzumax": ["0x5318ae72f0080d2de2fd3e9e39b4066f1d759e5d"],
+  "BSC House": [
+    "0x50b9f07d532a7255be08c1b16a7cb0ac9e1b17ae",
+    "0x143c2d9c56cca9231290b27cc0fdfb056d45477e",
+    "0x03eb290856e4d697bbe678d63523c87772428530",
+    "0x38656ced1cb01bdcee57a6fe548612ee5de2c2f1"
+  ],
+  "CZ Twitter Inu": ["0x898bf7e556eebd76edfea9b362635ff4f5d02820"],
+  "COTP Safe Miner USDT": ["0x27d25d982bd3ed23ade952ce1b9af9dcb6147171"],
+  "LuckyBuy": [
+    "0x1eb03ed07f4c06d02020ae088e39e9b2f3c5c70a",
+    "0x711ff925d2a03b2dd48e4567e9a01d333b86ede8",
+    "0x816ea5b7b6d339fcc8b97465a2e8698c010c4d95"
+  ],
+  "Wink Finance": ["0x0d22fa16495857ec418f1329a19e05d910c191cf"],
+  "Smartchaindefi": ["0x582cc0e670c18b416f15d9586bd54aa916f7ff89"],
+  "Torum Finance": [
+    "0xe8df24c9fe14fcd6867e5de144e3d5e6ce594d7a",
+    "0x18d4191e0c6e2ea53ec586616b4568b911513422",
+    "0x3a7c70aec01784fb3482ab41da91ec950ef41280",
+    "0x26ebaf71f3459e92cb57899716d62db0c1d578c3",
+    "0x093e20d049fbeff3e60178fcaa704a8210bcc100"
+  ],
+  "SolanaFarm": ["0xfea6ab80cd850c3e63374bc737479aeec0e8b9a1"],
+  "Soteria Finance": [
+    "0x541e619858737031a1244a5d0cd47e5ef480342c",
+    "0xb0a51d5e242b6a86420ec34660b14d8b9cd4d5fc",
+    "0x0d255c1aca03d55589be31897850292dd71f5ece"
+  ],
+  "Battle Infinity": [
+    "0xbcc8436e510504b7534123bcd8746094637e29ab",
+    "0xb966bf0f2ab9a4cedfb78b12926643c4ca3cf04e"
+  ],
+  "Miners Bet": ["0xe36cb30011afe75f685a9e71fc91c341a3c8bb1a"],
+  "METADOGE": ["0x07d6c4370a81a82f8f8791c94f103e7ffaf84093"],
+  "NUSA": [
+    "0x8cb331d8f117a5c914fd0f2579321572a27bf191",
+    "0x6944186e265ad7142e221e32087b92fa64c407e4"
+  ],
+  "ByBarter": ["0x132e27c0b6c2b9d25e820d80d6414e6fb6795fb0"],
+  "The Grand Banks": ["0x3d8fd880976a3ea0f53cad02463867013d331107"],
+  "Sirin Labs": ["0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25"],
+  "Evergreen": ["0x65efb57c57c0b870f378ba08ee6ba305ca14491f"],
+  "Loop Crypto": ["0xdac06eb841d7e3f8a529fe7cd3a29cad30cbe1a6"],
+  "Overeality (Infra)": ["0xe9ad444cf80e1d6ba062a2dd6f53b740b5f0aa14"],
+  "AlaskaGoldRush": ["0xd9c5d10a07bb4e1bce073879f4d5958a936843f0"],
+  "ATTA": ["0x2400714597e7b850e31e09ec71f0a1e48780d4f2"],
+  "Realy": [
+    "0x8dc89b9a7762fd2c5b0c58c9279f8062d9f796de",
+    "0x16ed6b86e6aaf2456ccf658e087c94125a0dbcec"
+  ],
+  "Octan Network": [
+    "0xc7a344c69075cecbdb97fca96abd7f4e3977fa43",
+    "0x70b88a6d3c2c5ddd0301e87edd77099e69a1c77e",
+    "0x4fb6aaaf1dcfa7c3811b2747bfee06296f4d4bfd"
+  ],
+  "StarDoge": ["0x4c0415a6e340eccebff58131799c6c4127cc39fa"],
+  "Shennong": ["0xbe6f657cfb3be723224d5b5ea55d191aeead8977"],
+  "Pomerium Swap (Pomerium)": ["0x2f4b5730263e6365f58e16cebd289697c84e1dc1"],
+  "Beerbot Club": [
+    "0x6cfdd82cf27637bc8467d889c28efb69a2c84bc9",
+    "0xe7b94abfc8f0e25dcb89985e9c4583afb1c0f1d1"
+  ],
+  "BarbecueSwap": ["0x26b2081247222f44d010a1a7ec74fe9ecc1d89ec"],
+  "TRexBusd": ["0xd76dba4b47c5de9e4c32e3fa29806fbc085f1931"],
+  "My Kids Super": ["0x7b898d781e382c1a0faee49219803c48971ad734"],
+  "Bolt Dollar Finance": [
+    "0x8ad9662f33ea75e6abb581de62eec52b43436c64",
+    "0xc2e1acef50ae55661855e8dcb72adb182a3cc259",
+    "0xd1102332a213e21faf78b69c03572031f3552c33"
+  ],
+  "Extend Finance": ["0x6306e883493824ccf606d90e25f68a28e47b98a3"],
+  "CryptoRich": ["0xabc2413aa2f31ed763ca78d09540fcb222c9243a"],
+  "NFTBomb": [
+    "0x3461fc14d1843f8d0b30e2e780be0c0beacea735",
+    "0xc210c65f8141b71ebac23456d017671196dd3947",
+    "0x432d1ffc5a1a1c236cb6327ffc2a08519135d8a4"
+  ],
+  "TinyTap": ["0x7192611537108231ce07ac20ddf40c850a00ef6a"],
+  "Cashbox Investment Pool": ["0x7b2bdc940b327ca1ef95408e0a397846111e9d12"],
+  "WaterFallBot": ["0xc7435088819f1af950357fed65be856165cc3abb"],
+  "GameLand": [
+    "0xed5efe8ae7c2c59edbfee3775835fadf7a76d83b",
+    "0xb92daa7e07c211f0b450f416ef444ce10a555196"
+  ],
+  "BinanceCoin": ["0x6acbb5d49c7db80d9c8d07c030214cd332f1cc9b"],
+  "Verasity Web3 Network": ["0xc81476ae9f2748725a36b326a1831200ed4f3ecf"],
+  "Waves (fake)": ["0xded27344253549ee17b1b768ab22cca258e526e6"],
+  "Gravity Labs": ["0x1b6c9758d676b01936afc4538560f44fc4f29f9d"],
+  "UBERBUSD (fake)": ["0x80730b1a9ba8115586b1e4812dfb923f44f4cf2b"],
+  "Atlanticus Music": [
+    "0x5a5b4f05ebefa42e617c5dfa615d997573dd541a",
+    "0x0a3baf84427357136abca676ab0060a90bf99a79"
+  ],
+  "Oin Finance": ["0xc1fe8a276ba04b25ad4e10783d7796de08ad8ed3"],
+  "MeowSwap": ["0x4bdd4bdef3a2e3b707012a31cd993149fe6de7df"],
+  "HeroBattle": [
+    "0xa0534687bafefae952785fee997c42d616331088",
+    "0x6b676a57182ebe222f27839e14ab7a7be4904a3a"
+  ],
+  "Pyramid Walk to Earn": ["0x828aa11755daf934cdbe19b0f491a81ff272e4bc"],
+  "SNGame": ["0xb250e9b5565be5b5ad63486f65ab922c5bd0bf86"],
+  "Matrix": [
+    "0xab4d68fa839fdc4f603b4b6953b6b3061f4e2705",
+    "0xfdcd9173c1c5d3fde42a559d3e181652df6e8e91",
+    "0xd61b2b2e025e503ceffa66eb1107ac7768586c3b"
+  ],
+  "KingDeFi": ["0x1446f3cedf4d86a9399e49f7937766e6de2a3aab"],
+  "iGamie": ["0x8bd1ec7e5ebe22a4c5c9a697c365f941ea0c5197"],
+  "MeliGames": ["0x96d4d7707285d1d55725108f0e93515941b4d547"],
+  "Bird": ["0x82a479264b36104be4fdb91618a59a4fc0f50650"],
+  "Wheelers": [
+    "0x15ac43c448450d0303d872a84e55a6c34c004683",
+    "0xf268b2bb96fee74cdbc34fbff1126f3178e952eb",
+    "0x5060737fff6ec99ac8052af6ca696ff1f51ab1a1",
+    "0x131f7edb9e3ddd44fd2dd7f86b9e5f2b083d795f",
+    "0x13b3f461d8b71530aff12e9a63f974d8f75ca1f7"
+  ],
+  "Phoenix Finance": ["0x053c070f0923a5b770cc59d7bf74ecff991cd0b8"],
+  "LuckyRaffle": ["0xe31ed3e36c4337877e041bf8908e893a06f2da08"],
+  "World Cup": ["0x4a3c2be1caa3cb7e0a2c34b11b383fb82da5162f"],
+  "neofantasy": [
+    "0xcf5c8d2398baff7d0c65060a4f34159822a36ea0",
+    "0xc0be893634d0a4b1e9973eca125295782e029c79",
+    "0xb8c848f5c1b970af740f8c1c9d1f43bb63a8e947",
+    "0x02d53c32fb512ab57a0c317d62d5fb79c3bafe96"
+  ],
+  "MemeKiller": ["0x0df7f2f0f2a9b64c67f14ac5f1ffac133f1aff7f"],
+  "Meta Netflix": ["0xf3630c7eed28514b4c14222bb86e31b53a5da101"],
+  "Stripto": ["0xa1ac3b22b102caa62c9ecaf418585528855b0ddd"],
+  "Jointer": ["0x2097993475bbef82d7fb3e012d5e2ae6b80bb5d4"],
+  "DanceBox": ["0x029e7ee0e454533c35dfcbe85d34d32ad3d386fc"],
+  "SafeMoonCash": ["0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877"],
+  "MoonBee.finance": ["0x4a37a2d3ec44f0fd7ddcf7c2d90749ddeefb6101"],
+  "NotSafeMoon": ["0x337e35ed5b38d5c7ec9f8d7cf78fe7f43d7dec6f"],
+  "CryptoPlanet": [
+    "0x02460b532eb86bbdaee0e105395e6bf79b10acbd",
+    "0x6db417a6158b5fc7ee5fd5b469d54a606ff180f6",
+    "0x3a4c0549b7b6a636402ceb201f6c5a45777009a8",
+    "0xa5c505ca81c163944162c9326071ffdab7cb8189"
+  ],
+  "META-UTOPIA LAND": ["0x9b19ee0e61774f7b64b0d45019b96e924d325183"],
+  "JGNNFT": ["0xda656c9dde4ae956d50d67f98a437bcd269cde4d"],
+  "Life Wallet": ["0x82190d28e710ea9c029d009fad951c6f1d803bb3"],
+  "Binapet": [
+    "0xba18456513bff2538f15a0c181141102963f10b3",
+    "0xb26d2d67c7652f361b73552310da5753041b3867",
+    "0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5",
+    "0x24bc07766eb14db433ed24ad7cef168ef097b208"
+  ],
+  "Streamflow": [
+    "0xede0bd8998bddcb2f3fd1f4c1be12f4614345fb5",
+    "0x94d4646bd307bf91cb1893bc64d976bf9e60d9b2"
+  ],
+  "Corgi Doge": [
+    "0xa202bcf4afe788232d83c18f4d46f30f2c4e67be",
+    "0x802c68730212295149f2bea78c25e2cf5a05b8a0"
+  ],
+  "Interlude": ["0xd6d7c32712f1980dec39c97ba95611fb3018657c"],
+  "Denode": [
+    "0x877ecf6b282211df3e88a9c6013da7720ee0e6bc",
+    "0x6a551099399979253b1ac5265bd6cc44da9b58d2"
+  ],
+  "Puppy NFT": ["0x526455844be5f7979212958b910e8798b1f52be0"],
+  "Vanity Token": ["0xabc69f2025bdb12efcdb8fd048d240fff943ca82"],
+  "BNBworldcup": ["0x0728144f250d45fadc5b96bcf5d1241b2c3fe266"],
+  "MemePunks": ["0x11304895f41c5a9b7fbfb0c4b011a92f1020ef96"],
+  "gourmetgalaxy": ["0x6de762a3d6b1c15278d2d948b39e1ba008097528"],
+  "PigToken Finance": ["0x8850d2c68c632e3b258e612abaa8fada7e6958e5"],
+  "OSK": ["0xb682f417e81f1624c678620cfb28f9e8823e2bb7"],
+  "HI fake": ["0x520e1bcd5317c3f8e750c2e14d4afe2fb2ec92db"],
+  "Mushro Legends": ["0x14bbd2ea2259ce261b56c0f0c8b59fe0b71abb51"],
+  "TacoCat": ["0xb036f689bd98b4bd3bd648fa09a23e54d839a859"],
+  "Avarice Miner": ["0x3f3f162e8f172fb681a4fe9be187b0ff21fe0734"],
+  "Luna Classic (fake)": ["0x0c53e89050eeb95d8d73dc175ae509869c99aebf"],
+  "Tuktuk Finance": [
+    "0x30d010a7815443e01ba641ba4ddab36ac50847c9",
+    "0xe363096e780fb8675966b3ffca88bedd62b838fa",
+    "0x8ca43fc055ae47e11959e079f37051831f850ca7"
+  ],
+  "Billiard Crypto": [
+    "0xb4eebb3a9ee0daa14303cabc09301ade70ceb742",
+    "0x0cda1c6fd0f3ddb75b479103a3c541873bf88c09"
+  ],
+  "Vero Farm": ["0x39c60e839f05de00f1e743ac80fa2d311b5dcd1e"],
+  "FC Liverpool Fan Token": ["0x27a801ba58644d93a939daa506a56f95c351eddc"],
+  "Bitkeep Wallet": [
+    "0xfcd88dd1872ddb401923a47781af2f7cca9bceea",
+    "0xd1ca1f4dbb645710f5d5a9917aa984a47524f49a",
+    "0xdc28bac5949fd062624094787dfe21e78a185c81",
+    "0x6f5ac65ca70f2a44d73c8f711cb2bdf425d9f304",
+    "0xfed941cc576202394d0c36a72d99ad3074753296"
+  ],
+  "OVAL Protocol": ["0xbdffa36c07a44854640508507b2cccc89b735bce"],
+  "Baby Doge Coin (fake)": [
+    "0xecf0e5ddadf1adf6e5063f9607735c6e4178190e",
+    "0x6d0df0a74c0b899f21f0b0793697420259441636",
+    "0x9daccbf101e12f367ae1b49563ded2ea63fee472",
+    "0xc986f3e367005b53c646109e4f0df2707d560470"
+  ],
+  "STICKMAN": ["0xb75088a5d75e9ff7264abc7d25721e4436ec309d"],
+  "Binance CEX hot wallet": [
+    "0xe2fc31f816a9b94326492132018c3aecc4a93ae1",
+    "0x8894e0a0c962cb723c1976a4421c95949be2d4e3",
+    "0x631fc1ea2270e98fbd9d92658ece0f5a269aa161",
+    "0xa180fe01b906a1be37be6c534a3300785b20d947",
+    "0xf68a4b64162906eff0ff6ae34e2bb1cd42fef62d"
+  ],
+  "Baby 7": ["0xb1c3b7759f4787a144da5ab9c3b87e4257290523"],
+  "LotZed": ["0xa94095bfaad42da956984c7a2a46cbe0f9c0f68c"],
+  "Tether (fake)": ["0x4b838a947bcb2363b02cf9f6990e8cec1869bf37"],
+  "GhostFace": [
+    "0x35e446a313369f2cca5592e62db9edbb23233dd2",
+    "0x0952ddffde60786497c7ced1f49b4a14cf527f76"
+  ],
+  "LOVEINU": ["0x3f7200cc81d3fa6b8db6f8fcc2393d158e542f49"],
+  "Knowledger DAO": [
+    "0xd41c95055d7b91ebf5b237ffc6d29bf540866790",
+    "0x5834477e75f19b4922430c3c65755cd46d586fd0"
+  ],
+  "Division Network": [
+    "0x9cf04141e14c784302e111ecdb7b873faf26a5f9",
+    "0x252af5b14184a877adfb77d4490be6a9e1e7068d",
+    "0xf36721581b3db68408a7189840c79ad47c719c71",
+    "0xeef91f31f00af45f9eec2300483bb7aa23111e36"
+  ],
+  "Shield Protocol": [
+    "0x9f0a162891b3f4bf3ef3736963caf21df2b0f3c3",
+    "0x377fdc2107cde16d1827c76a4419cd0fb2c1cd65"
+  ],
+  "Knata nft sport club": ["0x8d38b81078ec36a200788f209c83bad5cd7e3d9a"],
+  "CryptoBaby": ["0xa99a4fabb9a945f60fb96d6fdf8de7d2ef1e8c36"],
+  "SaTT": [
+    "0xffa1d46642ad43a701aaa1484826834986eb53fc",
+    "0x448bee2d93be708b54ee6353a7cc35c4933f1156",
+    "0xcef9b240c13f269354e5ae3d6808fecf9834bf10"
+  ],
+  "BYAS": ["0x5de56c867692277faaf6756d6d30eba2086e948e"],
+  "Coinmooner": ["0xcf0cd71a4fbae0fc11c158e1335719b9f66ea630"],
+  "Sublime": ["0xb4638c3fb073ee1f2f85abe149ca761c7214518c"],
+  "TimeCoin": ["0x33bba52ed721ed5b2d1fb4588f88f2f6522d6e11"],
+  "InPoker": ["0xf0f88d49d3fea2ee07002b9565f47666ba7439ea"],
+  "Mydefipet": [
+    "0x5e462491bdc5690d14d3695e1e69b903d65223d2",
+    "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+    "0xa3fc1d371fa06cbaf4b1f1c65cc9e7c06cd0871c",
+    "0xea2e87ff1bc1e52b640452694e2f143f7f8d64be",
+    "0x16729528002f37922b79795c732d28feee682698"
+  ],
+  "FOFplayer": ["0xd0b1baeff8f567fd66466a70d07bdefadae4f157"],
+  "Fantom Autobotdefi": ["0x86533b81cf46d10d81a67fe5956b988c68c4aa8f"],
+  "Thoreum Finance": [
+    "0x580de58c1bd593a43dadcf0a739d504621817c05",
+    "0xbb43322fd340891c8a880660fefeff2b9b477ef8",
+    "0xad20482ff101633cd758b13ff6bec45398418dda",
+    "0xf4168cd3c00799beeb9a88a6bf725eb84f5d41b7"
+  ],
+  "Enjin": ["0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"],
+  "Upbots": ["0xc822bb8f72c212f0f9477ab064f3bdf116c193e6"],
+  "Clapart": ["0x5e61e8e2aadb381af29c3048671b2d4477764ada"],
+  "Space Sip": ["0x9e5965d28e8d44cae8f9b809396e0931f9df71ca"],
+  "CALDANCE": [
+    "0x52b780550894683ca4f098ff2b35bf360e247906",
+    "0x5e5ad3f046586f639e4198b8485da70bd9bfc7bc"
+  ],
+  "Wcompound": ["0x0b771e34526886d9fff8e764cf557d1cb5943c89"],
+  "Binance USD fake": ["0x91daf74b06f00e0ce4a305a738a5feea7bc5f131"],
+  "Cat Finance": ["0x2f12c53537c70090a1340a573699cc7c3a4b5098"],
+  "QATAR 2022 TOKEN fake": ["0x011d0fb9fe0059081ae48e343c0ba3f26ffe2a2e"],
+  "NftyTribe": [
+    "0x3dd1fcff4889277b2c1bcd47c6ef4b926907e42b",
+    "0x567660fd965083e4fb96aa1a9a9dc707c344a085",
+    "0xf9cc25b179e062914fbe508287f46f65d3511148",
+    "0x68c983990dda14448890f1ba06983df87116e4e1"
+  ],
+  "Nest Fi": [
+    "0x8e32c33814271bd64d5138be9d47cd55025074cd",
+    "0x12858f7f24aa830eeadab2437480277e92b0723a"
+  ],
+  "ARBIX Finance": ["0xd20ef93050c0943f74f5f8ff0cc97c74139d6437"],
+  "Cyber Connect": [
+    "0x110fe2bc9cf45d29e9764da4f6274abf13111efc",
+    "0x2723522702093601e6360cae665518c4f63e9da6",
+    "0xdd2ec94890e2d92e131a89f73bfe124137e0c10e"
+  ],
+  "Altcoin fake": ["0xbebae46bdebf8741982e3026e1ccbf5e93a6e998"],
+  "Aqua Tank": ["0xf59a047b8a7aa114f03448362d56936693c00635"],
+  "NFTICKIT": ["0x0a9c1da5d20d32999d7f694deeabc6ea174b37df"],
+  "Untitled Platformer": ["0x8390fe5e3ce493cee09f4d379c4648552258a3fb"],
+  "PlaceWar": ["0xb91ad059c3170f5364aa50b53aedb5b1430be4bc"],
+  "Hashbit": ["0x8be0d805a2a54e6d49466617d2a865d63e7b4087"],
+  "Grinch": ["0xb3c0b3d3803d6c9acf6c1af89bf1cb728f8331b6"],
+  "Centre.io": ["0x55fe002aeff02f77364de339a1292923a15844b8"],
+  "Nami Insurance": ["0x58cdfe31c0b0709c4c758915db96cf130b340012"],
+  "Game Hub Denmark": ["0x5cb2c3ed882e37da610f9ef5b0fa25514d7bc85b"],
+  "Thunder Finance": ["0xd7526b3e1cb8c32900b51c4bd8cda85872407b20"],
+  "PandExchange": ["0xbef28aab3e70dfc5c69587edf85694ad3138c187"],
+  "BNBPunks": [
+    "0x9866771f6614fed021319d3dc1159baf5a960e8a",
+    "0xda938c7b9cb9f357c7f51d6aaa6b4fd9a0d6fd92"
+  ],
+  "Dogecoin (fake)": ["0x3a08cba0519aabdc125a2dfb56a36d29b4588999"],
+  "TrustKeys Finance": ["0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3"],
+  "Karma Finance": ["0x41c5a3489e61d8ae870356243fac403cfd2f57e3"],
+  "Smartlend Finance": ["0xca7c2bdca82ecd5ad4e44eba17020516889c8006"],
+  "CrusadersOfCrypto": ["0x6289812163af9421e566b3d74774074fac2a0441"],
+  "0x Protocol": [
+    "0xdb6f1920a889355780af7570773609bd8cb1f498",
+    "0xccc9769c1a58766e79423a34b2cc5052d65c1983"
+  ],
+  "Avarice": [
+    "0xe7d923444c21f9bd73f8d5972ff2e04114845143",
+    "0xaef3f73a20d19b998e85e6fcdb89cf4279be2853"
+  ],
+  "Mini Soccer Token": ["0x1bb2ddf857afc8cca364ff091462d607f1f37e9f"],
+  "UBXS Palm Island Game": [
+    "0x14eb5209659f80e37330dbc0b3d57bc8ba898c63",
+    "0xe465077c0a973c10db64eb0c9c53dc21f3fd40e9"
+  ],
+  "SNAPY": ["0xa24808a57ea01a67a546a50d127af9afcdfebe46"],
+  "Flappy Moonbird": [
+    "0x6719e34af1791b741dbe86192877597952c19f82",
+    "0x732d971921bb8cea983d0aba6a10d054d64aea5a"
+  ],
+  "Solaris": ["0xa42e6dc8916c0d22617e86b30dff3728ff798fa9"],
+  "FolkWarriors": ["0x8cfdbdb84a75cbe149c9a7c44fc911f2c33ce6a4"],
+  "Vancat": ["0x8597ba143ac509189e89aab3ba28d661a5dd9830"],
+  "Zodiacs": ["0x5649e392a1bac3e21672203589adf8f6c99f8db3"],
+  "Cowswap": [
+    "0x915f9282fed53f3f602b0189bfdfa61936bf3f80",
+    "0x9086c38d86509d61c9ae4845aad7019daa2de48c"
+  ],
+  "MetaKeeper": ["0x778f2cf960d2f68050cbe10c67db7c26d2236fe9"],
+  "Tethereum": ["0xe9a5c635c51002fa5f377f956a8ce58573d63d91"],
+  "Depth": [
+    "0xc57220b65dd9200562aa73b850c06be7bd632b57",
+    "0xbb1edaa1c11b18f2122e8268b71d670556ef6c5f",
+    "0x16f99577b259b069a2d1d166e70d349b11b1d325"
+  ],
+  "Freeper": ["0x6c89be4b5f0b995c062e5a49c5e396be90616050"],
+  "Treasurekey": [
+    "0xa47fcb3440651b09d204db2bf907178f7427c8f0",
+    "0x1f27f1667c334a157e143e0dc41792353541cdc0"
+  ],
+  "Aequinox Dex": ["0x0ddef12012ed645f12aeb1b845cb5ad61c7423f5"],
+  "VCash": ["0xc0072e8ca3cd11fd02897e4984eca35b6f4acfef"],
+  "FlappyMoonbird": ["0x56a87e5468b2db136dcb76ab81196c6423aae98c"],
+  "Poomp coin": ["0x69b2e8bcc2d476e5c2536efae6683d725b252bdc"],
+  "Spore": ["0x33a3d962955a3862c8093d1273344719f03ca17c"],
+  "Milkyway": ["0x0b2a7c6d1927ef4438d3fa9f3d33eb2feed38285"],
+  "BSC Swap": [
+    "0xf388ee045cab30321db3fb69eab7dfb0c20f10ec",
+    "0xd954551853f55deb4ae31407c423e67b1621424a",
+    "0xbd67d157502a23309db761c41965600c2ec788b2"
+  ],
+  "BRN Metaverse": [
+    "0x9b696a007195f55af289c2f7b0a1378826bbde33",
+    "0x5211215a361f44c83598719f6a0e9f8cae883f7e"
+  ],
+  "Alaska Finance": [
+    "0x179f876879d2ec709dda6afe0eb694bf7ae1b06e",
+    "0x5a68044bca1bfa4cfc858fcf3bd0e39049c3e700"
+  ],
+  "Safeicarus": ["0xd2f9b51c6a1b5598f0ea51ef95d70cb045692d0f"],
+  "Dragonary": [
+    "0xd9025e25bb6cf39f8c926a704039d2dd51088063",
+    "0x1d51e7e0cb6f181489c9f24e396e54cb02d1ef0e"
+  ],
+  "BNBCLUB": ["0x9b373918be8d30f167bd1c8fd68db394ee6a4f94"],
+  "Farm of Fortune": ["0x4b5e6d0c2c6d0540c38db5219bdcecc295e05e0f"],
+  "GFAL": ["0x47c454ca6be2f6def6f32b638c80f91c9c3c5949"],
+  "Mones": [
+    "0x89c68098af9fd68e0b95e75e96164cd268b70c00",
+    "0xac3050c7cc3bd83fd5b53fb94c0be385b1ca6d15",
+    "0x3f4769b342e278cbfb8d10735f4d06e60fd0623e",
+    "0x9badbd7cced2e9f8f8f06aef443fdc4ec127bb77",
+    "0xf14517ccdf954aacdb94c56dae8b7252b5067842"
+  ],
+  "Bitindi": [
+    "0x39342a7bcce21b4d463b865033f39b8f190186e2",
+    "0xa668f05c6b504df5b5773538c1cd5f16bbffcdda",
+    "0x77fc65deda64f0cca9e3aea7b9d8521f4151882e",
+    "0x6b78beec4813270c0eeb9ebb4b1dafafcac5072f"
+  ],
+  "Forsage": ["0x5acc84a3e955bdd76467d3348077d003f00ffb97"],
+  "astrochain token": ["0x42210a669975c8b2a704f2c99b5b1fd3344146db"],
+  "Rhythm": ["0xe4318f2acf2b9c3f518a3a03b5412f4999970ddb"],
+  "Delta Finance": ["0xdafce5670d3f67da9a3a44fe6bc36992e5e2beab"],
+  "Holo": ["0x6c6ee5e31d828de241282b9606c8e98ea48526e2"],
+  "Catcoin": ["0x081957c469d5ae28fdd5ba704072eef05cf8056b"],
+  "Pando Browser": ["0x7a3c45f34ea5df6fe5f6af710ec8a04d388a71d1"],
+  "WazirX": [
+    "0xc4e6366b88555b5e77d51131735e04f56732dfd7",
+    "0x23cad0003e3a2b27b12359b25c25dd9a890af8e1",
+    "0xbfdf64b48a46e66f665338ea3666d8c5db043f05",
+    "0x43b78588b1c91f02e070100501f6c045662560cf",
+    "0xe431659e48d6fbb5c79b2fe3d8aac3194f2e727b"
+  ],
+  "TasteNFT": ["0xdb238123939637d65a03e4b2b485650b4f9d91cb"],
+  "Carrier": [
+    "0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+    "0x98f3c9e6e3face36baad05fe09d375ef1464288b"
+  ],
+  "PangoLinu fake": [
+    "0x69115bd1d7a579d4ec7c33fd4899ac4d604627d4",
+    "0xf117c91f76e783205d8d19d298449a67d631a775"
+  ],
+  "Bitfinex": ["0x876eabf441b2ee5b5b0554fd502a8e0600950cfa"],
+  "Primal Pickem": [
+    "0xf19cfb40b3774df6eed83169ad5ab0aaf6865f25",
+    "0x4f17e8e976b809408d4aa3485bff9326df8ab505"
+  ],
+  "Pome Run (Pomerium)": ["0x0733618ab62eeec815f2d1739b7a50bf9e74d8a2"],
+  "Idriss-Crypto": ["0xab39e7c21b4a1d0f56a59699f0196d59efd739a5"],
+  "Chiliz Fan Token": [
+    "0xf05e45ad22150677a017fbd94b84fbb63dc9b44c",
+    "0x25e9d05365c867e59c1904e7463af9f312296f9e",
+    "0xbc5609612b7c44bef426de600b5fd1379db2ecf1",
+    "0xc40c9a843e1c6d01b7578284a9028854f6683b1b",
+    "0x80d5f92c2c8c682070c95495313ddb680b267320"
+  ],
+  "Cairo Finance": [
+    "0x0e2eca3ab92ed805f6fac946078155fc256572be",
+    "0x9e29e1bad3fc137340493ba49e6fad4fc224701b"
+  ],
+  "AveAI": ["0x969c8456db353a51befddd6cceccda4a923d8ce3"],
+  "Tron Mining": ["0xd1b868486e91e9655909f799d939f5ab3dda2809"],
+  "GOKU INU": ["0xf3955f4dfb9f300755aad6bc5bb196edacc44508"],
+  "Custodiy": ["0xc92289370e4ad36e9458feffa176aec5e6012b3f"],
+  "Unique One": ["0x225ea664e090a2caa0d81182a6b8e2d2ab791bcc"],
+  "SatoStake": ["0x88265a5c4ba1d7357c6ce4790bfa8cd787d44bd3"],
+  "Type!t": ["0x10bad81e111471eee6807fe66e5c5ae22298e000"],
+  "DIAMONDLOCK": ["0xb43b336cea33a298594f07ee515669b79c2bb14e"],
+  "DogeClassic": ["0xc18d3f4d72a8d893beca1c44adb73d25f2c8047a"],
+  "Horizon Land": [
+    "0xb94ff67c19fc89d268aeb493af03202b4aedb726",
+    "0x3de32990f224bca625f378da9f09b8825100c7ab"
+  ],
+  "bStable": ["0x9c00954a8a58f5dda8c011d6233093763f13c8da"],
+  "Infinitelaunch.io": [
+    "0x3d3efca411b1ec8744e3ff641626a26bad3a04ba",
+    "0x4fbedc7b946e489208ded562e8e5f2bc83b7de42"
+  ],
+  "TeaSwap": ["0xc5377314018c3f0d35c4efc25f3895d480174f78"],
+  "MillionWinner": [
+    "0xb03283840a7d1bc29d4cce08efc48c47229cd61d",
+    "0x24a1d321e6630e394caea278811e365333d799c9",
+    "0xc92ecf9a8ec95900a2efa4df2dfb1d0bf348ce2d",
+    "0x443860ad3746ac6f5db8cdef60e540e1230c8849"
+  ],
+  "Sushi Swap": [
+    "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
+    "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f",
+    "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+  ],
+  "TIP": ["0x20979d17c33a9ef2a0a8b67cfc342968c8d17ce1"],
+  "Elyt.Net": ["0x0d1d88f89e70d05623fbb22b175c07c4e18d17a6"],
+  "EyeSwap": ["0x2b54d3d7ab8e65895168938f7145f39225db7ce5"],
+  "Tetris": ["0x7924afd2b21caf0ab09e53cc91cdec0761db99b4"],
+  "Beincomm": ["0xa28c6f6b157be29fc6532d8335b41d8046df2e77"],
+  "Crypto Legions Bloodstone fake": [
+    "0xc287c0509a94ffda264a52180d7e226b2dfdbb12"
+  ],
+  "AXS": ["0x715d400f88c167884bbcc41c5fea407ed4d2f8a0"],
+  "Early Bird DAO": ["0xc5ac5b72c9b86b5996f1d251efd36a9f3fc607bd"],
+  "Valkyrie Network": ["0x0b6f3be1b3c8cef713626edbcd5fda5b0fe4fdae"],
+  "Mechcraft": [
+    "0x526a913a7a4518aa2abc3dcd3c46a9c73f40f94a",
+    "0xfc7d1537f7e125668af50e7a293e3adf761d21cf"
+  ],
+  "MConcent": ["0xd3c51de3e6dd9b53d7f37699afb3ee3bf9b9b3f4"],
+  "Zombie Farm S2": ["0x94c7fd5adec36a35664586709c4f1ff46b93ce58"],
+  "Fstas": ["0xa2c9823fd573c9079f9d95a0127b97b845bcc5e0"],
+  "BlockMonsters": ["0x287db351d5230716246cfb46af8153025eda6a0a"],
+  "PandaPets": ["0x03262e4accb5d169a9a18d0885c116e795fca8bb"],
+  "DogemonGo": [
+    "0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+    "0x637dead068d4874c88d957ae68eed7c76a9c3f52"
+  ],
+  "Ebok": ["0x6e20ce224c087336143bdd4fff616729b8f921d0"],
+  "Metacard": ["0xcd006f1958f6511940c74f62f2a724db00b099a6"],
+  "Senspark": ["0x23383e18deedf460ebb918545c8b0588038b7998"],
+  "Securo Finance": ["0x8fd52c2156a0475e35e0fef37fa396611062c9b6"],
+  "Metahero": ["0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13"],
+  "Rafaland": ["0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1"],
+  "Satozhi": ["0xf4341fa52669cea0c1836095529a7e9b04b8b88d"],
+  "Binance Tiger": [
+    "0xffd60c4ec6a6afb0da8d5703102a19f4d2af8881",
+    "0x69297784540fb3f7f60dca40417d5d0099cab1d6"
+  ],
+  "TukNuk Finance": ["0x838d5d311d0bda22d7fa2f687a63514966d68c3f"],
+  "DinoX": ["0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0"],
+  "OlySport": ["0x74c1815474a75dcb366223107cde1bba4a1a7296"],
+  "JDIYield": ["0x859f4e52fe4076d483a2ebcf53ae69a35eba7aa5"],
+  "Beepo": ["0x87c6ccc98f62d2aa4bd072610b8064991bf81d83"],
+  "$Bonk": ["0xa697e272a73744b343528c3bc4702f2565b2f422"],
+  "HummingBird Finance": ["0x14357d294fbabbe0fbf59503370c772d563b35b6"],
+  "Parma Fan token": ["0xf7f0dc9fd88e436847580d883319137ec2aa6b94"],
+  "OK Gold": ["0x8b57148723f938235afabdb8b070c78f9ccea6b0"],
+  "GameSpace": ["0x9a4c924494aeff44d30b8338b1615e847c80c8d9"],
+  "Kaiju Worlds": ["0x25988fb740c48daf68526814bb11338dd17f3559"],
+  "Roseon Finance": ["0x651cd665bd558175a956fb3d72206ea08eb3df5b"],
+  "FlappyMoonBird": ["0xc6225f1125f863844f2caab54af9e87077b181a4"],
+  "Homie Wars": ["0x71f7765057e289a503627923495c22bd11d3db2a"],
+  "LABEL Foundation": ["0x77edfae59a7948d66e9911a30cc787d2172343d4"],
+  "Rune Farm": [
+    "0x4596e527eba13a27cd02576d023695eab0a6b210",
+    "0xa9776b590bfc2f956711b3419910a5ec1f63153e"
+  ],
+  "Eifi Finance": ["0xbbf33a3c83cf86d0965a66e108669d272dfe4214"],
+  "HeroFi": ["0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf"],
+  "PVC Meta": ["0x75ca521892de7f2ecfb070cab545c250d0ceb7e3"],
+  "(Arbitragy Bot)": [
+    "0xf6874c88757721a02f47592140905c4336dfbc61",
+    "0x488e3a4bbbb2386ba619eed88319e807c3ddb6c2"
+  ],
+  "expetra": ["0x4486801ebc1bc920291282a63fadab0bff7b30cd"],
+  "Qan Platform": ["0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa"],
+  "HappyPonziBSC": ["0xff414a427f713285f317ac9ab4e841cac2228c38"],
+  "IDRT": ["0x66207e39bb77e6b99aab56795c7c340c08520d83"],
+  "PornKub": ["0xaf7e9ea4bc4720de73956793fe106f5cad9be562"],
+  "MyPoints": ["0xd0ba1cad35341acd1cd88a85e16b054ba9ccc385"],
+  "PremiumBlock": ["0x6153c98b44779ee4104c592d9774b26a2e8ea452"],
+  "TicketNFT": ["0x213eb129df6f2774b3ec67f08ca9ba4e1b4365bb"],
+  "Street Runner": ["0x36b3a8eecc45ce4ff9471ec673f2121724611e2b"],
+  "Dmail Network": [
+    "0xec4b76ef0f79bc8feee9c5c10bc711eee1e423d2",
+    "0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c"
+  ],
+  "W3DNA": ["0xe1e538accad918c2f5924fbebbd11867ff89f473"],
+  "Baby Cheems Billionaire": ["0x4b8aee037ea3add2c1d9dd140ba0e5dd4dccceb7"],
+  "XCAD": ["0xd069599e718f963bd84502b49ba8f8657faf5b3a"],
+  "Tether(fake)": ["0xe61acdbae80580422dd1a141abea7d4baf26a440"],
+  "lezcoin": ["0x7d89404c0413c954ae3d2c288a1a51c0b73ea43c"],
+  "Ignite": ["0x679b8641bdddc0a9e8e2652200c153dbb881f5fd"],
+  "InteractWith": ["0x07c13daf8adb5d842cde31d7601738a0e0b82495"],
+  "ApeTools": ["0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f"],
+  "Xcel DeFi": ["0xc79d1fd14f514cd713b5ca43d288a782ae53eab2"],
+  "UltraNFT": ["0xdb29192fc2b487bb5185e155752328d4f249743c"],
+  "MonsterGrandPrix": [
+    "0xcbd7142e42666132abe1f4c57996b2d5e8b0c9e2",
+    "0x1eb98a53afe4467836805005682677a0de57c22f"
+  ],
+  "Ecomove": ["0xe3777115f58b960e23b15c55486ca7b0442cac47"],
+  "MobiFi": ["0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544"],
+  "Fantasy Tales": ["0x8406fe61898b59a03375aa45ce3521fae1073beb"],
+  "Safe Zone": ["0xa701ec6b9c1883fcf727fed7e41fe925a1b1e91c"],
+  "Emulai": [
+    "0x2c2cb9f699235022ed857363ab140c9af03dd33d",
+    "0x27bb3307d2317a271242fc4dbac4688717fbab0d",
+    "0x04cded54b609fd307e97f9be41ec48bf5f3c5c81"
+  ],
+  "Detreum": ["0x960636e24b279c5cc6b73e1a5a1d71c212ffc414"],
+  "Wallet Swap": ["0xc72cc401122dbdc812ec88a2150aad5a39467401"],
+  "Polkawar": ["0x16153214e683018d5aa318864c8e692b66e16778"],
+  "Rabona Agency": ["0x413fc0343c72d2d4bd676b91cb6e8929ac4e72c0"],
+  "KFC": ["0xf6ad779ad69fee7e44514e3efd20090ab43fbaef"],
+  "Infinitycrypto": ["0x58e3e2061c7dc94e06ce9e36c3db0e5687d88f12"],
+  "Sponge Finance": [
+    "0x849233ff1aea15d80ef658b2871664c9ca994063",
+    "0x303961805a22d76bac6b2de0c33feb746d82544b"
+  ],
+  "DPK": ["0x8531aca7bab87fc953ada1afb7b1a89bb151b4d2"],
+  "sCrypto": ["0x2d325c3d4534f7d211ba98f068463abf8777ad80"],
+  "Scouthub": [
+    "0x59763198ef8601973047a3b89e08897a497cdd2e",
+    "0xee7b7c840de85ad277cdddaef63b3b29672a3c58"
+  ],
+  "Splinterlands": ["0x1633b7157e7638c4d6593436111bf125ee74703f"],
+  "Bilic/Tutusend": ["0xebb3c20d2c8a625b02eb50e52bbd72b10c2ac98e"],
+  "UltiCoin": ["0x42bfe4a3e023f2c90aebffbd9b667599fa38514f"],
+  "Basic BNB": ["0x29d61775cfa469db15c5b6794a917d4e4a982a39"],
+  "The Animal Farm": ["0xe5d9c56b271bc7820eee01bcc99e593e3e7bad44"],
+  "Calamus Finance": ["0x39a7545d5043be7e1c170925c41494383dd7f5b1"],
+  "Touch Crypto": ["0xd96dc1a49b189eeaa9f01301e45b17f3e403dfae"],
+  "Tether USD (fake)": ["0x7a5d24a7560eb4d0751e9792da221083ef3733e5"],
+  "Safe Trade": ["0xf6571b93adc7d5fd708934bc9baea013321f3872"],
+  "Feng Timos dog (HANHAN)": ["0xa12f829a5fefcba0390dc71c28c6824401680aa0"],
+  "BTC (fake)": [
+    "0x85fb16f23f1adef93d1880a91420058b5fa411b0",
+    "0x66c61ca34c309b45d44267fcf3e6a2a3578d1ca0"
+  ],
+  "ProTradex": ["0x2cb6030c1a73659154ce454ddd7d61940ca91a00"],
+  "JuneSwap": ["0x300f3df94e7716f763a64f2173d945e06fdf2b86"],
+  "ProphetX": ["0xe4ca6070e02459b665d95f17cccf03eaba112fe0"],
+  "PetGames": [
+    "0x540af58feeb68fd53a5f6f3eae664b77a7ff75d4",
+    "0x499b088ae43d1fe02b0e5988081e973aeeeda38c",
+    "0xe285ffc9018af9791c8ce0ab366dc1e9045a2589",
+    "0xfeea83a7ed219828e61b4d71cff7eeeda2769075",
+    "0x09607078980cbb0665aba9c6d1b84b8ead246aa0"
+  ],
+  "KAKA": [
+    "0x3565ac59aa2127d4c45bd050b673fbe6202cd742",
+    "0x68dad547cba9335e29df5a4670f67e11ccd1c940",
+    "0x646b31b5dba095537ee5f101f57062338d3c2ed7"
+  ],
+  "Octopus Protocol": ["0x14fc542fd0364ad8361274657cab141a8c8820e0"],
+  "The Rift": ["0xec96aaa5d5df795ad9751bcbd73b3f303d2a8987"],
+  "Samurai Bull": ["0x6f866cf8a72dd5f21c5cbeb0a0a157484aa9023e"],
+  "DeCir.io": [
+    "0xddab42b6324fea21f38850a40c241848cba44080",
+    "0xfdeb38ddc19f1372b5a8bc299ef57fdf741638fd",
+    "0xe9a68ec662fab1f4c1839259be22201a9fc3fcb6",
+    "0xeb0541246ce18e277a08a4bf8f7aaae2d3476ae0"
+  ],
+  "GOLD GRINDER": ["0x9c4e30830694345064f7d53db07139c16641bd2d"],
+  "MyConstant": ["0xe43b00b078463ca246d285be1254767da0003cc8"],
+  "Bartr World": ["0x650cd13f26f9b3054ee88111e9b55fffd0d9476a"],
+  "Doge Back": ["0x08c975868e547bfe5f76db7d1e075680e9736034"],
+  "Waterfall Finance": ["0x1811b7ed3b613805a9a4b4b1b80c99d58af32576"],
+  "EMOVES": ["0x0515861897e5416cfbb78ceec389aa734e4e9d7f"],
+  "Gamamobi": [
+    "0xee6d82f07f0aca11061d9b36571a7caeb320b1f7",
+    "0xbbc20ceac0a28f25f8f68cee4af5df59b1d30e3d"
+  ],
+  "Buff Doge Coin fake": ["0x5be1cb927e515e09789be14931d34d852b074a28"],
+  "Luna Classic Burn (fake)": ["0xe349422ff64d9418c1b2e40d2ca5f4caade9d6dc"],
+  "SHIB": ["0x2859e4544c4bb03966803b044a93563bd2d0dd4d"],
+  "Zamio": ["0xbbcf57177d8752b21d080bf30a06ce20ad6333f8"],
+  "FatAnimal.finance": ["0x225b24587a413a869f8a2414092e10ea83727c52"],
+  "Unix Gaming": ["0x6569867d6aa0a862b8ea1128c2ea741fe1674458"],
+  "Bitchip": ["0x7ea2b25c1a558c6f9b4649358183152b0ea4c03f"],
+  "Rove Metaverse": [
+    "0xe178311439b06c85b066dacb65f683791b1ed7a4",
+    "0x1d1b39d000db557604317f1d0677388f4d39c49c",
+    "0x13cbcfeb3aeee469b7cf0a3135d32d04e05d41ae"
+  ],
+  "Flo": ["0xe6395549e9a74a0a7283f8f4657888cbd32f9e21"],
+  "PooChain": ["0xa1611e8d4070dee36ef308952cf34255c92a01c5"],
+  "Tangible bridged": [
+    "0x81a7525cd96603eb335a9e6e8473246f232fd71d",
+    "0x2952beb1326accbb5243725bd4da2fc937bca087"
+  ],
+  "Loop Audit": ["0xcd772a1f43526a54df526944a7c61f1a82fe58d5"],
+  "FoxyNFT": ["0x4354a4f710182966e55ea30cfa807fa1b821a67b"],
+  "SuccessINU": ["0xce35f335b1bd0ec37651e15b030cdf83c95591df"],
+  "Fantom (fake)": ["0xf044ad06cc35552217a954d459fd30b85fdfcdf2"],
+  "MoonRat": ["0x68590a47578e5060a29fd99654f4556dbfa05d10"],
+  "WallstreetSwap.Finance": ["0x2dc38868a9215a1347c6fd8480d4a127da4812eb"],
+  "SpaceBusd": ["0x1f69e2ff411d08790562ef55f3de152e5853dee3"],
+  "EUSD network": ["0xa1fd12820f0c1c492dd87f8a0d12043d8f24f8a6"],
+  "Memelordz": ["0x2541be91fe0d220ffcbe65f11d88217a87a43bda"],
+  "Stable Beans": ["0xeaf770a86002472230c66035e83fc10af92c9f24"],
+  "Floki Shiba Doge": ["0x2a376e3da0691c993e3e4e938766a2a76403a7f6"],
+  "Atomic Blue": [
+    "0x5c3c5676e286fea1dc1a1a87a980822806969c3f",
+    "0x0f11c3fe04b957f9fc07f39062e5843103492160"
+  ],
+  "Zaiko": ["0xe30bac1331608d1ff16a669639b68a15dca50507"],
+  "PreLax": ["0x32d7b49e5e69c6c2f6d05cf4d86d9857d83add48"],
+  "GAMER": ["0xadca52302e0a6c2d5d68edcdb4ac75deb5466884"],
+  "Shopnext": [
+    "0xa6c59de838f1eeb82d86f5af0750f5f656439999",
+    "0x36530092b1413c21ab7e5203197cf76d4d598888"
+  ],
+  "1-BNB": ["0x84cfbf9c63c4ff020a32e35f2311b9a08eedf20f"],
+  "Bezoge": ["0x41080ca7be4b3f0cacbd95164e9a56b582382caa"],
+  "DonutDeFi": [
+    "0xe4ed1a6f00daedaaffd95aa3918fe3ad572cf9fa",
+    "0xebcb79f82b65076152815ab9d0f7be8fdd579673",
+    "0x9c994bd7df0fbda6f3fe3178783face2b18e4dbe"
+  ],
+  "Quest3": ["0x07dd397f8af5dca50329fa9d5524a751048fb00a"],
+  "delta.theta": ["0x000000000092126dc1bcec881165f92169733106"],
+  "Crypto Fight Club": [
+    "0xe4316e7ebf40e1c253745bb8813b8fcbd98affcc",
+    "0x4f39c3319188a723003670c3f9b9e7ef991e52f3"
+  ],
+  "DeFiHorse": ["0x08a0e1ce1710c1aae57aecc5876df0d2a053eafd"],
+  "DegenPunks": ["0x8f706e0af99b6581dc406bba8cf8db14bcdb949b"],
+  "RiseMyDoge": ["0xc22e54984021ca144a805727c497b0f6648ad064"],
+  "PugDog INU": ["0xa56b49db164d37be2f5df2830db0c666380cea66"],
+  "null": ["0x160a21bfeac433c3a48cad0bd92e876b7826ea37"],
+  "Mars Farm": ["0xa9ba5a49ae258788b5da7985926ad6c71beaf879"],
+  "Walky World": ["0x62e82fbc2be27c33ee719dec5a2dc54eea130e31"],
+  "MyPetSocial": ["0x9eb5b7902d2be0b5aaba2f096e043d3cd804e6df"],
+  "NanoDOGE": ["0xcae755389bee1b066f4713f3909983b48161ae2e"],
+  "Listofgods": ["0xd0a74eed684243f3a265d227987323a516944cb6"],
+  "JaguarSwap": ["0x8e4301509a484c6fc211c8902013e90cd416f58d"],
+  "PundiX": ["0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"],
+  "Oracle": ["0x19d76f29ca659bcfe95056a4b03885cc1439b257"],
+  "Apegrow": ["0x8832742f2c2fa9bb5b83be69408882690d810471"],
+  "Crypto Legions Bloodstone": ["0x10cb66ce2969d8c8193707a9dcd559d2243b8b37"],
+  "Pink Bubble Fong/ Baby Shark Universe": [
+    "0x4927d27d4186b78ac6d674066a30eaa63d5686f8"
+  ],
+  "Daddy Doge": ["0x7cce94c0b2c8ae7661f02544e62178377fe8cf92"],
+  "Nether NFT": ["0x8182ac1c5512eb67756a89c40fadb2311757bd32"],
+  "ChianLink": ["0x514910771af9ca656af840dff83e8264ecf986ca"],
+  "Dotmoovs": ["0x0ebd9537a25f56713e34c45b38f421a1e7191469"],
+  "CRYPTOCAMPO": ["0xe2306c6d842b63d5b97163924c8c12ec37cca5c4"],
+  "Bitter Studio": ["0x7ddec19b2e09e57c681c715b764a9cd0f4f607c7"],
+  "QuantiumXC": ["0x9f05e8b88738af0b8aec0ef56228e2aacc42a148"],
+  "Mango Man Intelligent": ["0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8"],
+  "Artik": ["0xdbe373d9374cee42cdd40754c71cd3f5eded4da7"],
+  "Musik88": ["0x9ae1a09a9d7fc2510602bff8c760fc8fd46334da"],
+  "DOGBoss": ["0xae91c3a83fe9b4be2423a98260c66436070244a9"],
+  "HareToken": ["0x4afc8c2be6a0783ea16e16066fde140d15979296"],
+  "PHO Swap": [
+    "0xf66404514d933975cfae9f8fa5ab435e9f1e4c03",
+    "0xb9784c1633ef3b839563b988c323798634714368"
+  ],
+  "WEB 3.0 Browser": ["0x697282d6c50263e061df6f76221b3a22b660b843"],
+  "ArtiProject": ["0x5d33254591f34c89385af385a8cc8a16a1326eb1"],
+  "Trust Mining": ["0xd93ae0e2ef37f641fb9f027be58652ac1bb9010d"],
+  "TwitterDoge fake": ["0x3a872f767544b5925eb9443fbee038f04bab45be"],
+  "Swipe": ["0xb562ad0f2c2fc1aa800ae70b9716f8009c1b7bb8"],
+  "Moon Protocol": ["0xec7d0327fc48ef7efa975a4e3327f28576c3ef96"],
+  "LaEeb": ["0xee5e42bf7bbb546819a22f127012495e0e4843f5"],
+  "Cerberus": [
+    "0xaac5636dbdf8e64dd75d44066990b23085ddc39b",
+    "0x313ebed9092b49c6e404c61ca883ec3ed88e9c62"
+  ],
+  "Green Universe": ["0xd6d5342e5a91a5815124da6ff545456ce448d7c4"],
+  "Witness": ["0x385bd7ad68da2974bb307793a454885b3e79b509"],
+  "Flourish-Coin": ["0x5f396aae5c15b3c38cd87424a71c0f7a446b74ff"],
+  "ANON INU": [
+    "0x64f36701138f0e85cc10c34ea535fdbadcb54147",
+    "0x9425315fea3412fd4a0afbfb69b99d8312dc749a"
+  ],
+  "Minereum": ["0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf"],
+  "AMAKUNI": ["0x5fa891e95c948288a376c92fbd3afc83d488d5a8"],
+  "Ariva Digital": [
+    "0x620c6f8256e9540780a5680a5ccebce73e6682a2",
+    "0x6679eb24f59dfe111864aec72b443d1da666b360"
+  ],
+  "EYEQ": [
+    "0x8fc2ea682aec73d7d852fcc14ca0ef1c4751d191",
+    "0x74664fc5babf67a89a52fcc556264240d24a5138"
+  ],
+  "Meer": ["0xba552586ea573eaa3436f04027ff4effd0c0abbb"],
+  "SDAO Labs": ["0xb6e8233069a7080a3a9c0a17c8aa069f7907a2de"],
+  "PISTON": [
+    "0xbfacd29427ff376ff3bc22dffb29866277ca5fb4",
+    "0xbd6e5d331a09fb39d28cb76510ae9b7d7781ae68"
+  ],
+  "Bepstaking": ["0xda87dde470bef32ab57aede40edc38f5a0b5ebcf"],
+  "Quantic Qube": ["0x4d9dda243b0aeffbb23ca1ab3f186507e2706920"],
+  "Shib Gold": ["0xd3939480e402c9f45c4c9d5abce99682fb6c34f9"],
+  "Moniwar": ["0x411ec510c85c9e56271bf4e10364ffa909e685d9"],
+  "NFT5": [
+    "0xd1610cc3a3db892f8f2a67caae1a9901b82ce600",
+    "0x6f61810e3f4d128b2033b00e72e130ec60479b80"
+  ],
+  "SafeShark": ["0xf7321385a461c4490d5526d83e63c366b149cb15"],
+  "Suterusu": ["0xa19e53af2381f34aeca80cdcebf6c4a3f37037a2"],
+  "XRP": ["0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"],
+  "Smurfsinu": ["0x75afa9915b2210cd6329e820af0365e932bc1dd5"],
+  "Sprocket": ["0x487bf837aa1a42764ac26e538f32f01196f56d2a"],
+  "Gametrade.market": ["0x9a5e73930c2ee04b0e49625cb0941d346419d6e4"],
+  "BNBTiger": ["0xac68931b666e086e9de380cfdb0fb5704a35dc2d"],
+  "Cyberpop": ["0x23b5384c6d426dc3b2794229774b3d20cac7baa5"],
+  "Planet9": ["0xeb49865c886b03fb4a92bb133c9fa49609fa213e"],
+  "SheepASheep": ["0x3a4329758940fd7ea94b3754158795eb412b824a"],
+  "Farmershiba": ["0xc9a06f392782246367f15d522255ea32565cfc13"],
+  "BTC-POR": ["0x7e20fec0e64e81e4b9812bd4886cd1fd3ad4df45"],
+  "UBXS TOKEN": ["0x4f1960e29b2ca581a38c5c474e123f420f8092db"],
+  "Star Symphony": ["0x841094f070c96ec9913f1cb7f73338b6a3c4907f"],
+  "BabyDogeCash": ["0x4cda4daad72340b28925ccd6fa78db631267d3c4"],
+  "metaoneer": [
+    "0xd13747aedffd4c9be34f66c09f32146800754df4",
+    "0x854cf8daa01f26c90ab3598ce4d7533b5b133765",
+    "0x3b40d5321b5dda8c0ba0032fdced1cf356bfba57",
+    "0x853a6b9f08725903c21c70ff162f74322b6bee2d"
+  ],
+  "LEO": ["0x33b03f14baeba05292bf15490fdfcafdd19cd746"],
+  "WixDomPlanet": [
+    "0x29219f0f23bd5f0e58f55f8da2dd42415158e371",
+    "0x820dfaf53c98a54182a17884c35d02b98ee28d94"
+  ],
+  "YummyCrypto": ["0x05f2df7b3d612a23fe12162a6c996447dce728a5"],
+  "MushRoom": ["0x36cb43eb6f5168a1f8310b030a4de6b3b58b4664"],
+  "Deflationary XChange Output": ["0xf6e05fd0925009c0d18c9dcdc1e206e4474b2e33"],
+  "Bicyclefi": ["0xe78ad8967e523a29d4d3a8e76422aa7ab2b6a47e"],
+  "Bondly": ["0x1eafba5d4af1540c4325c8c41e87c533ed85f1c1"],
+  "Qian": [
+    "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
+    "0x790fc831ce6d2aa3df149435b2af375f5bb5701d"
+  ],
+  "Suntrust Finance": ["0x319bf3bb8ab93658074be595c4aa55cd60380af7"],
+  "Moon Chain": ["0x6fc015dc3283369125cc31907eef990b8f67a7a1"],
+  "DogeBTC": ["0xb3fa62ed37e885e3f6b98f1bf9eaa724bb9aff39"],
+  "Farm.xyz": ["0x4548160b5d4127be1bd1f2fa0f1be8c2de34c0ce"],
+  "Cosmic Journey": ["0x80ed1231007c46ac66c18cad5d7ebf63b16d8306"],
+  "neuronchain": ["0x06ae7a979d9818b64498c8acafdd0ccc78bc6fd2"],
+  "MoonNation": ["0x5941f87eb62737ec5ebbecab3e373c40fe40566b"],
+  "Agrify Africa": ["0x153d95d66051f321cdbb79f5cd700cdf02144cb7"],
+  "NutGain": ["0xc091377110acfb780dfb9f6c200b2ef81d8ce4ab"],
+  "DGT": ["0x90fe761c696066672190cc62a84a2a41bc630a1b"],
+  "Hashbon Pass": [
+    "0x0db0cd68f1189219a01b8e0b38c8c3bab269929d",
+    "0x6b74dd1eb6623702991fb39012d555fcccbb74a6"
+  ],
+  "INUKO INU": ["0x5f8203dfbbe6f883c54f68eeaef4ef6f706ba083"],
+  "CryptoSnack": [
+    "0x86accc2580da5bd522a0eec7c881a0d4f33de657",
+    "0xc0a95d28cd0c98e555b7448e1216456a62ab287c"
+  ],
+  "Cosmic Fomo": ["0x587cbe061e96a425a60a637f430c2b20e6da7a86"],
+  "CumRocket": ["0x27ae27110350b98d564b9a3eed31baebc82d878d"],
+  "Clamisland": ["0x1cb9abaf22cb2d41808c998bbc07ee9e773a007a"],
+  "LaunchZone": [
+    "0x0ccee62efec983f3ec4bad3247153009fb483551",
+    "0x4211959585c8f18b06dab8b5bb0bc825cad4c1de",
+    "0x544fde4e25dd7e0aff084f4975d808ae366b746b",
+    "0x3b78458981eb7260d1f781cb8be2caac7027dbe2"
+  ],
+  "Art of War": ["0x5ff342d714d8a69eaf10f48bed2d2e5a67bd4c34"],
+  "NFT Gods": [
+    "0x1f372b60e4b1812030e7a945fd71f65ae53332c4",
+    "0x54973896b1ee3e9f6b5ada20d9f34ad66b9cf79e"
+  ],
+  "Coinshift": ["0xa6b71e26c5e0845f74c812102ca7114b6a896ab2"],
+  "King Finance": ["0x66e5388c84da5a30ebe58eeac73bbceb59c9f1ae"],
+  "CrowdHero": ["0xca76a652ac3c3f3b8669bd41e22a9257bc6a6bc6"],
+  "Nawarat": ["0xf854b6224181e2eeed3f8584f2228ebc1f91eacf"],
+  "Reta Wars": [
+    "0x829555f1197171d35ec51c095e27b47a246ac6a6",
+    "0x2a451ee1ad93851dd49084b3dfb08f5a189db5a0"
+  ],
+  "LasMeta": ["0xbc2e674dfe0d885081f429b296d7ae2b784d1198"],
+  "Crypto.com": ["0x6262998ced04146fa42253a5c0af90ca02dfd2a3"],
+  "Stellum": ["0x71f335ad4a6635b53610285a3ec265e6ca794967"],
+  "Slime Finance": ["0x34766241a5df0483545a52ab1dbd5ec88e251dd3"],
+  "Tumi": ["0x71845240485c5339b3192a820f5fa152c093d93a"],
+  "Mad3.me": ["0xafa47b2b55ad7ede75e38adc84e94141ca9ea657"],
+  "RYIPAY": ["0x5dc2085fe510bbaaba2119d71b09c25098caca3f"],
+  "Footie": ["0x1062b27581401aac6b32a41d9507d1986f8b23e7"],
+  "Better Fan": ["0x527dfbcd5600b6821e7c0b390ab31d5942316ee7"],
+  "AMPL": ["0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f"],
+  "Infinitee Finance": ["0xc350caa89eb963d5d6b964324a0a7736d8d65533"],
+  "Trantor": ["0xa8f92ccadc28559c97c183639c840d808e1d9fda"],
+  "Wizardium": ["0xe125e9abe7fc62e484c5694b39b4a19ef88be641"],
+  "Get verso": ["0xfc4124d107ac29e3b1638c335d768d54a8cf5700"],
+  "Cryptobanko Club": ["0x79c674156c4d6735121b546c4542bfd0c22ea573"],
+  "Bella Protocol (fake)": ["0x74f8b57744eeadbbbfcb1df58614d8793df69ad0"],
+  "Infinite Battles": [
+    "0xb31f11774cd96517b0cda9ff49b9d8e6219f3a58",
+    "0xe6f4cdde36030da27ecda749895f73e1f18faf91",
+    "0x1958cc29ecfebde467f094298ec7dd58f5d046a8"
+  ],
+  "WarshMallows": ["0x447b4dfa3976ad22e8ed5c4b6caeb808d297c211"],
+  "Rich Quack": ["0xd74b782e05aa25c50e7330af541d46e18f36661c"],
+  "TrustWallet": ["0x4b0f1812e5df2a09796481ff14017e6005508003"],
+  "Luna Rush": [
+    "0x415a7f270585277102b352c8ba4c97ef7fd30d80",
+    "0xde301d6a2569aefcfe271b9d98f318baee1d30a4"
+  ],
+  "Verv Digital": [
+    "0xbcfc2d61f74d67a15d2fc3a6875e7933d7191ff5",
+    "0x368a0fcdcf3949fc93e63ae8d2702b96d76ecf9a",
+    "0x79b8807c7023febd958d7eb6d90661efc177261f"
+  ],
+  "SEXN": ["0x61a607fa127da4d61f28fe39d371db8f2c06ca4c"],
+  "CryptoPlanes": ["0x04260673729c5f2b9894a467736f3d85f8d34fc8"],
+  "Ghospers": ["0x4a0cc0876ec16428a4fa4a7c4c300de2db73b75b"],
+  "MajaToken": ["0x7356f6d4d9802ac66ce4349b99aedc80b1ac65e2"],
+  "Omino Finance": ["0x7d0fa3b5771d9a71b188f9ff3d2ebaabf3faf299"],
+  "SEAMAN": ["0x6bc9b4976ba6f8c9574326375204ee469993d038"],
+  "Neblio": ["0x5ceae8dfad98327412c43d6bc767f20bf884d635"],
+  "Oopsie Doopsie": ["0x7427c468c41869d194575b4d22c3ada2b484e504"],
+  "Jed Star": ["0x058a7af19bdb63411d0a84e79e3312610d7fa90c"],
+  "WeFund": [
+    "0xf1c418a1a9e6faccf09cd11a7a2e43d3770c40c2",
+    "0xa339899651123471ac6fa8fe12d6e30a12e8f9a3"
+  ],
+  "Fusion Heroes": [
+    "0xe34653265484200a4b791851f7c37e25aab8d4a3",
+    "0x0d77e65f231ab6214492498788cdd9441dd0ce72"
+  ],
+  "ZeTBNB": ["0xb89add4a17eadb084a065f9cace752a268dab8b3"],
+  "Havah": ["0x00fed84e0fcb51f782b6915df1768d9a9f0e64f3"],
+  "MiniDOGE": ["0xba07eed3d09055d60caef2bdfca1c05792f2dfad"],
+  "COIN98": ["0xaec945e04baf28b135fa7c640f624f8d90f1c3a6"],
+  "Proof of Elon": ["0xa00544d5cd3bf9bfa53f2f91aba07e172d59f752"],
+  "ALPACA (fake)": ["0x481f5b92f5271e7b3b0f88c3a3147e8e388163ce"],
+  "Camly": ["0x0910320181889fefde0bb1ca63962b0a8882e413"],
+  "MoonPoly": [
+    "0xcfd947b1ad06c39522fb67fb00b21a3fda906e34",
+    "0x2a74b3497ae09ee809960d5c053ec23cc58fdfce"
+  ],
+  "Minter": ["0x0da9d027012afed5fa981eca54523113e0938ac4"],
+  "Green Chart": ["0x7403802c0ffee2d83fb13513e23aaf4a3a9c69f0"],
+  "NFTmake": ["0x1e2701d1e4f11262dad7c6f7922e3e44e14d7e40"],
+  "Gunstar Metaverse": [
+    "0x639fc0c006bd7050e2c359295b41a79cb28694ba",
+    "0xe3edee421271cc8e20bb43534e0d866beed8b491",
+    "0x593cb81d024609b6293fe9bc6d93b205fbc953cf",
+    "0xe20ba8986ef0395fe41fcb5db4c1bca0a47ddb23",
+    "0x7edc0ec89f987ecd85617b891c44fe462a325869"
+  ],
+  "Compound Finance": ["0x39aa39c021dfbae8fac545936693ac917d5e7563"],
+  "Zaigar Finance": ["0x280c3fc949b1a1d7a470067ca6f7b48b3cb219c5"],
+  "Solo Labs": ["0x783013ea95e874a418cfc94a7616c2660d4c3011"],
+  "TRONPAD network": ["0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4"],
+  "Root Name Service": ["0xe10627c69fd616fe772a674d0310c40b1ec22844"],
+  "Pink Paper": ["0x77e38ca8d0865ce9db695bff37c3f3757e3ab2d3"],
+  "XBN": ["0x547cbe0f0c25085e7015aa6939b28402eb0ccdac"],
+  "Diablo Coin": ["0x0cba4dc4270561154f9a99369f6bc490c4a5644b"],
+  "kiemtienonline360": ["0x2ead76767bd9bbe1068ca2a9db83122d44fb043f"],
+  "CoinToFish": ["0x55e00121241d6870324a8e6dffaabbe2e0359863"],
+  "Mist Metaverse": ["0x7a1db46e232cdd6aa467271663a0572cb24a91a8"],
+  "NSwap": [
+    "0xfe542c1fecc88f1d8b0e53171b8e4d486391fb98",
+    "0x080fa1fb48e0b1bd251348efd02c1e7a12a931ac"
+  ],
+  "SEOR network": ["0x800a25741a414ea6e6e2b382435081a479a8cc3c"],
+  "loser coin": ["0x843d4a358471547f51534e3e51fae91cb4dc3f28"],
+  "Lottery Hub": ["0x21378b2c59c30e1dffdd4413612fbf9e5872e4c8"],
+  "GemProtocol": ["0xe3d478fe8e8f55f7e9b2b55cf25868edc9f924d8"],
+  "BNB Daily Finance": ["0xbecfd0bb03b34d973c0ee577d20a7f363a0e2094"],
+  "Ghost Drive": ["0xb984e7d414cfce82ec36252a06e8ea87d82601df"],
+  "Validator Import": ["0x40775ca64c4a4d30efa5772e0a1506205f4545bb"],
+  "Qatar fake": ["0x38f6dd0e46998e6e196f453cac095f1dc676e369"],
+  "BeerGarden Finance": ["0xbb8db5e17bbe9c90da8e3445e335b82d7cc53575"],
+  "KabosuToken": ["0x4a824ee819955a7d769e03fe36f9e0c3bd3aa60b"],
+  "BTCBulldog": ["0x448c7f4f733c33b5766f534f1fdba80b954ce765"],
+  "Eradex Space": ["0x378bca693a9a8870ecc2ab54f6254ad2a94e23e8"],
+  "EDNS.Domain": ["0x53a0018f919bde9c254bda697966c5f448ffddcb"],
+  "Blue Bird": ["0x1cd4c653c8a8775e26cc14ab30a52bc12b3d7fd2"],
+  "FTX": [
+    "0x4c3d12dbbb1954b3cc741a6c94b9e40b0eba4b1b",
+    "0x41772edd47d9ddf9ef848cdb34fe76143908c7ad"
+  ],
+  "Mining 33333": ["0xc0b3eda033369cc8ec127c7a1dd0d8c85a899156"],
+  "Meme Force": ["0xdd72699b37346e16c3379cd11f44d8a84007b91a"],
+  "Perseusworld": ["0xf5c2328ac971935212e517ab17f1e8f6d65a022a"],
+  "Pitbull Farm": ["0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50"],
+  "Swapcoinz": ["0x37109a51e712471bd2c72d8d70718627e7ff0032"],
+  "Binemon": ["0xe56842ed550ff2794f010738554db45e60730371"],
+  "Ethlas": ["0xfa113908f851e6357d8a20e2a18c22113d5755a9"],
+  "Yield Robot": ["0xb8cda6ae6d005d56205b29797add341c85e59608"],
+  "Bonjour": ["0x02ad27a0cd5ff292ad81007dfeeba364e896c73c"],
+  "Kryptview": ["0xe1e621c3aa4af40bc8318aad0f9b94e5ee94e6a8"],
+  "RisingSun": ["0x917841c010b3d86ed886f36f2c9807e07a2e3093"],
+  "Mythic Ore": ["0xada0b05281daabbbe0197f7fd58e51a76367334f"],
+  "Cake Token (fake)": ["0x75fb018d4aa1a9d1e73700bc9440ce20f22e7e93"],
+  "Frax Finance": ["0x1864ca3d47aab98ee78d11fc9dcc5e7badda1c0d"],
+  "Galaxy Arena": ["0xbbf1889f22d37640bc70c58b2f643106db0542de"],
+  "GoldenDoge": ["0xa53e61578ff54f1ad70186be99332a6e20b6ffa9"],
+  "wCardano": ["0xdf2fc196d57f7e3736daaab1de4b717c32380fb6"],
+  "The BNB Crops Farmer": ["0x35b182cbb67688b20a5fc393bee5e83c1cb4c8c0"],
+  "BMBCoin": ["0x3d9da8fe44ccf682bb1bd974bb664bef099ef813"],
+  "Coinbase DeFi": ["0x0c74beb5367f812466b67fdaa97963a3692377a4"],
+  "CR7 BUSD": ["0xf76f74660656f938e8e9aaf125f8516621b910a5"],
+  "Crypto Soccer": ["0xf0fb4a5acf1b1126a991ee189408b112028d7a63"],
+  "Dogecoinblack": ["0x3645faf5d10422d5508cf37771f6e47fefa4c6a3"],
+  "BNBPrime": ["0x1b859a029466c34432abf17123a5391f4a121c42"],
+  "AvnRich": ["0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb"],
+  "Tatetoken": ["0x8f1d278c438242653ee0bdd9dbd5a7f29cd046bf"],
+  "Ramp Finance": [
+    "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
+    "0x8519ea49c997f50ceffa444d240fb655e89248aa"
+  ],
+  "PlayEstates": [
+    "0x8b7d45fadf582dfc4920c6205addd8bd7a2b0749",
+    "0x14d1a2ff2d19fe64e8815914db9ff6af89972f70"
+  ],
+  "MetaMirror": ["0x5d4429b2d8237962017a7d8231bb75141355f0a9"],
+  "FADO Go": ["0x827d24bb2aad813fe6f49b798f44cce4c48bd478"],
+  "Beta Finance": ["0xbe1a001fe942f96eea22ba08783140b9dcc09d28"],
+  "OXBULL": ["0x3fd5b5746315e3f8d43a46b09c826a001ebb977d"],
+  "StableFund": ["0xfbbc24ca5518898fae0d8455cb265faaa66157c9"],
+  "CatGirl": ["0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936"],
+  "ATTA Movie": ["0xb9cf74a418936c1ca80db21fa6f7beddeed148f4"],
+  "Instinct Game": ["0xc4eeb3199df249a6bce8ff706fe86c08c5f847d0"],
+  "Bonfire": ["0x5e90253fbae4dab78aa351f4e6fed08a64ab5590"],
+  "Bitcoin Elon": ["0x74cfd109898fe125737e8081d2a8df4f318305cc"],
+  "PolyPlay": ["0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc"],
+  "FuguFinance": ["0x46b605a45483df3d4944a6f06c664ca86382c203"],
+  "Math Wallet": [
+    "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+    "0x141cdb8101a44516cd5fff0a6cb0e8753d8de667",
+    "0xabb63533c99d228b2143929cd7dd06a082395126"
+  ],
+  "LiveTrade": ["0xdbad544416df0677254645422bb560af8408cae7"],
+  "Gift Coin": ["0x064f24fc29b28793031bff0e053066af02738087"],
+  "The Monopolist": ["0xd4099a517f2fbe8a730d2ecaad1d0824b75e084a"],
+  "Kiokami Inu": ["0xb47e00075415ba42c5b8efa4a70ca2257bfce427"],
+  "KardiaChain (fake)": ["0x4fc34506a6c8a4252d3943416455ea83ad52f9ca"],
+  "Neoteric": ["0x733a90389db7d9c246d064a257e5652f7be36b8a"],
+  "Portify": ["0x69083b64988933e8b4783e8302b9bbf90163280e"],
+  "Tin Finance": ["0xd248537d601f8e062dd36c8e7d26302d51cc653a"],
+  "Inxy.io": ["0xbc2f0b7c8d70049d16e34a3a1070b0108bc82b4d"],
+  "Redluna": ["0x376c4773c3280a8f029aeb674acafdce9b20d26b"],
+  "MetaFish": ["0xe15176bcb7633be736e94ab6aa2e57a7ed5988ab"],
+  "Rose Coin": ["0x32c73fc5dd5dcf4c2d3bd75dc3f83733c8bbc036"],
+  "BTCS": ["0x166221bd730a201000d924051088df3dfccb59aa"],
+  "ADA": ["0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"],
+  "Tron (fake)": ["0x99bd191714c4cfd27837b4a056d2a284e2928698"],
+  "Water Bear Dao": ["0x57049ebfe70b972a8aa98be93285b30a87e27a80"],
+  "PetaRush": ["0x0f08109c45ed343beb6bdb2bd9efc211badc3755"],
+  "JUL Wallet (fake)": ["0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d"],
+  "LEND": ["0xe4d242194757584423338d4678e7d1d2558d59f0"],
+  "NebulaChainFinance": ["0x1b9e14122cb416845f0f21967f38b5c3e74de774"],
+  "Bizverse": ["0x130e6203f05805cd8c44093a53c7b50775eb4ca3"],
+  "DogeCola fake": [
+    "0xf830afb346c7a3668a40ed4891a03203bc857968",
+    "0xd871bd258609e3a869dfd3be3b028e5f8ad10dfa"
+  ],
+  "BattleCity": ["0x5eeb28b5aef44b6664b342d23b1aadce84196386"],
+  "Cryptotycoon": ["0x464863745ed3af8b9f8871f1082211c55f8f884d"],
+  "PlayMining": ["0xee18fe1584008d63c9a109808437199dcbd061b9"],
+  "Lucky Squid Game": ["0xdf810cc1a01e14d44069291d7c02669f3af884d8"],
+  "Bnbseed": ["0x83681ba12cb4a37ee6f8b9ccdc41c07a84db96ce"],
+  "FomoNFT": ["0xf63cfc4155047dac7012e835f277e364150abd9b"],
+  "Soccercrypt": ["0xce2db207248f95583d07fd2cde967bc3bfac1fa5"],
+  "NFTPad": [
+    "0x2deb6dcd91f996089f624c5d63587b9da2463b99",
+    "0xa71ce33fc2bb6119316c3311cbcf2bcb0b423d9e"
+  ],
+  "Acet Finance": ["0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d"],
+  "Waifuswap": [
+    "0xd881e9acec1e4d186ba952a554605836c02ba7bd",
+    "0xd34e851011d1bcf8745dd227781b5be95974f158"
+  ],
+  "CaishenCoin": ["0xae5d7c57f6e62d59e22566bf3713a35d349dc5d0"],
+  "Bitbond Token Tool": ["0x88777bccb752b20245400049021cb47b8fbcf640"],
+  "MissDoge": ["0xa72ff2b799324b042ae379809ee54dace99db3a5"],
+  "TOKO TOKEN (fake)": ["0xcc482b20de3aaba533ff4b860404dd0485cbfebd"],
+  "YieldNyan": ["0xc885b97220ad6a8dfe4ac7af7c7a4776c7a21f06"],
+  "YGameFight": ["0x138ee8769f03d2692834d7d295daf2191227dded"],
+  "Copiosa Exchange": ["0x8789337a176e6e7223ff115f1cd85c993d42c25c"],
+  "HyperDex": [
+    "0x30ecfb66bd5e5f9b7bd78b221c64d8e04208d909",
+    "0x27cd57d79a633a5c7d892823998377f4d626f147",
+    "0x51a919adeb0683cf08b059955978855f12cb36af"
+  ],
+  "Gravi Token": ["0x1337ace33c2b3fc17d85f33dbd0ed73a896148b5"],
+  "PinkFinance": [
+    "0x7c2ec28991310af7400489854e9f9c9e1786d5cb",
+    "0x1d8752eefb17db23e238677f8702f2c2f69b2c86"
+  ],
+  "CryptoWest": ["0x10f29e23dead0b0ad5b6d800631628b77b9b570e"],
+  "eternalcash": ["0x400df62c3052fdbaad8c74c0226147f9bfaaf7ec"],
+  "QATAR 2022 TOKEN": ["0xa8beb6b5bae9685351a17c0e020618f5f5247e6b"],
+  "Chiliz (fake)": ["0xa23839c7b41eb3df69d5327db2c9d5c5ee2b2ed0"],
+  "TrainCraft": ["0x821057e5d6626b3dc0418643cd7be6cfc141a1b3"],
+  "Prelax": ["0x35f4512bfe08c0daea41fcbe43b65106f91d953b"],
+  "Floki Shiba": ["0x3dab450ee6451762e72647a05a205dd5697c5c2c"],
+  "Messi10BUSD": ["0xeaac64311f6bb1c15fbffc803f0b765b1aa98538"],
+  "Nafter": ["0xd7730681b1dc8f6f969166b29d8a5ea8568616a3"],
+  "MAIN": [
+    "0xa5f249f401ba8931899a364d8e2699b5fa1d87a9",
+    "0xac90d1742bc55f896b6fd1f2e1a1381d0c1c3adc"
+  ],
+  "Artemisx Finance": ["0xb45f305acaf7bec63e30c669737ed8e7aa4c1d33"],
+  "SnowFlake Floki": ["0x78cd0ea1108a146dc493b086170e2d9771b67570"],
+  "Mango Miner": ["0x131dfb16105f0b3d3b52ab0cce65cde22a4d5359"],
+  "Floki CEO": ["0x45289007706e7ee7b42b1fa506661d97740edfb4"],
+  "CryptoCars": ["0x50332bdca94673f33401776365b66cc4e81ac81d"],
+  "MetaZap": ["0x509dfac46bd49ca29dba10ff8c0200f8641680a4"],
+  "Mining USD": ["0xb5f03ef11d14a3d0f9252d93fa15b95cdefbe764"],
+  "Operibus": ["0xe862905cc768a85e38eb4662ea2dff2821aab96d"],
+  "GemUni": ["0x465b394bd4eaf52207b09b1ab2ce2295bdc57a58"],
+  "Decentralized United (DCU)": ["0xcb1ddc8f705e2737685a9c1e6b84a63d04d200e5"],
+  "Miracle Venture Capital Club": [
+    "0x80fb0ff63b89ccdaed3f6198ad86898845681c89"
+  ],
+  "Nar Card": ["0x828b5adbe8e0a06aaf5d5a5fd16e6b15a393d86e"],
+  "PieNetwork": ["0x8b09b6eb1d263644a267dfb2b2bc8d6b0fb72e7d"],
+  "Ko Social Network": ["0x7b276a55987e3020026bb098f15e968313bd1af2"],
+  "Ape Hero": ["0x76b6b269ab62d73be3ec99667a3f081ac4ec1734"],
+  "Real Trump Token": ["0xf41082c4cb71fb4628a9b17214b2624e0e2048a9"],
+  "NUWA (Crushe)": ["0xbe12543ce7b2ae302f8f2e136f2bfdd7a61dfce2"],
+  "Piratecoin": ["0x041640ea980e3fe61e9c4ca26d9007bc70094c15"],
+  "Solv Protocol": ["0x6fb014932f007afa66ae15fc78511c7714b34c85"],
+  "SafeMoon (fake)": ["0x1e3a123e44aab684e7a2338ba8f878a3e756c08d"],
+  "Sappchat": ["0x097f8ae21e81d4f248a2e2d18543c6b3cc0d8e59"],
+  "wShiba": ["0x7207ab575dadd6025e2b334424c5ed10a0282778"],
+  "Doge (fake)": ["0xc1ae2a6e612b460febb0a74ab803517eb16183d7"],
+  "NFT-Gods": ["0x73eec2155484a2071edea12e265af974951bd2b5"],
+  "Thrust Zone": ["0x8b772f35f7bd400bd9d35a0a18f4790b02fbd940"],
+  "Nash Metaverse": ["0xe7cd521fcf34838d136203f3a86771606f055353"],
+  "Incognito Chain": [
+    "0xb64fde8f199f073f41c132b9ec7ad5b61de0b1b7",
+    "0x43d037a562099a4c2c95b1e2120cc43054450629"
+  ],
+  "Fat  Animal": ["0x083f64ac7bbf1fcc7817c86b8fce803c8e688a38"],
+  "Kaizilla": ["0xbf7166d3ca2a1492bfe6f169319d1bc4fcbce728"],
+  "Dev is Rich": ["0xd3671732f7c924ffde3be268d4ae911e62ce98ce"],
+  "Fred The Turtle": ["0xc82fd0b46e30c1c5676544012f321fcf760eb878"],
+  "MetaWeb3Pad": ["0x510b841dd8246c2793932661ff412d0d8c022209"],
+  "HistoryDAO": ["0x356588913bcccaa3191a3833c70d0c103dd78e2a"],
+  "PandaChain": ["0xc2a5fdfea2a04955df244eb52ffd986fa18cfcc6"],
+  "Curve Finance": [
+    "0xa5407eae9ba41422680e2e00537571bcc53efbfd",
+    "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7"
+  ],
+  "AdMonkey": ["0xf69e4ccc9bf335d8046fbfa8ec752930c785fe71"],
+  "Push Protocol": ["0xb3971bcef2d791bc4027bbfedfb47319a4aaaaaa"],
+  "Toncoin(fake)": ["0x697c479d099d27665c00c5fdb7748f4285b1a887"],
+  "ETHPAD.network": ["0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442"],
+  "AIDA META": ["0x7d4790a3fb9222b645a2502fea3f83447c393197"],
+  "BinanceYield": ["0x83c2176b07fa5ee76018676b87d3032d56f9a149"],
+  "Ocen Network": ["0x4d50471035d65810cdb9b34550d46b31bf398cb8"],
+  "Mech Master": ["0xc7b7844494c516b840a7a4575ff3e60ff0f056a9"],
+  "Sonic.exe": ["0xfaa135c42306474c1bedcb4a17dfd2956ba29aa6"],
+  "LIQI DIGITAL ASSETS": ["0x56a147ea7eba502380ecedda905753aa041667eb"],
+  "Investin": ["0x23b6262d542cdc4c331e2e31a5b4251122a651cb"],
+  "EnviDa": ["0xdd9ba3b2571bea0854beb0508ce10fed0eca7e3e"],
+  "Shambala": ["0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed"],
+  "VerseWar": [
+    "0x3963df5ba3cf7a579ed4a5ff81084e059a32bda0",
+    "0x53cfbfa8a09855950d763510710999243f7c924b"
+  ],
+  "ShibaZilla": ["0x68810a6f5bb0491cb9ccf8c52735a1acf5f28009"],
+  "BNBGrow": ["0x9f8204b597a5f6592ad6b24755ed5069a105c454"],
+  "YayGames": ["0x524df384bffb18c0c8f3f43d012011f8f9795579"],
+  "MiniEverDoge": ["0xf50155cffd6c9a3634edfd6a00850016fe02c4dc"],
+  "NEWb": ["0x545f90dc35ca1e6129f1fed354b3e2df12034261"],
+  "BUSD Cartel": ["0xc78fbe4a5cef2c77eccf1247fd767042dde5d419"],
+  "HardHat": ["0xd0842b8a83e3ffd988f589ad778c5cf4e142f20b"],
+  "OnlyBrain": ["0x6fb2d51cd6c1317b660b89e5bbdab363bfacd936"],
+  "Sunset Token": ["0x052d4baf7f9df803baea33ffce4b5cbc013a9d2b"],
+  "Thentic": ["0xb18e86dbe9ea5663a5fee44bc9d3d7cb46b3ad20"],
+  "Newdex": ["0x9ed0c5350bc17ff45529722eb07580ff564c3a78"],
+  "PlayZap": ["0x6ad9e9c098a45b2b41b519119c31c3dcb02accb2"],
+  "Terkehh": ["0x53035e4e14fb3f82c02357b35d5cc0c5b53928b4"],
+  "HeroVerse": ["0x8f65f0e19e7e95701b63abe64974a3d4407793ca"],
+  "Puli Runner": ["0xaef0a177c8c329cbc8508292bb7e06c00786bbfc"],
+  "BNBdefi": ["0x625b02b687ec38f3085af5b108dda410775fa76a"],
+  "Littler Rabbit": ["0x17d749d3e2ac204a07e19d8096d9a05c423ea3af"],
+  "Comfty": [
+    "0xc737b44cb0aa18815a1f6918eb338dee7e7e6bd7",
+    "0xba01970fadfca285ce809a12f26175dc8136ac3e"
+  ],
+  "BTT": ["0x8595f9da7b868b1822194faed312235e43007b49"],
+  "RPS Finance": ["0x486dccaf152b271630216d62c00188f2558f6bec"],
+  "RoketBoys": ["0x071fa11f7516cdeb366f7f7d91da5049f7086185"],
+  "NinjaDoge": ["0xe218dcf32f9bb64648d64ef2ae85cf1c63c5ac74"],
+  "Royal Bina": ["0x4f57879a8c38fce84717db1dbc85eee50d7340b1"],
+  "FUN FDA": ["0xf25a1bc7bf6574e510e3eb63159e644ef1c6153d"],
+  "NEXUSPAD PROTOCOL fake": ["0x1183b31f17f5caf9d83fe1e34c4ce0be7fc8debd"],
+  "DHFcoin": ["0xdd8dc73acdfa9e7ac15a7a6c023511bcb1db5a4d"],
+  "NFT-Art.Finance": ["0xf7844cb890f4c339c497aeab599abdc3c874b67a"],
+  "Okami XXII": ["0x727f612970130104a3f4fbe38e598fb476e59d9c"],
+  "Project CShox": [
+    "0xea472d8ae694c366a9927745a09436294df002dc",
+    "0xe9ed8ecf244cebb24de52226053859441c96606b"
+  ],
+  "MechMaster": ["0xbc5751b1e17a7ec83299e6b371365354bdebc7d4"],
+  "BlockCreatures": ["0x56536c54abb2d2d2512965af01c98550edb15ef9"],
+  "Tether": ["0xdac17f958d2ee523a2206206994597c13d831ec7"],
+  "Nafty": ["0x18c5fac26c5d8b859b3a83f0f167d8924098d28a"],
+  "DeFi USDT": ["0x74094113d22bcc70d78d0ccdb1aa3645eb0da619"],
+  "web3token": ["0x5fbc8000e7d9f619e43b3fbfce9aba70494a57c3"],
+  "Trivians": [
+    "0xb465f3cb6aba6ee375e12918387de1eac2301b05",
+    "0x8e73f1e9c9b864139ff35a7eb0a8db757afde50c"
+  ],
+  "Binance Punk": ["0x3b6c7bc3be5c60c875cf415a97e6539cc28eca33"],
+  "SuterERC20": ["0xe557c77ed24df7cdf21ed55a8c56ea36cebd5bd2"],
+  "Nody": ["0xfe01c159ecdee4377abfc4cd1827089c47b806ea"],
+  "SquidTwoBNB": ["0x708369fd03dc81c182eb9ff1ba6fc7ebc903683e"],
+  "Avatea": ["0x47e36ee27d2d738c86fbd85f0f156dc797f74d4e"],
+  "FlokiBasedAI": ["0x7783ecaee16dc2a25a3904277b1ce1a2f2f0dce0"],
+  "Aleph.im": ["0x82d2f8e02afb160dd5a480a617692e62de9038c4"],
+  "Chemix": ["0x1fd7bb8647fe669eeba490430d19e5ecb24931f9"],
+  "Eywa.fi": ["0x4ac07363caa1dffedcf7b0806b29ea88c74abd37"],
+  "DOGEBAE": ["0x1f2a539be965452528dd25a98e66c2af1aa5d9fb"],
+  "Featured": ["0x2d956093d27621ec0c4628b77eaeac6c734da02c"],
+  "Nature does not hurry": ["0x8632114319874e16b9ced3614faec0f09755543d"],
+  "EscrowDapp": ["0x19ddd22ff4523d53173385734be0fed5408174af"],
+  "Dexsport": ["0x3065cd33559d5dc56b9b167d9485f5361da37faa"],
+  "NRB": ["0x7802d15c5f94e5904d2c5706284e6bec398ee03c"],
+  "Sixpack Miner": ["0xf117dfcb241c0003d5e2fc72f288755c17a46980"],
+  "Get Doge": ["0x5ee36c0a5e96220f9dcde6a068c5f4e597f83fbb"],
+  "(Fork-Dex)": ["0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"],
+  "RAW Project": ["0x433718fa4606b43120d97c7dc00187562135e593"],
+  "DaddyFeg": ["0xf869076283148054ce4634677b3bb832320463aa"],
+  "Uranus": ["0xc18109a204bf68a73604685959f3d9b630f35e98"],
+  "Spacelon": ["0x929b77bc478101c8fd0a13caa58381fe4242bdde"],
+  "CK Finance": ["0x3c5e3d85dfe23302f9439dee89ee4ae3d57f619c"],
+  "Arctic Fox Farm": ["0x7589cbf835ad4ce53ff4aded0242348bccfe9c3e"],
+  "OKAMI XXII": ["0xff902383029ca0ffd1024e5f880fb3ca2b7d4b22"],
+  "BenzàybTrade": ["0x45ae8463007f20f9b6af3e0cff891383688db581"],
+  "SoloTop": ["0x7033a512639119c759a51b250bfa461ae100894b"],
+  "Carswap Finance": ["0x4fa2e5871dd9622c515f66a4b3230b73236e0d8d"],
+  "Futbolista": ["0x4172eea8dc5b2ecd438827ba81579e5aa8e9c56a"],
+  "Giveaway Everdome": ["0xb1784a1acae344ee238eafd0a13fdeed16d22608"],
+  "My Neighbor Alice": ["0xac51066d7bec65dc4589368da368b212745d63e8"],
+  "Metauniverse Cipher": ["0x3e45ae17df955995cd82172e445abcae148a1758"],
+  "TeaCrypto Finance": ["0xd78bd47a6934959583b47f081ce0f9fd5e0338d1"],
+  "BePay": ["0x8f081eb884fd47b79536d28e2dd9d4886773f783"],
+  "Tether Fake": ["0x60cd240d786b757857e144a3b6cf29c5b13af482"],
+  "Plena Finance": ["0x8dfd29720bc7d6d665d9c085a04d5521be74729f"],
+  "Ulink": ["0x23481f4d3ac4642d2f45d014a514b45b0338b927"],
+  "ShitPunks": ["0xfa7ce4bc043a5706c4a706b12b63b27e441d7897"],
+  "Diviner Protocol": ["0xe69caef10a488d7af31da46c89154d025546e990"],
+  "AuroraStake": ["0x78e33816afc4d3fae2b518e520b11451195d313d"],
+  "BP Market": ["0xcb0b364a7d226f69303c03ec24953f46be9dcafa"],
+  "Nemogem": ["0xf288c3076c022ce3d2c18c94d469c336b5d68603"],
+  "BiShares": ["0x19a6da6e382b85f827088092a3dbe864d9ccba73"],
+  "MoonLight": ["0xb1ced2e320e3f4c8e3511b1dc59203303493f382"],
+  "Yuki Swap": [
+    "0x0ec759bdf67dfc391b9d22bdc0854eb79de68d0f",
+    "0xbcda505b91b47360f16ae1d6005a6370650cc23f"
+  ],
+  "UBXS NFT Stake": ["0x37e3309022d248c5877e20df751993f12caff28e"],
+  "Yokai": ["0x1757bdf9bb7cc63be2a8bf2cb9c8cfb8357be504"],
+  "Goatcoin": ["0x7c67dccb04b67d4666fd97b2a00bb6d9b8d82e3f"],
+  "OWNLY": ["0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba"],
+  "Unlock Protocol": ["0xec83410dbc48c7797d2f2afe624881674c65c856"],
+  "Lemonade Social": ["0xb25d3d684eab618b51ee8a3127fbaca6224dafa9"],
+  "MetaMax Online": ["0x218558fa970eb3d34d57a196d65e61d897f731da"],
+  "Snaptask": ["0x81d16b5e3750174015f38223cc13cde5f112976a"],
+  "Face Coin NFT": ["0x223123971a17ba008fd37de2844c9d5e22930f21"],
+  "StaysBase": ["0xc1d99537392084cc02d3f52386729b79d01035ce"],
+  "Pepe in Wonderland": ["0x3de9570e45ea29d1bf16897fb0b68716e09add46"],
+  "DXBX DEX": ["0x6fc967148b1b333008b3429770360a67c4b716b4"],
+  "Hell Cash": ["0x4239945248845b083414f4d2890047889e121472"],
+  "Rici Elon": ["0x96a938d3a91e864cc9f342b8b5cfce06d0bc8cea"],
+  "Reef Finance": ["0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e"],
+  "BasisToken": ["0x0d8775f648430679a709e98d2b0cb6250d2887ef"],
+  "BNBMaster": ["0xcb36d89308a1b5ed0cf402a30180dc162523bf3e"],
+  "Mist Game": ["0x68e374f856bf25468d365e539b700b648bf94b67"],
+  "TWTStake": ["0x5e7c3c55eb5c0ee10817d70e414f4b1ee22d5ce3"],
+  "ShibaFloki": ["0x330540a9d998442dcbc396165d3ddc5052077bb1"],
+  "32Play": ["0xcf4bcf3c014bbf00ecba0fe7df0837a9aa0a6c49"],
+  "DRIVEZ": ["0x461dab902f38210b42b7d8b4bfc71296e0629006"],
+  "Non Fungible Apes": ["0x6eca7754007d22d3f557740d06fed4a031befe1e"],
+  "A-NATION MEDIA": ["0x5ae89b52f6b5d25eba50f0441f91a81968689d95"],
+  "MoveMoon fake": ["0x69678a7cd4387918eab4c48f2dfe24ce1d80e798"],
+  "Lottery Pig": ["0x8cb3a831e41c06d150082ad352e9fa5abef6b6d3"],
+  "BUSD club": ["0xa3bb4f17d455dd51548e8ceebadfc208e6cc2d8b"],
+  "PetKingdom": ["0xfd1a4d867ebe03e4958c17361913fc6869ac7f45"],
+  "Crypto Multisender": ["0x17f3be331cce3b6f66fabe38dd885386c57d821d"],
+  "MetaDogeSwap": ["0xaef865eb62cd27fd173b065eacd3da48632e554d"],
+  "Waifu": ["0xd0aa796e2160ed260c668e90ac5f237b4ebd4b0d"],
+  "Mystic Treasure": [
+    "0xe468d05d17896b2f43510bb41c8d153cde98d94d",
+    "0x88bca6b68e72b2f183f86b290090a9a767cb67e9"
+  ],
+  "ecash (fake)": ["0xf3737f0ba7563619086d2f3b34850a0900c5770e"],
+  "WINkLink(fake)": ["0x39019da00fa3c9fa47d4e9e211a9e3194696d8b5"],
+  "MStation": ["0xf30914115e0e551d709cbad599ed358e359ea515"],
+  "PULI": ["0x4769ccb0a34a86048d7d3fc3f13c878104d07e87"],
+  "Duelist King": ["0x7ceb519718a80dd78a8545ad8e7f401de4f2faa7"],
+  "Project Seed": ["0xfb9c339b4bace4fe63ccc1dd9a3c3c531441d5fe"],
+  "Great Dane": ["0x2cdc34b884a37aa4054c4d9fb87fbe43721817bd"],
+  "Tutti Fruit": ["0x554e44deb162585a7234fd53e682192e66c42280"],
+  "Pokmi / The Poken Company": ["0x4b5decb9327b4d511a58137a1ade61434aacdd43"],
+  "Agera Finance": ["0x94446f3fe717fe8fbced26b13d12b3d8d985426c"],
+  "Game Block": ["0x27f347b71e0ebed8f1825ba54a333a8c90f77fa4"],
+  "Legion Network": ["0x9096b4309224d751fcb43d7eb178dcffc122ad15"],
+  "Kubitech SAS": ["0xb4664c369cb9f4e22e8d0df9a4791338c28b6e9c"],
+  "Appreciate-Coin": ["0xc8ddfc2867b767092ab04cda12e31dac52ff0083"],
+  "Retrocade": ["0xbef5b3a4db9447e8fd1fe6e16d87b591ed220c67"],
+  "LuckyUnicorn": ["0xb463d8bcfd59fb4d99c3d2f328faae0862cda9e6"],
+  "Ten Finance": ["0x264a1b3f6db28de4d3dd4ed23ab31a468b0c1a96"],
+  "GenshinFlokiInu": ["0x53b3338e3345758ae88b930e3d9759a95c5ce05c"],
+  "Chessfarm": ["0x02f92a9c381bdea49bde29a8277666c73e60c88d"],
+  "BCH (fake)": ["0x16f5bf883ad9e4860c9cccbad4d2d7de799bfe81"],
+  "Premium Block": ["0x807fcfa0d780b534e112c482f8ae62e2ec5030c7"],
+  "Peanuts.io": ["0x8d1a17a3a4504aeb17515645ba8098f1d75237f7"],
+  "Siberian Oil Finance": ["0xfaec0196ed4f14364d9aa2a4da019df05bd443a4"],
+  "DAI": ["0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"],
+  "BscProjects": ["0xd118fdda6216c33f4a1b8c68edc715469c28971f"],
+  "Digital Files": ["0xadeecd37aa0c6f53ace8e1893ef63c733daa32dd"],
+  "MoonSta Revenge": ["0x19f22f12b6f2a3fd84ffc9b3b9670cb82df3619c"],
+  "Axolotl Finance": ["0x52dcf5bedc061604d8c592b0079a0ff2cea22eb7"],
+  "Triple X": ["0xed38dbc47470b73f5c21b74bb6882f497840328b"],
+  "Fair": ["0xc5185d2c68aaa7c5f0921948f8135d01510d647f"],
+  "Potatos Finance": ["0xeb0035f39525319c5cdd814de3459e185243dd94"],
+  "Mining BNB 8885": ["0x2a1753bf12d44b8c78c093e554cd6208e675a7a4"],
+  "Fulcrum": [
+    "0xacd39c8d46461bca7d5fb23ecd57a4cb0d31fab5",
+    "0x7343b25c4953f4c57ed4d16c33cbedefae9e8eb9"
+  ],
+  "MilestoneBased": ["0xe7bc8ed45f74ab54b2adc772fb6c9c1b36f61852"],
+  "Doomer": ["0x264e76367b089b8c17fb989c7629ae18294262fc"],
+  "Berry Tributes": ["0xf859bf77cbe8699013d6dbc7c2b926aaf307f830"],
+  "MadBunnies": ["0xad6e8ccec4a2b1af4e50b6da38ed91e0352a7be3"],
+  "Lucky Lion": ["0xb6fe67c8a28d50c50f65fdb5847ee4477c550568"],
+  "DogeDeer": ["0x0d0689b96fa329a31d5c7bbb429666686c8dab8e"],
+  "Salsavalley": ["0xbb5515d1cfcd6f667ca2b2a56872797c889cb048"],
+  "InsurAce Protocol": ["0x544c42fbb96b39b21df61cf322b5edc285ee7429"],
+  "NAOS Finance": ["0x758d08864fb6cce3062667225ca10b8f00496cc2"],
+  "SXP": ["0x47bead2563dcbf3bf2c9407fea4dc236faba485a"],
+  "DSLA": ["0x9986b2ec991d58954a3ae6f3ab754ffe2ede21a4"],
+  "Cheems Cat": ["0x9386b7f7f045c3096823fb0f9c25a68747f85e18"],
+  "GroveToken": ["0xafb64e73def6faa8b6ef9a6fb7312d5c4c15ebdb"],
+  "CryptoMinesReborn": ["0xe0191fefdd0d2b39b1a2e4e029ccda8a481b7995"],
+  "GameSafe": ["0x70a44672b9bbcf4d49dceaa610eb580bd3c94c52"],
+  "Bep Finance": ["0x70782488371eccb71db14069117885238a702cab"],
+  "BRZ TOKEN": ["0x71be881e9c5d4465b3fff61e89c6f3651e69b5bb"],
+  "Quantum Assets": ["0x4ef29f3b804c316ba8ba464a765c601fc092a2e9"],
+  "BAoE Token": ["0x5d449e51ac8a7509dd71d22dcac8e32d9f9c5bfc"],
+  "BeFasterFit": ["0x577ad06f635b402fc2724efd6a53a3a0aed3d155"],
+  "GT-Protocol": ["0xca581668a0ede3727cca3592e8519c37a63b37a3"],
+  "MacronSwap": ["0x2e6ecf422c18fa28c97b6af4fec498fb0722bfc8"],
+  "Atlantis-Origin": ["0x7625b10b5279df46a09ea23889c1861284ae4a2f"],
+  "MetaPlanetary": ["0xb6119339de7c7b38e788b5d74e0cf49006922ec0"],
+  "Raindrops.xyz": ["0x2f9965626d466dd386f370579052e4ccf9022821"],
+  "Bridgers": ["0x1ed5685f345b2fa564ea4a670de1fde39e484751"],
+  "Soronus": ["0xef2b07b1fec00caccdd8dadeaa25900c808ca3dd"],
+  "LockChainFinance": ["0xac4c2903fb2f073e94de57c79d8bec5155662122"],
+  "FPX Token": ["0x556ab849f6d805020bb0df72f5f92e001522cc07"],
+  "FM Gallery": ["0xba1138f9ddcd4669edc7346f619e5d6ba7c0c107"],
+  "Yeetoshi": ["0xe5f890b1a48760bd20aab8e20aecc7216b7ef211"],
+  "Web Dao": ["0x3b7a854852a175d3b746815504f0e7d229f70ec4"],
+  "BUSD": ["0xe9e7cea3dedca5984780bafc599bd69add087d56"],
+  "Depay": ["0x0dfb7137bc64b63f7a0de7cb9cda178702666220"],
+  "Koalas World": ["0xe52507731bb1c9953b7772574bf203c465fc6814"],
+  "ONI Exchange": ["0x6c77bb19c69d66bea9e3cdaea108a76ea8d2fd2a"],
+  "DAOrayaki": ["0xf42ff460baefbd932606cd56328d9dcf33240230"],
+  "Eutaria": ["0x4b64a839f0b8b684ff83b3ee3670b3c2300838f6"],
+  "Binosaurs": ["0x7fdd003d3b61dda10429c1ebb502ec02946219cc"],
+  "NftyPlay": ["0xb28a7f8f5328faffdd862985177583c2bb71e016"],
+  "AssFinance": ["0x7c63f96feafacd84e75a594c00fac3693386fbf0"],
+  "My Master War": ["0xf2cfa33c194f1772294b3b0fb183d1907654f835"],
+  "Zombie Farm S1": ["0xd5927cc8dc19caacd47c1773961bbb79e26a25d0"],
+  "Prosper (fake)": ["0xf80f1cc0d98ed80642e10a24d21766d947743843"],
+  "Pornstar": ["0x248c1e2b50c72f04704c71bcc953799351ab30a8"],
+  "Elongate": ["0x2a9718deff471f3bb91fa0eceab14154f150a385"],
+  "Zooshi": ["0xa060e0c0588d26caba4a0009513337ace50752dd"],
+  "Rinnegan": ["0x51b3372cadfd41a633d878dae93cb587ca2f958b"],
+  "NDB Money": ["0xf8028b65005b0b45f76988d2a77910186e7af4ef"],
+  "Solki Wallet": ["0x0fa619e0c4f36c53d01c5049774a89df93a42ba7"],
+  "BNBminer.Finance": ["0xd26768b33378b6eb489312c381a218800bbc9c1b"],
+  "FUSD": ["0x3048144676ea683bf670392971e569d9511015eb"],
+  "RMSC": ["0x5efe6afde61bfdfc3791dfaf738c249d63e867ad"],
+  "Pin Save": ["0xf1926218c9d7c198bb3a4a0fba989e06a4a97267"],
+  "Polygon (fake)": ["0x0f8cbdfb221628c83653e2c5fd18187a62c38e2f"],
+  "Golden Farming": ["0x1d5fab22d056428cae676aa11c0d5f31647b69e6"],
+  "DePocket Finance": ["0x7d99eda556388ad7743a1b658b9c4fc67d7a9d74"],
+  "MyFarmPet": ["0x903fcaf1a49b29678c15b43bc9f852232bfa7df1"],
+  "CryptoDogsClub": ["0xcec33930ba196cdc78e0eb9439b7088a9c73019b"],
+  "PGOSK": ["0x61c9dd1aee9ae6142de78ab3018e3d359bd6d457"],
+  "britishcoin GBPC": ["0x9387225178c8ecc8dcf5d259c45dec7d34bb91d2"],
+  "MiniCake": ["0xc184e85e9fa942b8ae553f5ef4d5b40fd0213bf9"],
+  "Crypto Citizen": ["0x79af152e789caafd7ef3daae0dd1d9f702dd98e3"],
+  "GAUGECASH": ["0xa8857637e01410738d29be30b13c992bbdf37e92"],
+  "Branaverse": ["0xafd9a60f8a91572e99cdeabfa062146afa599ffa"],
+  "IceSwap Finance": ["0x5b78ada2bc3b70cebb65b7218811ece961a50d10"],
+  "SwapKing": ["0xde4e179cc1d3b298216b96893767b9b01a6bc413"],
+  "Santa Elon": ["0x7b50c95f065dc48a0ecf8e5f992bf9bb9f4299c5"],
+  "Abetter": ["0x93f756ceb2c983f43a31b69b4aa2bf784f0a9c03"],
+  "Finance Protocol": ["0x1618b4a4a1be9f415fb83120ddb4bc4e5c27501a"],
+  "Metapro": ["0xa293d68684be29540838dc8a0222de0c43c6b5b4"],
+  "Prodax": ["0x3a3d9756019fe9de2a0acf115a15a26d34fb2818"],
+  "HashPanda": ["0x8578eb576e126f67913a8bc0622e0a22eba0989a"],
+  "Trust 7777": ["0x5f1d5682403080e3a486b6319ce673b58049dcb3"],
+  "(CoinList?)": ["0x8d1f2ebfaccf1136db76fdd1b86f1dede2d23852"],
+  "Babydogegas": ["0x9bd308d8f151cb878a158b30a126f58992d478e5"],
+  "nftuloan": ["0xba1a556826019b8250cab379711bbc9ac58a0489"],
+  "Gamerse": ["0xf93f6b686f4a6557151455189a9173735d668154"],
+  "OuterRing MMO": ["0xcc3a3bc1d76df321f94716e88224638c439267aa"],
+  "MoonPets (MPNFT)": ["0xe32ae22ec60e21980247b4bdaa16e9aea265f919"],
+  "Tadpole": ["0xa7acafedcdf33ad7541698701e9a76b48ec62728"],
+  "Redeem Protocol": ["0x34d83f08fc78ca9eaa9e8e72ef6229fe20a58b57"],
+  "The Mars SHIBA": ["0xe41a093549beee36b76728d456894093396d1120"],
+  "Hello Swap": ["0x4fa55d435ef98ad77c1efa25ae764ccb858f7046"],
+  "Rara Farm": ["0x83d0e7ddd6208ec6df83807660024cbb7878b685"],
+  "unifi": ["0x657b91259e3d612d683a201b5b30fb706677b205"],
+  "PocoLand": ["0x394bba8f309f3462b31238b3fd04b83f71a98848"],
+  "Fomo Sports": ["0x4a320dd7a78852a915a07a505dbdb9da5e577343"],
+  "Walkee": ["0x1114fb69ddb59e7fbbc66cd8121b9b18512a07bb"],
+  "Copiosa": ["0xf246d08ec48757ad8752af9b0986a7831bd3e703"],
+  "Mintdropz": ["0xb837b8c2078636928713ab33df7fc4ff80e8f03e"],
+  "Lend (from the Ten Finance Team)": [
+    "0xb3b843434a8b9c500c084ad85bdc1d4cae67619b"
+  ],
+  "Best of Tanks": ["0x7879c9582dfdac42049dc41506ef054b384a9ea2"],
+  "XRQB 8885": ["0x4a989113ce345d6f1ddb71d2930eb4576c1ae98f"],
+  "wLink Finance": ["0xf62723f8b7bf9962d9577f099e7bb1bdf9715610"],
+  "7up": ["0xf1b6c0ddd4a8b7eb95c2e828fb8e162abf95d792"],
+  "DEESE": ["0x4606389c6f307ef03a4634a50d4fb6c69b99cc85"],
+  "UncleDOGE": ["0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152"],
+  "Diamond": ["0x3c730718c97a77562866b5d29b33228c019eac68"],
+  "Dory Swap": ["0x1fa268d4d9c7ec8d0e1b259258ad717cecf6f123"],
+  "MetaGear": ["0xb4404dab7c0ec48b428cf37dec7fb628bcc41b36"],
+  "HoneyFarm Finance": ["0x4e077547cf116182695bedef7236c6ac3c35b3d9"],
+  "Xrp Classic fake": ["0x1e1cce765268e890ca70761ec13bdc002abda4bb"],
+  "InnovativeBioresearch": ["0xdf1f0026374d4bcc490be5e316963cf6df2fff19"],
+  "Crypto Mayhem": ["0x5c841c8d24d477e033ab80984cb5956976c0ec13"],
+  "Wrapped BNB fake": ["0xac6c5c3d4908217dcb1df5ab620832d5eced2be0"],
+  "BullRise": ["0x2641d684b0759291473af57d371dfa81307a4c70"],
+  "GetMe.Pizza": ["0xae634f8a025aaf53cc3afcf29c4323085b40406f"],
+  "FalaFelToken": ["0x6e653888ed5e756840982bba98d82dd5eef5d31b"],
+  "Soccer BUSD": ["0xc9baa0bcfa920dd8f6febd9bfa2fda74b34e69fb"],
+  "Team Finance (TrustSwap)": ["0x0c89c0407775dd89b12918b9c0aa42bf96518820"]
+}
