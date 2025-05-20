@@ -21,5 +21,9 @@
   "0x25046071": "trade",
   "0x617ba037": "supply",
   "0x69328dec": "withdraw",
-  "0xadcd5fb9": "claim"
+  "0xadcd5fb9": "claim",
+  "0x729ad39e": "airdrop",
+  "0x40c10f19": "mint",
+  "0x0d3b159a": "revoke",
+  "0x83d1e4cf": "batchTransfer"
 }
