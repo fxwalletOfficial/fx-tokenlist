@@ -1,0 +1,49 @@
+{
+  "name": "fx",
+  "timestamp": "2025-07-07T06:58:46.308Z",
+  "tokens": [
+    {
+      "chainId": 7560,
+      "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+      "name": "CyberConnect",
+      "symbol": "CYBER",
+      "decimals": "18"
+    },
+    {
+      "chainId": 7560,
+      "address": "0x522D3A9C2Bc14cE1C4D210ED41ab239FdED02F2b",
+      "name": "Compound CYBER",
+      "symbol": "cCYBER",
+      "decimals": "18"
+    },
+    {
+      "chainId": 7560,
+      "address": "0xD06bE6699089320bF0d2E8204B814c30Bf2B9631",
+      "name": "AltLayer Token",
+      "symbol": "ALT",
+      "decimals": "18"
+    },
+    {
+      "chainId": 7560,
+      "address": "0x81759AdbF5520aD94da10991DfA29Ff147d3337b",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": "6"
+    },
+    {
+      "chainId": 7560,
+      "address": "0x6F6238c8eaea56F54Df418823585d61FDD7DE5Da",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": "6"
+    },
+    {
+      "chainId": 7560,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": "18"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
