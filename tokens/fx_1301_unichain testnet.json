@@ -1,6 +1,6 @@
 {
   "name": "fx",
-  "timestamp": "2024-10-29T07:33:46.985+00:00",
+  "timestamp": "2025-07-07T07:22:34.700Z",
   "tokens": [
     {
       "address": "0xfb268075585848F3bb685bcEF3842f08f6EBa08f",
@@ -182,7 +182,8 @@
       "symbol": "WETH",
       "total_supply": "4398199711623262003038",
       "type": "ERC-20",
-      "volume_24h": null
+      "volume_24h": null,
+      "logoURI": "https://file.test.fxwallet.com/token/beab0205283190743f1f6c6cc266b91da39446915995a0fc29b8cf8cf83afc5b.png"
     },
     {
       "address": "0x4D773927F0487995001160f9b067eb4288418490",
@@ -315,5 +316,8 @@
       "volume_24h": null
     }
   ],
-  "version": { "minor": 1, "patch": 0 }
+  "version": {
+    "minor": 1,
+    "patch": 0
+  }
 }

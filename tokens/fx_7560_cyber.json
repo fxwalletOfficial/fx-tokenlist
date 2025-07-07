@@ -1,6 +1,6 @@
 {
   "name": "fx",
-  "timestamp": "2025-07-07T06:58:46.308Z",
+  "timestamp": "2025-07-07T07:22:34.703Z",
   "tokens": [
     {
       "chainId": 7560,
@@ -28,22 +28,28 @@
       "address": "0x81759AdbF5520aD94da10991DfA29Ff147d3337b",
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": "6"
+      "decimals": "6",
+      "logoURI": "https://file.test.fxwallet.com/token/1730361649393-usdc.png"
     },
     {
       "chainId": 7560,
       "address": "0x6F6238c8eaea56F54Df418823585d61FDD7DE5Da",
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": "6"
+      "decimals": "6",
+      "logoURI": "https://file.test.fxwallet.com/token/1721188067572-usdt.png"
     },
     {
       "chainId": 7560,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
-      "decimals": "18"
+      "decimals": "18",
+      "logoURI": "https://file.test.fxwallet.com/token/beab0205283190743f1f6c6cc266b91da39446915995a0fc29b8cf8cf83afc5b.png"
     }
   ],
-  "version": { "minor": 1, "patch": 0 }
+  "version": {
+    "minor": 1,
+    "patch": 0
+  }
 }
