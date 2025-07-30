@@ -1,0 +1,15 @@
+{
+  "usdt": [
+    "tether",
+    "usdt",
+    "bridged-usdt",
+    "binance-bridged-usdt-bnb-smart-chain",
+    "bob-network-bridged-usdt-bob-network",
+    "l2-standard-bridged-usdt-base",
+    "tether-avalanche-bridged-usdt-ethereum",
+    "soneium-bridged-usdt-soneium",
+    "stargate-bridged-usdt-fuse",
+    "polygon-bridged-usdt-polygon"
+  ],
+  "usdc": ["usdc", "bridged-usdc"]
+}
