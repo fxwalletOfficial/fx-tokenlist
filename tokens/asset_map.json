@@ -48,7 +48,8 @@
     "polygon-bridged-usdt-polygon",
     "tether",
     "tether-usd-wormhole-from-ethereum",
-    "unichain-bridged-usdt-unichain"
+    "unichain-bridged-usdt-unichain",
+    "binance-bridged-usdt-bnb-smart-chain"
   ],
   "usdc.e": [
     "bridged-usd-coin-optimism",
