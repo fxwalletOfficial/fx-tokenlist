@@ -1,0 +1,36 @@
+{
+  "name": "fx",
+  "timestamp": "2025-09-04T06:49:39.557Z",
+  "tokens": [
+    {
+      "chainId": 123420001114,
+      "address": "0xB964B32E2d60A11718D4A9C1E27039766cF26348",
+      "name": "CampPepe",
+      "symbol": "CPEPE",
+      "decimals": "18"
+    },
+    {
+      "chainId": 123420001114,
+      "address": "0x3bd5C81a8Adf3355078Dc5F73c41d3194B316690",
+      "name": "Wrapped CAMP",
+      "symbol": "WCAMP",
+      "decimals": "18"
+    },
+    {
+      "chainId": 123420001114,
+      "address": "0x977fdEF62CE095Ae8750Fd3496730F24F60dea7a",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": "18",
+      "logoURI": "https://file.test.fxwallet.com/token/1730361649393-usdc.png"
+    },
+    {
+      "chainId": 123420001114,
+      "address": "0xb55066f2793773B3784f8c57c415a8b5932B33Cd",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": "18"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}

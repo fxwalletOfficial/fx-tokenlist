@@ -1,0 +1,29 @@
+{
+  "name": "fx",
+  "timestamp": "2025-09-04T06:51:43.970Z",
+  "tokens": [
+    {
+      "chainId": 1440000,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "XRP",
+      "symbol": "XRP",
+      "decimals": "18"
+    },
+    {
+      "chainId": 1440000,
+      "address": "0xa16148c6Ac9EDe0D82f0c52899e22a575284f131",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": "6",
+      "logoURI": "https://file.test.fxwallet.com/token/1730361649393-usdc.png"
+    },
+    {
+      "chainId": 1440000,
+      "address": "0x6a90E3aAB217b732Fa92f1678e41c4d18bcd6eD9",
+      "name": "PEPE",
+      "symbol": "PEPE",
+      "decimals": "18"
+    }
+  ],
+  "version": { "minor": 1, "patch": 0 }
+}
