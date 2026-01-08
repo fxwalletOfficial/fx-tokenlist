@@ -49,7 +49,8 @@
     "tether",
     "tether-usd-wormhole-from-ethereum",
     "unichain-bridged-usdt-unichain",
-    "binance-bridged-usdt-bnb-smart-chain"
+    "binance-bridged-usdt-bnb-smart-chain",
+    "usdt0"
   ],
   "usdc.e": [
     "bridged-usd-coin-optimism",
