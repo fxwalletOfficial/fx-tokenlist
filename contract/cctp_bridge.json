@@ -8,14 +8,6 @@
       "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
       "destinationDomain": 0
     },
-    "5042002": {
-      "chainId": 5042002,
-      "chainName": "Arc Testnet",
-      "usdcAddress": "0x3600000000000000000000000000000000000000",
-      "tokenMessenger": "0x8FE6B999Dc680CcFDD5Bf7EB0974218be2542DAA",
-      "messageTransmitter": "0xE737e5cEBEEBa77EFE34D4aa090756590b1CE275",
-      "destinationDomain": 26
-    },
     "43113": {
       "chainId": 43113,
       "chainName": "Avalanche Fuji",
@@ -31,14 +23,6 @@
       "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
       "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
       "destinationDomain": 6
-    },
-    "14601": {
-      "chainId": 14601,
-      "chainName": "Sonic Testnet",
-      "usdcAddress": "0x0BA304580ee7c9a980CF72e55f5Ed2E9fd30Bc51",
-      "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
-      "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
-      "destinationDomain": 13
     },
     "59141": {
       "chainId": 59141,
@@ -56,14 +40,6 @@
       "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
       "destinationDomain": 3
     },
-    "4801": {
-      "chainId": 4801,
-      "chainName": "Worldchain Sepolia",
-      "usdcAddress": "0x66145f38cBAC35Ca6F1Dfb4914dF98F1614aeA88",
-      "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
-      "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
-      "destinationDomain": 14
-    },
     "11155420": {
       "chainId": 11155420,
       "chainName": "Optimism Sepolia",
@@ -80,14 +56,6 @@
       "messageTransmitter": "CCTPV2Sm4AdWt5296sk4P66VBZ7bEhcARwFaaS9YPbeC",
       "destinationDomain": 5
     },
-    "812242": {
-      "chainId": 812242,
-      "chainName": "Codex Testnet",
-      "usdcAddress": "0x6d7f141b6819C2c9CC2f818e6ad549E7Ca090F8f",
-      "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
-      "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
-      "destinationDomain": 12
-    },
     "1301": {
       "chainId": 1301,
       "chainName": "Unichain Sepolia",
@@ -95,30 +63,6 @@
       "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
       "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
       "destinationDomain": 10
-    },
-    "80002": {
-      "chainId": 80002,
-      "chainName": "Polygon Amoy",
-      "usdcAddress": "0x41E94Eb019C0762f9Bfcf9Fb1E58725BfB0e7582",
-      "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
-      "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
-      "destinationDomain": 7
-    },
-    "1328": {
-      "chainId": 1328,
-      "chainName": "Sei Testnet",
-      "usdcAddress": "0x4fCF1784B31630811181f670Aea7A7bEF803eaED",
-      "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
-      "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
-      "destinationDomain": 16
-    },
-    "51": {
-      "chainId": 51,
-      "chainName": "XDC Testnet",
-      "usdcAddress": "0xb5AB69F7bBada22B28e79C8FFAECe55eF1c771D4",
-      "tokenMessenger": "0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa",
-      "messageTransmitter": "0xe737e5cebeeba77efe34d4aa090756590b1ce275",
-      "destinationDomain": 18
     },
     "98867": {
       "chainId": 98867,
@@ -202,10 +146,10 @@
       "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
       "destinationDomain": 7
     },
-    "1301": {
-      "chainId": 1301,
+    "130": {
+      "chainId": 130,
       "chainName": "Unichain",
-      "usdcAddress": "0x484C6eEe61ecfd23b43C6986ff98E0aaD53F6fE8",
+      "usdcAddress": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
       "tokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
       "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
       "destinationDomain": 10
@@ -217,14 +161,6 @@
       "tokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
       "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
       "destinationDomain": 11
-    },
-    "62050": {
-      "chainId": 62050,
-      "chainName": "Codex",
-      "usdcAddress": "0xd996633a415985DBd7D6D12f4A4343E31f5037cf",
-      "tokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
-      "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
-      "destinationDomain": 12
     },
     "146": {
       "chainId": 146,
@@ -242,8 +178,8 @@
       "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
       "destinationDomain": 14
     },
-    "41455": {
-      "chainId": 41455,
+    "143": {
+      "chainId": 143,
       "chainName": "Monad",
       "usdcAddress": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
       "tokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
@@ -258,16 +194,8 @@
       "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
       "destinationDomain": 16
     },
-    "50": {
-      "chainId": 50,
-      "chainName": "XDC",
-      "usdcAddress": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
-      "tokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
-      "messageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
-      "destinationDomain": 18
-    },
-    "998": {
-      "chainId": 998,
+    "999": {
+      "chainId": 999,
       "chainName": "HyperEVM",
       "usdcAddress": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
       "tokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
